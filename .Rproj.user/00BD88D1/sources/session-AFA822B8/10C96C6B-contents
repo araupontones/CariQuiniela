@@ -1,0 +1,12 @@
+ url_year <- "https://fbref.com/en/squads/123acaf8/2014/Ecuador-Men-Stats"
+
+ website <- read_html(url_year)
+ 
+ #Fixture (all matches in that year)-------------------------------------------------
+ fixture <- website %>%
+   html_element("#matchlogs_for")
+   html_table() 
+
+ fixture 
+
+length(fixture) 
