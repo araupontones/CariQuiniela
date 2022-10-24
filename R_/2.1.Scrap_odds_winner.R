@@ -47,7 +47,7 @@ ways_ <- as.character(ways[1,-1])
 
 
 
-
+eval(parse(text = "2/3"))
 #names of the bet companies ----------------------------------------
 names_houses <- website %>%
   html_elements(".bk-logo-main-90") %>%
@@ -61,7 +61,7 @@ house_ <- names_houses[1:length(ways_)]
 
 #combine company with ways
 house_ways <- paste(house_, ways_, sep = "-")
-#add country to the names
+#add country to the namesgi
 col_names <- c("country", house_ways)
 names(odds_table) <- col_names
 
