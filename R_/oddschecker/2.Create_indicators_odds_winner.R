@@ -34,7 +34,7 @@ odds_clean <- odds_raw %>%
 #create mean of odds to win the WC by team ------------------------------------
 
 odds_ind <- odds_clean %>%
-  #remove winonly because we dont know what it is
+  #remove winonly because we dont know what it iscd 
   select(-ends_with("Winonly")) %>%
   pivot_longer(-team,
                values_to = "odd_win") %>%
