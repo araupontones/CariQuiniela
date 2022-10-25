@@ -16,7 +16,7 @@ library(dplyr)
 indir <- "data/1.lookups"
 infile <- file.path(indir, "teams_urls.csv")
 
-exdir <- "data/2.scrapped"
+exdir <- "data/2.scrapped/fbref"
 exfile <- file.path(exdir,"All_competitions.csv")
 
 

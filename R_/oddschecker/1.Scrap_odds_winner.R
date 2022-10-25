@@ -18,13 +18,17 @@ website <- read_html(url)
 
 #read table of odds -----------------------------------------------------------
 
-odds_table <- website %>%
+odds_table_frac <- website %>%
   rvest::html_elements("table") %>%
   html_elements("tbody") %>%
   html_table() %>%
   .[[1]] %>%
-  janitor::remove_empty(which = "cols")
+  janitor::remove_empty(which = "cols") 
 
+#transform fractions to decimals
+#Skip if country
+skip <- odds_table_frac$X1
+odds_table<- apply(odds_table_frac, c(1, 2), function(x) if(x %in% skip){x} else {eval(parse(text = x))}) %>% as.data.frame()
 
 
 
@@ -47,7 +51,7 @@ ways_ <- as.character(ways[1,-1])
 
 
 
-eval(parse(text = "2/3"))
+
 #names of the bet companies ----------------------------------------
 names_houses <- website %>%
   html_elements(".bk-logo-main-90") %>%
@@ -64,6 +68,7 @@ house_ways <- paste(house_, ways_, sep = "-")
 #add country to the namesgi
 col_names <- c("country", house_ways)
 names(odds_table) <- col_names
+
 
 #================================================================================
 #export 
