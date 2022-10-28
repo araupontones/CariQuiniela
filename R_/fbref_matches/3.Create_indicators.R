@@ -48,6 +48,7 @@ db_matches <- all_comps %>%
 indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutral")){
   
   .data %>%
+    #keep only venue of interest
   filter(Venue %in% venues) %>%
   group_by(team, year) %>%
   summarise("matches" := n(),
@@ -62,6 +63,10 @@ indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutra
             "Gdiff" = GF - GA,
             .groups = 'drop'
   ) %>%
+    #normalized by the number of matches played
+    mutate(across(-c(team, year, starts_with("matches"), efectividad), ~ .x/matches, .names = "nrm_{.col}")) %>%
+    relocate(year, team, starts_with("matches"), GF, GA, Gdiff) %>%
+    #rename variables based on the venue played
     rename_at(vars(-c("team", "year")), function(x)paste(prefix,x, sep = "_"))
   
 }
@@ -71,9 +76,10 @@ indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutra
 # function to loop over all the venue types to create indicators --------------
 create_data_year <- function(.data, venues = c("Away", "Home", "Neutral")){
   
+  #all games
   all_ <- indicators_matches(.data, prefix = "all", venues )
   
-  #create indicators by year and country
+  #games by venue
   my_list <- lapply(venues, function(v){
     
     print(v)
@@ -82,8 +88,9 @@ create_data_year <- function(.data, venues = c("Away", "Home", "Neutral")){
     
   })
   
-  appended <- plyr::join_all(my_list, by = c("team", "year"))
-  appended <- left_join(all_, appended, by = c("team", "year"))
+  #append data
+  appended_venues <- plyr::join_all(my_list, by = c("team", "year"))
+  appended <- left_join(all_, appended_venues, by = c("team", "year"))
   
 }
 
