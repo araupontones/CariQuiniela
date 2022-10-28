@@ -5,7 +5,7 @@ library(rio)
 library(stringr)
 library(janitor)
 
-indir <- "data/2.scrapped"
+indir <- "data/2.scrapped/fbref"
 #all_competitions.csv is created in R_/scrap_games_teams.R
 infile <- file.path(indir,"All_competitions.csv")
 
@@ -38,29 +38,62 @@ db_matches <- all_comps %>%
 
          
 
- 
 
-#Define indicators by year and country ---------------------------------------
 
-data_year_team <- db_matches %>%
-  #create indicators by team and year
+
+#==============================================================================
+# Data of teams by year (indicators by Away, Home, Neutral and all matches)
+
+# Function to create indicators at the different venue -------------------------
+indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutral")){
+  
+  .data %>%
+  filter(Venue %in% venues) %>%
   group_by(team, year) %>%
-  summarise(matches = n(),
-            matches_win = sum(Result == "W"),
-            matches_lost = sum(Result == "L"),
-            matches_drawn = sum(Result == "D"),
-            efectividad = matches_win/matches,
-            fail_GF = sum(GF == 0),
-            fail_GA = sum(GF == 0),
-            GF = sum(GF),
-            GA = sum(GA),
-            Gdiff = GF - GA,
+  summarise("matches" := n(),
+            "matches_win" := sum(Result == "W"),
+            "matches_lost" := sum(Result == "L"),
+            "matches_drawn" := sum(Result == "D"),
+            "efectividad" := matches_win/matches,
+            "fail_GF" := sum(GF == 0),
+            "fail_GA" := sum(GF == 0),
+            "GF" := sum(GF),
+            "GA" := sum(GA),
+            "Gdiff" = GF - GA,
             .groups = 'drop'
-            ) %>%
-  #norm indicators by number of matches played
-  mutate(across(-c(team, year, starts_with("matches"), efectividad), ~ .x/matches, .names = "nrm_{.col}")) %>%
-  relocate(year, team, starts_with("matches"), GF, GA, Gdiff)
+  ) %>%
+    rename_at(vars(-c("team", "year")), function(x)paste(prefix,x, sep = "_"))
+  
+}
 
+
+
+# function to loop over all the venue types to create indicators --------------
+create_data_year <- function(.data, venues = c("Away", "Home", "Neutral")){
+  
+  all_ <- indicators_matches(.data, prefix = "all", venues )
+  
+  #create indicators by year and country
+  my_list <- lapply(venues, function(v){
+    
+    print(v)
+    my_data <- indicators_matches(.data, prefix = v, venues = v)
+    
+    
+  })
+  
+  appended <- plyr::join_all(my_list, by = c("team", "year"))
+  appended <- left_join(all_, appended, by = c("team", "year"))
+  
+}
+
+
+
+# create data at the team and year level --------------------------------------
+data_year_team <- create_data_year(db_matches)
+
+
+View(data_year_team)
 
 #===============================================================================
 #export data====================================================================
