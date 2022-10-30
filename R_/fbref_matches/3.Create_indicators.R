@@ -8,6 +8,7 @@ library(janitor)
 indir <- "data/2.scrapped/fbref"
 #all_competitions.csv is created in R_/scrap_games_teams.R
 infile <- file.path(indir,"All_competitions.csv")
+look_up <- import("data/1.lookups/teams_urls.csv") %>% select(team, id)
 
 #Exit paths ---------------------------------------------------------------------
 exdir <- "data/3.clean"
@@ -29,15 +30,38 @@ db_matches <- all_comps %>%
   mutate(across(c(GF, GA) , function(x) as.numeric(str_replace(x, "\\([0-9]\\)",""))),
          year = str_sub(Date,1,4),
          Opponent = str_remove(Opponent, "^[a-z][a-z] ")
-         ) %>%
+  ) %>%
   select(year, team, Opponent, Date,Time, Comp, Day, Venue, Result, GF, GA) %>%
   #remove duplicates (there were some duplicated matches while scrapping)
-  distinct()
+  distinct() %>%
+  #id match 
+  left_join(look_up, by = "team") %>%
+  rename(id_team = id) %>%
+  left_join(look_up, by = c("Opponent"= "team")) %>%
+  rename(id_opponent = id) %>%
+  rowwise() %>%
+  #get id of match by combining the ID of the two teams
+  mutate(id_match = paste(sort(c(id_team, id_opponent)), collapse =  "-"),
+         id_match = paste(id_match, Date, sep = "-")) %>%
+  ungroup()
 
 
-
-         
-
+#transform matches as local vs visitante format ------------------------------
+#this is the data to be exported
+db_matches_unique <- db_matches %>% group_by(id_match) %>% 
+  arrange(id_match) %>%
+  #only keep home and neutral matches to capture goles local and goles visitante
+  filter(Venue %in% c("Home", "Neutral")) %>%
+  slice(1) %>%
+  mutate(
+   goles_local = GF,
+   goles_visitante = GA,
+   neutral = Venue == "Neutral",
+   .after = "GA"
+    
+  ) %>%
+  ungroup() %>%
+  select(-c(Venue, Result, GF, GA, starts_with("id_")))
 
 
 
@@ -49,20 +73,20 @@ indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutra
   
   .data %>%
     #keep only venue of interest
-  filter(Venue %in% venues) %>%
-  group_by(team, year) %>%
-  summarise("matches" := n(),
-            "matches_win" := sum(Result == "W"),
-            "matches_lost" := sum(Result == "L"),
-            "matches_drawn" := sum(Result == "D"),
-            "efectividad" := matches_win/matches,
-            "fail_GF" := sum(GF == 0),
-            "fail_GA" := sum(GF == 0),
-            "GF" := sum(GF),
-            "GA" := sum(GA),
-            "Gdiff" = GF - GA,
-            .groups = 'drop'
-  ) %>%
+    filter(Venue %in% venues) %>%
+    group_by(team, year) %>%
+    summarise("matches" := n(),
+              "matches_win" := sum(Result == "W"),
+              "matches_lost" := sum(Result == "L"),
+              "matches_drawn" := sum(Result == "D"),
+              "efectividad" := matches_win/matches,
+              "fail_GF" := sum(GF == 0),
+              "fail_GA" := sum(GF == 0),
+              "GF" := sum(GF),
+              "GA" := sum(GA),
+              "Gdiff" = GF - GA,
+              .groups = 'drop'
+    ) %>%
     #normalized by the number of matches played
     mutate(across(-c(team, year, starts_with("matches"), efectividad), ~ .x/matches, .names = "nrm_{.col}")) %>%
     relocate(year, team, starts_with("matches"), GF, GA, Gdiff) %>%
@@ -100,10 +124,10 @@ create_data_year <- function(.data, venues = c("Away", "Home", "Neutral")){
 data_year_team <- create_data_year(db_matches)
 
 
-View(data_year_team)
+
 
 #===============================================================================
 #export data====================================================================
 
-export(db_matches, exfile_matches)
+export(db_matches_unique, exfile_matches)
 export(data_year_team, exfile_year_team)

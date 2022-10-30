@@ -1,7 +1,7 @@
 #Scrap urls of teams
 # Each team has its own url in fbref
 #Thus, go to the WC site and scrap the table of each group to get the teams name and url
-
+library(dplyr)
 library(httr)
 library(rvest)
 library(tibble)
@@ -48,7 +48,11 @@ teams_pages <- tibble(
          id_country = gsub("\\/2022","", id_country),
          label_country = str_replace(team, " ", "-"),
          url = glue::glue("https://fbref.com/en/squads/{id_country}/2022/{label_country}-Men-Stats")
-         )
+         ) %>%
+  arrange(team) %>%
+  mutate( id = case_when(row_number() <= 9 ~ paste0("0", row_number()),
+                         T ~ as.character(row_number())
+  ))
 
 
 

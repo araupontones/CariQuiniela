@@ -1,33 +1,33 @@
-team,url,id_country,label_country
-Ecuador,https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats,123acaf8,Ecuador
-Netherlands,https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats,5bb5024a,Netherlands
-Senegal,https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats,9ab5c684,Senegal
-Qatar,https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats,9b696ed1,Qatar
-England,https://fbref.com/en/squads/1862c019/2022/England-Men-Stats,1862c019,England
-IR Iran,https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats,6a08f71e,IR-Iran
-United States,https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats,0f66725b,United-States
-Wales,https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats,b1bbcad3,Wales
-Argentina,https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats,f9fddd6e,Argentina
-Mexico,https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats,b009a548,Mexico
-Poland,https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats,8912dcf0,Poland
-Saudi Arabia,https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats,6e84edac,Saudi-Arabia
-Australia,https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats,b90bf4f9,Australia
-Denmark,https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats,29a4e4af,Denmark
-France,https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats,b1b36dcd,France
-Tunisia,https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats,a7c7562a,Tunisia
-Costa Rica,https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats,1ea5ab66,Costa-Rica
-Germany,https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats,c1e40422,Germany
-Japan,https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats,ffcf1690,Japan
-Spain,https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats,b561dd30,Spain
-Belgium,https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats,361422b9,Belgium
-Canada,https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats,9c6d90a0,Canada
-Croatia,https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats,7b08e376,Croatia
-Morocco,https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats,af41ccda,Morocco
-Brazil,https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats,304635c3,Brazil
-Cameroon,https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats,896550da,Cameroon
-Serbia,https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats,1d6f5c9b,Serbia
-Switzerland,https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats,81021a70,Switzerland
-Ghana,https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats,9349828d,Ghana
-Korea Republic,https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats,473f0fbf,Korea-Republic
-Portugal,https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats,4a1b4ea8,Portugal
-Uruguay,https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats,870e020f,Uruguay
+team,url,id_country,label_country,id
+Argentina,https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats,f9fddd6e,Argentina,01
+Australia,https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats,b90bf4f9,Australia,02
+Belgium,https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats,361422b9,Belgium,03
+Brazil,https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats,304635c3,Brazil,04
+Cameroon,https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats,896550da,Cameroon,05
+Canada,https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats,9c6d90a0,Canada,06
+Costa Rica,https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats,1ea5ab66,Costa-Rica,07
+Croatia,https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats,7b08e376,Croatia,08
+Denmark,https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats,29a4e4af,Denmark,09
+Ecuador,https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats,123acaf8,Ecuador,10
+England,https://fbref.com/en/squads/1862c019/2022/England-Men-Stats,1862c019,England,11
+France,https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats,b1b36dcd,France,12
+Germany,https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats,c1e40422,Germany,13
+Ghana,https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats,9349828d,Ghana,14
+IR Iran,https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats,6a08f71e,IR-Iran,15
+Japan,https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats,ffcf1690,Japan,16
+Korea Republic,https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats,473f0fbf,Korea-Republic,17
+Mexico,https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats,b009a548,Mexico,18
+Morocco,https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats,af41ccda,Morocco,19
+Netherlands,https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats,5bb5024a,Netherlands,20
+Poland,https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats,8912dcf0,Poland,21
+Portugal,https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats,4a1b4ea8,Portugal,22
+Qatar,https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats,9b696ed1,Qatar,23
+Saudi Arabia,https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats,6e84edac,Saudi-Arabia,24
+Senegal,https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats,9ab5c684,Senegal,25
+Serbia,https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats,1d6f5c9b,Serbia,26
+Spain,https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats,b561dd30,Spain,27
+Switzerland,https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats,81021a70,Switzerland,28
+Tunisia,https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats,a7c7562a,Tunisia,29
+United States,https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats,0f66725b,United-States,30
+Uruguay,https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats,870e020f,Uruguay,31
+Wales,https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats,b1bbcad3,Wales,32
