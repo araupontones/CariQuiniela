@@ -50,18 +50,26 @@ db_matches <- all_comps %>%
 #this is the data to be exported
 db_matches_unique <- db_matches %>% group_by(id_match) %>% 
   arrange(id_match) %>%
+  mutate(Venue = ifelse(is.na(id_opponent) & Venue == "Away", "awayNoWC", Venue)) %>%
   #only keep home and neutral matches to capture goles local and goles visitante
-  filter(Venue %in% c("Home", "Neutral")) %>%
+  filter(Venue %in% c("Home", "Neutral", "awayNoWC")) %>%
   slice(1) %>%
-  mutate(
-   goles_local = GF,
-   goles_visitante = GA,
-   neutral = Venue == "Neutral",
-   .after = "GA"
-    
-  ) %>%
+  #correct for teams that are not going to the WC
+  mutate(bucket = team,
+         team = ifelse(Venue == "awayNoWC", Opponent, team),
+         Opponent = ifelse(Venue == "awayNoWC", bucket, Opponent),
+         goles_local = case_when(Venue == "awayNoWC" ~ GA,
+                                 T ~ GF),
+         goles_visitante = case_when(Venue == "awayNoWC" ~ GF,
+                                     T ~ GA),
+         neutral = Venue == "Neutral",
+         .after = "GA"
+         ) %>%
+  select(-bucket) %>%
   ungroup() %>%
-  select(-c(Venue, Result, GF, GA, starts_with("id_")))
+  select(-c(Venue, Result, GF, GA, starts_with("id_"))) %>%
+  arrange(Date)
+  
 
 
 
