@@ -5,9 +5,11 @@ library(rio)
 library(stringr)
 library(janitor)
 
+message("Cleaning matches played .....")
 indir <- "data/2.scrapped/fbref"
 #all_competitions.csv is created in R_/scrap_games_teams.R
-infile <- file.path(indir,"All_competitions.csv")
+infile_WC <-  file.path(indir,"WC_matches.csv")
+infile_all <- file.path(indir,"All_competitions.csv")
 look_up <- import("data/1.lookups/teams_urls.csv") %>% select(team, id)
 
 #Exit paths ---------------------------------------------------------------------
@@ -17,21 +19,27 @@ exfile_year_team <-file.path(exdir, "ind_teams_year.csv")
 
 
 #read scrapped data ----------------------------------------------------------
-all_comps <- import(infile)
+all_comps <- import(infile_all) %>% mutate(qatar = FALSE)  %>% filter(GF != "")
+wc <- import(infile_WC)
+
+
 
 
 #Clean table of all matches & define year variable ---------------------------
 
 
 db_matches <- all_comps %>%
-  #drop not played matches (these are matches to be played in the future)
-  filter(GF != "") %>%
+  #select only variables that match with the WC matches
+  select(names(wc)) %>%
+  rbind(wc) %>%
   #drop penalties in drawn matches, penalties are reported within parenthesis.
   mutate(across(c(GF, GA) , function(x) as.numeric(str_replace(x, "\\([0-9]\\)",""))),
          year = str_sub(Date,1,4),
-         Opponent = str_remove(Opponent, "^[a-z][a-z] ")
+         #remove iso2 and iso 3 from Opponent's name
+         Opponent = str_remove(Opponent, "^[a-z][a-z] "),
+         Opponent = str_remove(Opponent, "^[a-z][a-z][a-z] ")
   ) %>%
-  select(year, team, Opponent, Date,Time, Comp, Day, Venue, Result, GF, GA) %>%
+  select(year, team, Opponent, Date,Time, Comp, Day, Venue, Result, GF, GA, qatar) %>%
   #remove duplicates (there were some duplicated matches while scrapping)
   distinct() %>%
   #id match 
@@ -68,7 +76,7 @@ db_matches_unique <- db_matches %>% group_by(id_match) %>%
   select(-bucket) %>%
   ungroup() %>%
   select(-c(Venue, Result, GF, GA, starts_with("id_"))) %>%
-  arrange(Date)
+  arrange(desc(Date))
   
 
 
@@ -83,6 +91,7 @@ indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutra
     #keep only venue of interest
     filter(Venue %in% venues) %>%
     group_by(team, year) %>%
+    filter(!is.na(GF)) %>%
     summarise("matches" := n(),
               "matches_win" := sum(Result == "W"),
               "matches_lost" := sum(Result == "L"),
@@ -132,10 +141,9 @@ create_data_year <- function(.data, venues = c("Away", "Home", "Neutral")){
 data_year_team <- create_data_year(db_matches)
 
 
-
-
 #===============================================================================
 #export data====================================================================
 
 export(db_matches_unique, exfile_matches)
 export(data_year_team, exfile_year_team)
+message("Matches are cleaned!")

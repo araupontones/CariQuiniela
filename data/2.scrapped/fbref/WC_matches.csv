@@ -1,0 +1,97 @@
+team,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Attendance,Captain,Referee,qatar
+Argentina,2022-11-22,13:00,World Cup,Group stage,Tue,Neutral,"",,,sa Saudi Arabia,"","","",TRUE
+Argentina,2022-11-26,22:00,World Cup,Group stage,Sat,Neutral,"",,,mx Mexico,"","","",TRUE
+Argentina,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,"",,,pl Poland,"","","",TRUE
+Australia,2022-11-22,22:00,World Cup,Group stage,Tue,Neutral,"","","",fr France,"","","",TRUE
+Australia,2022-11-26,13:00,World Cup,Group stage,Sat,Neutral,"","","",tn Tunisia,"","","",TRUE
+Australia,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,"","","",dk Denmark,"","","",TRUE
+Belgium,2022-11-23,22:00,World Cup,Group stage,Wed,Neutral,"",,,ca Canada,"","","",TRUE
+Belgium,2022-11-27,16:00,World Cup,Group stage,Sun,Neutral,"",,,ma Morocco,"","","",TRUE
+Belgium,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,"",,,hr Croatia,"","","",TRUE
+Brazil,2022-11-24,22:00,World Cup,Group stage,Thu,Neutral,"",,,rs Serbia,"","","",TRUE
+Brazil,2022-11-28,19:00,World Cup,Group stage,Mon,Neutral,"",,,ch Switzerland,"","","",TRUE
+Brazil,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,"",,,cm Cameroon,"","","",TRUE
+Cameroon,2022-11-24,13:00,World Cup,Group stage,Thu,Neutral,"","","",ch Switzerland,,"","",TRUE
+Cameroon,2022-11-28,13:00,World Cup,Group stage,Mon,Neutral,"","","",rs Serbia,,"","",TRUE
+Cameroon,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,"","","",br Brazil,,"","",TRUE
+Canada,2022-11-23,22:00,World Cup,Group stage,Wed,Neutral,"",,,be Belgium,"","","",TRUE
+Canada,2022-11-27,19:00,World Cup,Group stage,Sun,Neutral,"",,,hr Croatia,"","","",TRUE
+Canada,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,"",,,ma Morocco,"","","",TRUE
+Costa Rica,2022-11-23,19:00,World Cup,Group stage,Wed,Neutral,"",,,es Spain,"","","",TRUE
+Costa Rica,2022-11-27,13:00,World Cup,Group stage,Sun,Neutral,"",,,jp Japan,"","","",TRUE
+Costa Rica,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,"",,,de Germany,"","","",TRUE
+Croatia,2022-11-23,13:00,World Cup,Group stage,Wed,Neutral,"",,,ma Morocco,"","","",TRUE
+Croatia,2022-11-27,19:00,World Cup,Group stage,Sun,Neutral,"",,,ca Canada,"","","",TRUE
+Croatia,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,"",,,be Belgium,"","","",TRUE
+Denmark,2022-11-22,16:00,World Cup,Group stage,Tue,Neutral,"",,,tn Tunisia,"","","",TRUE
+Denmark,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,"",,,fr France,"","","",TRUE
+Denmark,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,"",,,au Australia,"","","",TRUE
+Ecuador,2022-11-20,19:00,World Cup,Group stage,Sun,Neutral,"",,,qa Qatar,"","","",TRUE
+Ecuador,2022-11-25,19:00,World Cup,Group stage,Fri,Neutral,"",,,nl Netherlands,"","","",TRUE
+Ecuador,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,"",,,sn Senegal,"","","",TRUE
+England,2022-11-21,16:00,World Cup,Group stage,Mon,Neutral,"",,,ir IR Iran,"","","",TRUE
+England,2022-11-25,22:00,World Cup,Group stage,Fri,Neutral,"",,,us United States,"","","",TRUE
+England,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,"",,,wls Wales,"","","",TRUE
+France,2022-11-22,22:00,World Cup,Group stage,Tue,Neutral,"",,,au Australia,"","","",TRUE
+France,2022-11-26,19:00,World Cup,Group stage,Sat,Neutral,"",,,dk Denmark,"","","",TRUE
+France,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,"",,,tn Tunisia,"","","",TRUE
+Germany,2022-11-23,16:00,World Cup,Group stage,Wed,Neutral,"",,,jp Japan,"","","",TRUE
+Germany,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,"",,,es Spain,"","","",TRUE
+Germany,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,"",,,cr Costa Rica,"","","",TRUE
+Ghana,2022-11-24,19:00,World Cup,Group stage,Thu,Neutral,"",,,pt Portugal,"","","",TRUE
+Ghana,2022-11-28,16:00,World Cup,Group stage,Mon,Neutral,"",,,kr Korea Republic,"","","",TRUE
+Ghana,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,"",,,uy Uruguay,"","","",TRUE
+IR Iran,2022-11-21,16:00,World Cup,Group stage,Mon,Neutral,"",,,eng England,"","","",TRUE
+IR Iran,2022-11-25,13:00,World Cup,Group stage,Fri,Neutral,"",,,wls Wales,"","","",TRUE
+IR Iran,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,"",,,us United States,"","","",TRUE
+Japan,2022-11-23,16:00,World Cup,Group stage,Wed,Neutral,"",,,de Germany,"","","",TRUE
+Japan,2022-11-27,13:00,World Cup,Group stage,Sun,Neutral,"",,,cr Costa Rica,"","","",TRUE
+Japan,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,"",,,es Spain,"","","",TRUE
+Korea Republic,2022-11-24,16:00,World Cup,Group stage,Thu,Neutral,"",,,uy Uruguay,"","","",TRUE
+Korea Republic,2022-11-28,16:00,World Cup,Group stage,Mon,Neutral,"",,,gh Ghana,"","","",TRUE
+Korea Republic,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,"",,,pt Portugal,"","","",TRUE
+Mexico,2022-11-22,19:00,World Cup,Group stage,Tue,Neutral,"",,,pl Poland,"","","",TRUE
+Mexico,2022-11-26,22:00,World Cup,Group stage,Sat,Neutral,"",,,ar Argentina,"","","",TRUE
+Mexico,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,"",,,sa Saudi Arabia,"","","",TRUE
+Morocco,2022-11-23,13:00,World Cup,Group stage,Wed,Neutral,"",,,hr Croatia,"","","",TRUE
+Morocco,2022-11-27,16:00,World Cup,Group stage,Sun,Neutral,"",,,be Belgium,"","","",TRUE
+Morocco,2022-12-01,18:00,World Cup,Group stage,Thu,Neutral,"",,,ca Canada,"","","",TRUE
+Netherlands,2022-11-21,19:00,World Cup,Group stage,Mon,Neutral,"",,,sn Senegal,"","","",TRUE
+Netherlands,2022-11-25,19:00,World Cup,Group stage,Fri,Neutral,"",,,ec Ecuador,"","","",TRUE
+Netherlands,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,"",,,qa Qatar,"","","",TRUE
+Poland,2022-11-22,19:00,World Cup,Group stage,Tue,Neutral,"",,,mx Mexico,"","","",TRUE
+Poland,2022-11-26,16:00,World Cup,Group stage,Sat,Neutral,"",,,sa Saudi Arabia,"","","",TRUE
+Poland,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,"",,,ar Argentina,"","","",TRUE
+Portugal,2022-11-24,19:00,World Cup,Group stage,Thu,Neutral,"",,,gh Ghana,"","","",TRUE
+Portugal,2022-11-28,22:00,World Cup,Group stage,Mon,Neutral,"",,,uy Uruguay,"","","",TRUE
+Portugal,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,"",,,kr Korea Republic,"","","",TRUE
+Qatar,2022-11-20,19:00,World Cup,Group stage,Sun,Neutral,"",,,ec Ecuador,"","","",TRUE
+Qatar,2022-11-25,16:00,World Cup,Group stage,Fri,Neutral,"",,,sn Senegal,"","","",TRUE
+Qatar,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,"",,,nl Netherlands,"","","",TRUE
+Saudi Arabia,2022-11-22,13:00,World Cup,Group stage,Tue,Neutral,"",,,ar Argentina,"","","",TRUE
+Saudi Arabia,2022-11-26,16:00,World Cup,Group stage,Sat,Neutral,"",,,pl Poland,"","","",TRUE
+Saudi Arabia,2022-11-30,22:00,World Cup,Group stage,Wed,Neutral,"",,,mx Mexico,"","","",TRUE
+Senegal,2022-11-21,19:00,World Cup,Group stage,Mon,Neutral,"","","",nl Netherlands,"","","",TRUE
+Senegal,2022-11-25,16:00,World Cup,Group stage,Fri,Neutral,"","","",qa Qatar,"","","",TRUE
+Senegal,2022-11-29,18:00,World Cup,Group stage,Tue,Neutral,"","","",ec Ecuador,"","","",TRUE
+Serbia,2022-11-24,22:00,World Cup,Group stage,Thu,Neutral,"",,,br Brazil,"","","",TRUE
+Serbia,2022-11-28,13:00,World Cup,Group stage,Mon,Neutral,"",,,cm Cameroon,"","","",TRUE
+Serbia,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,"",,,ch Switzerland,"","","",TRUE
+Spain,2022-11-23,19:00,World Cup,Group stage,Wed,Neutral,"",,,cr Costa Rica,"","","",TRUE
+Spain,2022-11-27,22:00,World Cup,Group stage,Sun,Neutral,"",,,de Germany,"","","",TRUE
+Spain,2022-12-01,22:00,World Cup,Group stage,Thu,Neutral,"",,,jp Japan,"","","",TRUE
+Switzerland,2022-11-24,13:00,World Cup,Group stage,Thu,Neutral,"",,,cm Cameroon,"","","",TRUE
+Switzerland,2022-11-28,19:00,World Cup,Group stage,Mon,Neutral,"",,,br Brazil,"","","",TRUE
+Switzerland,2022-12-02,22:00,World Cup,Group stage,Fri,Neutral,"",,,rs Serbia,"","","",TRUE
+Tunisia,2022-11-22,16:00,World Cup,Group stage,Tue,Neutral,"",,,dk Denmark,,"","",TRUE
+Tunisia,2022-11-26,13:00,World Cup,Group stage,Sat,Neutral,"",,,au Australia,,"","",TRUE
+Tunisia,2022-11-30,18:00,World Cup,Group stage,Wed,Neutral,"",,,fr France,,"","",TRUE
+United States,2022-11-21,22:00,World Cup,Group stage,Mon,Neutral,"",,,wls Wales,"","","",TRUE
+United States,2022-11-25,22:00,World Cup,Group stage,Fri,Neutral,"",,,eng England,"","","",TRUE
+United States,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,"",,,ir IR Iran,"","","",TRUE
+Uruguay,2022-11-24,16:00,World Cup,Group stage,Thu,Neutral,"",,,kr Korea Republic,"","","",TRUE
+Uruguay,2022-11-28,22:00,World Cup,Group stage,Mon,Neutral,"",,,pt Portugal,"","","",TRUE
+Uruguay,2022-12-02,18:00,World Cup,Group stage,Fri,Neutral,"",,,gh Ghana,"","","",TRUE
+Wales,2022-11-21,22:00,World Cup,Group stage,Mon,Neutral,"",,,us United States,"","","",TRUE
+Wales,2022-11-25,13:00,World Cup,Group stage,Fri,Neutral,"",,,ir IR Iran,"","","",TRUE
+Wales,2022-11-29,22:00,World Cup,Group stage,Tue,Neutral,"",,,eng England,"","","",TRUE
