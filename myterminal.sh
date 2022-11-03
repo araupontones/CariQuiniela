@@ -1,5 +1,7 @@
-echo "Pushing to repo"
-git config --global user.email "araupontones@gmail.com"
+
+
+#git config --global user.email "araupontones@gmail.com"
+timestamp=$(date +%c)
 git add .
-git commit -m 'Walle $(date + "%d%B")' 
+git commit -m "Backup at: $timestamp"
 git push origin main
