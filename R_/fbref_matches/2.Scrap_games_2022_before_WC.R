@@ -19,7 +19,7 @@ infile <- file.path(indir, "teams_urls.csv")
 
 
 exdir <- "data/2.scrapped/fbref"
-exfile <- file.path(exdir,"WC_matches.csv")
+exfile <- file.path(exdir,"matches_2022_before_WC.csv")
 
 
 #read urls of teams -----------------------------------------------------------
@@ -47,19 +47,20 @@ read_teams <- lapply(1:nrow(teams_urls), function(i){
     html_element("#matchlogs_for") %>%
     html_table() %>%
     mutate(team = team, 
-           qatar = TRUE) %>%
+           qatar = FALSE) %>%
     relocate(team) %>%
-    filter(Comp == "World Cup") %>%
+    filter(Comp != "World Cup") %>%
     select(-c(`Match Report`, Poss, Notes, Formation)) 
 })
   
  
 
-matches_wc <- do.call(rbind, read_teams) 
+matches_2022 <- do.call(rbind, read_teams) 
   
+
 
 
 
 #export
 
-export(matches_wc,exfile)
+export(matches_2022,exfile)

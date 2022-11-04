@@ -5,10 +5,10 @@ library(httr)
 library(tidyr)
 
 message("requesting odds .....")
-exfile <- 'data/3.clean/ind_ods_winner.csv'
+exfile <- file.path(dir_data,'3.clean/ind_ods_winner.csv')
 
 #look up table to clean countries 
-look_up <- import("data/1.lookups/teams_urls.csv") %>% select(team, id)
+look_up <- import(file.path(dir_data,"1.lookups/teams_urls.csv")) %>% select(team, id)
 
 
 #define token
@@ -39,12 +39,7 @@ list_odds <- lapply(bookmakers, function(x){
 
 #join all odds
 all_ods <- plyr::join_all(list_odds, by = "team") %>%
-  mutate(team = as.character(team),
-    team = case_when(team == "USA" ~ "United States",
-                           team == "Iran" ~ "IR Iran",
-                           team == "South Korea" ~ "Korea Republic",
-                           T ~ team)
-         )
+ clean_teams()
 
 
 #summarise data ---------------------------------------------------------

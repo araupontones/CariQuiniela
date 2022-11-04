@@ -17,14 +17,14 @@ indir <- "data/1.lookups"
 infile <- file.path(indir, "teams_urls.csv")
 
 exdir <- "data/2.scrapped/fbref"
-exfile <- file.path(exdir,"All_competitions.csv")
+exfile <- file.path(exdir,"matches_before_2022.csv")
 
 
 #read urls of teams -----------------------------------------------------------
 teams_urls <- import(infile)
 
 #define years of query
-years <- as.character(seq(2012,2022,1))
+years <- as.character(seq(2012,2021,1))
                       
 
 
