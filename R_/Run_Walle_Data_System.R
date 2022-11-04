@@ -20,7 +20,7 @@ get_proj_dir <- function(){
     my_dir <- getwd()
   } else {
     
-    my_dir = "/home/rstudio/CariQuniela"
+    my_dir = "/home/rstudio/CariQuiniela"
   }
   
 }
