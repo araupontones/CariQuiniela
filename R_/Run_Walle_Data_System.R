@@ -5,6 +5,7 @@ library(rio)
 library(rvest)
 library(tibble)
 library(tidyr)
+library(glue)
 
 #define working directory so linux can run with no problem
 
@@ -52,8 +53,9 @@ source(file.path(dir_r,"request_WC_odds_winners.R"), encoding = "UTF-8")
 
 
 #Commit and push to repo -----------------------------------------------------
-temp_terminal <- rstudioapi::terminalExecute("myterminal.sh")
-rstudioapi::terminalKill(temp_terminal)
+
+#temp_terminal <- rstudioapi::terminalExecute("myterminal.sh")
+#rstudioapi::terminalKill(temp_terminal)
 
 
 
