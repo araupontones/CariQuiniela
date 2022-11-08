@@ -7,11 +7,11 @@ exfile_year_team <- file.path(dir_data, "3.clean/ind_teams_year.csv")
 
 if(sistema == "Windows"){
   
-  pre_wc <- import(file.path(dir_data, "2.1.intermediate/matches_before_WC.rds"))
+  pre_wc <- rio::import(file.path(dir_data, "2.1.intermediate/matches_before_WC.rds"))
   
 } else {
   
-  pre_wc <-"https://github.com/araupontones/CariQuiniela/blob/main/data/2.1.intermediate/matches_before_WC.rds?raw=true"
+  pre_wc <-rio::import("https://github.com/araupontones/CariQuiniela/blob/main/data/2.1.intermediate/matches_before_WC.rds?raw=true")
   
 }
 
