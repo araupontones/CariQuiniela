@@ -1,10 +1,24 @@
 message("Creating indicators and appending WC and  pre matches")
+sistema <- Sys.info()['sysname']
 
 exfile_matches <- file.path(dir_data, "3.clean/ind_all_matches.csv")
 exfile_year_team <- file.path(dir_data, "3.clean/ind_teams_year.csv")
 #import intermediate data
-pre_wc <- import(file.path(dir_data, "2.1.intermediate/matches_before_WC.rds"))
+
+if(sistema == "Windows"){
+  
+  pre_wc <- import(file.path(dir_data, "2.1.intermediate/matches_before_WC.rds"))
+  
+} else {
+  
+  pre_wc <-"https://github.com/araupontones/CariQuiniela/blob/main/data/2.1.intermediate/matches_before_WC.rds?raw=true"
+  
+}
+
 wc <-  import(file.path(dir_data, "2.1.intermediate/WC_matches.rds"))
+
+
+
 
 
 
