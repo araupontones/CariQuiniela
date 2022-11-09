@@ -68,8 +68,10 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,IR Iran,Nicaragua,2022-11-10,,,FALSE
 2022,Saudi Arabia,Panama,2022-11-10,,,FALSE
 2022,Mexico,Iraq,2022-11-09,,,FALSE
+2022,Qatar,Albania,2022-11-09,,,FALSE
+2022,Cameroon,Jamaica,2022-11-09,,,FALSE
 2022,Costa Rica,Nigeria,2022-11-09,,,FALSE
-2022,Saudi Arabia,Iceland,2022-11-06,,,FALSE
+2022,Saudi Arabia,Iceland,2022-11-06,1,0,FALSE
 2022,Qatar,Nicaragua,2022-10-13,2,1,FALSE
 2022,Argentina,Jamaica,2022-09-27,3,0,FALSE
 2022,Ecuador,Japan,2022-09-27,0,0,FALSE
