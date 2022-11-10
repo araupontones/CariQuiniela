@@ -55,7 +55,14 @@ read_teams <- lapply(1:nrow(teams_urls), function(i){
   
  
 
-matches_2022 <- do.call(rbind, read_teams) 
+matches_2022 <- do.call(rbind, read_teams) %>%
+  clean_Opponent(.) %>%
+  clean_teams(.,team) %>%
+  clean_teams(.,Opponent)
+
+
+
+
   
 
 

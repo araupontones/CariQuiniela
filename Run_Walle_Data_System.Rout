@@ -63,6 +63,7 @@ The following objects are masked from ‘package:base’:
 > 
 > #source(file.path(dir_r,"fbref_matches/2.Scrap_games_2022_before_WC.R")) #exports to data/2.scrapped/fbref/matches_2022_before_WC.csv
 > 
+> 
 > #2. Clean matches before the WC
 > 
 > #source(file.path(dir_r,"fbref_matches/4.clean_matches_before_WC.R")) #exports to data/2.1intermediate/matches_before_WC.rds
@@ -86,7 +87,7 @@ Creating indicators and appending WC and  pre matches
 Matches are cleaned!
 > 
 > #Download oods to win the World Cup --------------------------------------------
-> source(file.path(dir_r,"request_WC_odds_winners.R"), encoding = "UTF-8")
+> source(file.path(dir_r,"request_WC_odds_winners.R"), encoding = "UTF-8") #saves ind_ods_einner.csv
 requesting odds .....
 [1] "sugarhouse"
 [1] "betrivers"
@@ -96,11 +97,6 @@ requesting odds .....
 [1] "unibet_us"
 odds saved in data clean!
 > 
-> 
-> #Commit and push to repo -----------------------------------------------------
-> 
-> #temp_terminal <- rstudioapi::terminalExecute("myterminal.sh")
-> #rstudioapi::terminalKill(temp_terminal)
 > 
 > 
 > 
@@ -112,4 +108,4 @@ odds saved in data clean!
 > 
 > proc.time()
    user  system elapsed 
-  2.648   0.119   2.860 
+  2.726   0.121   3.281 

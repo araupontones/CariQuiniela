@@ -35,10 +35,14 @@ transforma <- lapply(r_s, function(m){
 
 #unique matches in format local visitante
 scores_matches <- do.call(rbind, transforma) %>% 
-  clean_teams() %>% 
+  #clean names of the teams
+  clean_teams(., team) %>% 
+  clean_teams(., Opponent) %>% 
   mutate(across(starts_with("goles"), function(x)as.numeric(x)),
          year = stringr::str_sub(Date, 1,4)) %>%
   select(year, team, Opponent, Date, goles_local, goles_visitante, qatar)
+
+
 
 
 message("Matches downladed:", nrow(scores_matches))

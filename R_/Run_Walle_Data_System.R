@@ -29,6 +29,8 @@ get_proj_dir <- function(){
 dir_data <- file.path(get_proj_dir(), "data")
 dir_r <- file.path(get_proj_dir(), "R_")
 
+
+
 #1. Get matches of 2022 but before the WC (only run before the WC)
 
 #source(file.path(dir_r,"fbref_matches/2.Scrap_games_2022_before_WC.R")) #exports to data/2.scrapped/fbref/matches_2022_before_WC.csv

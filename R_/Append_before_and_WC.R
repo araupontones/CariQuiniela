@@ -23,13 +23,9 @@ wc <-  import(file.path(dir_data, "2.1.intermediate/WC_matches.rds"))
 
 
 #Create ind_all_matches.csv
-all_matches <-  rbind(wc$scores, pre_wc$scores ) %>% mutate(Date = as.Date(Date)) %>% arrange(desc(Date))
+all_matches <-  rbind(wc$scores, pre_wc$scores ) %>% mutate(Date = as.Date(Date)) %>% arrange(desc(Date)) %>%
  
-
-
-
-
-
+ 
 #==============================================================================
 # Data of teams by year (indicators by Away, Home, Neutral and all matches)
 
@@ -91,6 +87,7 @@ data_year_team <- create_data_year(rbind(pre_wc$by_team, wc$by_team))
 
 #===============================================================================
 #export data====================================================================
+
 
 export(all_matches, exfile_matches)
 export(data_year_team, exfile_year_team)
