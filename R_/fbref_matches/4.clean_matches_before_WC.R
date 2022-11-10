@@ -54,6 +54,31 @@ db_matches <- before_2022 %>%
 
 
 
+#clean matches manually because FBREF has shot us down--------------------------
+
+clean_scores <- function(data, local, date, GF, GA, result){
+  
+  data$GF[data$team == local & data$Date == date] <- GF
+  data$GA[data$team == local & data$Date == date] <- GA
+  data$Result[data$team == local & data$Date == date] <- result
+  
+  return(data)
+  
+  
+}
+
+
+db_matches <- clean_scores(db_matches, "Mexico","2022-11-09",4,0,"W")
+db_matches <- clean_scores(db_matches, "Costa Rica","2022-11-09",2,0,"W")
+db_matches <- clean_scores(db_matches, "Cameroon","2022-11-09",1,1,"D")
+db_matches <- clean_scores(db_matches, "Qatar","2022-11-09",1,0,"W")
+
+
+
+
+
+
+
 #transform matches as local vs visitante format ------------------------------
 #this is the data to be exported
 db_matches_unique <- db_matches %>%
