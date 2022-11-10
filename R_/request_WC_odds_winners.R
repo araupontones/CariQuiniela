@@ -39,7 +39,7 @@ list_odds <- lapply(bookmakers, function(x){
 
 #join all odds
 all_ods <- plyr::join_all(list_odds, by = "team") %>%
- clean_teams()
+ clean_teams(., team)
 
 
 #summarise data ---------------------------------------------------------

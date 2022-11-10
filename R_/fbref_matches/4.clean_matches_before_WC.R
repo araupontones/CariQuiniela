@@ -40,11 +40,11 @@ db_matches <- before_2022 %>%
   plyr::rbind.fill(during_2022) %>%
   #drop penalties in drawn matches, penalties are reported within parenthesis.
   mutate(across(c(GF, GA) , function(x) as.numeric(str_replace(x, "\\([0-9]\\)",""))),
-         year = str_sub(Date,1,4),
-         #remove iso2 and iso 3 from Opponent's name
-         Opponent = str_remove(Opponent, "^[a-z][a-z] "),
-         Opponent = str_remove(Opponent, "^[a-z][a-z][a-z] ")
+         year = str_sub(Date,1,4)
   ) %>%
+  clean_Opponent()%>%
+  clean_teams(., team) %>%
+  clean_teams(.,Opponent)%>%
   select(year, team, Opponent, Date, Comp, Venue, Result, GF, GA, qatar) %>%
   #remove duplicates (there were some duplicated matches while scrapping)
   distinct() %>%
