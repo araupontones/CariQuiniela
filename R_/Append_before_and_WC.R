@@ -23,7 +23,9 @@ wc <-  import(file.path(dir_data, "2.1.intermediate/WC_matches.rds"))
 
 
 #Create ind_all_matches.csv
-all_matches <-  rbind(wc$scores, pre_wc$scores ) %>% mutate(Date = as.Date(Date)) %>% arrange(desc(Date)) %>%
+all_matches <-  rbind(wc$scores, pre_wc$scores ) %>% mutate(Date = as.Date(Date)) %>% arrange(desc(Date))
+
+
  
  
 #==============================================================================

@@ -36,6 +36,7 @@ dir_r <- file.path(get_proj_dir(), "R_")
 #source(file.path(dir_r,"fbref_matches/2.Scrap_games_2022_before_WC.R")) #exports to data/2.scrapped/fbref/matches_2022_before_WC.csv
 
 
+
 #2. Clean matches before the WC
 
 #source(file.path(dir_r,"fbref_matches/4.clean_matches_before_WC.R")) #exports to data/2.1intermediate/matches_before_WC.rds
