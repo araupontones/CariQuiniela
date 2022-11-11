@@ -65,8 +65,8 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Ecuador,Iraq,2022-11-12,,,FALSE
 2022,Korea Republic,Iceland,2022-11-11,,,FALSE
 2022,Bahrain,Canada,2022-11-11,,,FALSE
-2022,IR Iran,Nicaragua,2022-11-10,,,FALSE
-2022,Saudi Arabia,Panama,2022-11-10,,,FALSE
+2022,IR Iran,Nicaragua,2022-11-10,1,2,FALSE
+2022,Saudi Arabia,Panama,2022-11-10,1,1,FALSE
 2022,Mexico,Iraq,2022-11-09,4,0,FALSE
 2022,Qatar,Albania,2022-11-09,1,0,FALSE
 2022,Cameroon,Jamaica,2022-11-09,1,1,FALSE
