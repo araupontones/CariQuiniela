@@ -21,24 +21,45 @@ teams <- sort(unique(c(locales, visitantes)))
 #clean rankings fifa ------------------------------------------------------------
 
 
-
+#clean names of countries and dates
 rankings_clean <- rankings %>%
   rename(team = country_full,
          Date = rank_date) %>%
    clean_teams(.,team ) %>%
-  create_quarter(., Date) %>%
-  filter(year >= 2011) %>%
-  group_by(team, quarter) %>%
+  create_quarter(., Date) 
+  
+
+#get all rankings before the WC
+rankings_quarters <- rankings_clean %>%
+group_by(team, quarter, year) %>%
   #create rankings by quarter to enable joining with all_maches
   summarise(rank = mean(rank),
             total_points = mean(total_points),
             previous_points = mean(previous_points),
             .groups = 'drop'
-            )
+            ) %>%
+  #get the previous quarter but keep
+  group_by(team) %>%
+  mutate(across(c(rank, total_points, previous_points), function(x)lag(x))
+         ) %>%
+  filter(year > 2010) %>%
+  ungroup() 
   
-View(rankings_clean)
 
-export(rankings_clean, exfile)
+
+#rankings for WC
+wc_rankings <- rankings_clean %>%
+  filter(Date == "2022-10-06") %>%
+  mutate(quarter = "WC") %>%
+  select(team, rank, total_points, previous_points, quarter, year)
+
+
+#join rankings
+all_rankings <- rbind(rankings_quarters, wc_rankings)
+
+
+
+export(all_rankings, exfile)
 
 #check with odds
 
