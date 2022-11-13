@@ -72,6 +72,9 @@ db_matches <- clean_scores(db_matches, "Mexico","2022-11-09",4,0,"W")
 db_matches <- clean_scores(db_matches, "Costa Rica","2022-11-09",2,0,"W")
 db_matches <- clean_scores(db_matches, "Cameroon","2022-11-09",1,1,"D")
 db_matches <- clean_scores(db_matches, "Qatar","2022-11-09",1,0,"W")
+db_matches <- clean_scores(db_matches, "IR Iran","2022-11-10",1,2,"L")
+db_matches <- clean_scores(db_matches, "Saudi Arabia","2022-11-10",1,1,"D")
+
 
 
 

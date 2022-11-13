@@ -44,7 +44,7 @@ dir_r <- file.path(get_proj_dir(), "R_")
 
 
 #Scrap the world cup matches --------------------------------------------------
-source(file.path(dir_r,"request_WC_scores.R"), encoding = "UTF-8") #exports to data/2.1.intermediate/WC_matches.rds
+#source(file.path(dir_r,"request_WC_scores.R"), encoding = "UTF-8") #exports to data/2.1.intermediate/WC_matches.rds
 
 
 #Clean matches ------------------------------------------------------------------

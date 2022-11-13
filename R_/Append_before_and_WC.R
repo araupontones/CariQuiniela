@@ -3,6 +3,8 @@ sistema <- Sys.info()['sysname']
 
 exfile_matches <- file.path(dir_data, "3.clean/ind_all_matches.csv")
 exfile_year_team <- file.path(dir_data, "3.clean/ind_teams_year.csv")
+rankings_fifa <- import("https://raw.githubusercontent.com/araupontones/CariQuiniela/main/data/3.clean/fifa_rankings.csv")
+
 #import intermediate data
 
 if(sistema == "Windows"){
@@ -23,7 +25,16 @@ wc <-  import(file.path(dir_data, "2.1.intermediate/WC_matches.rds"))
 
 
 #Create ind_all_matches.csv
-all_matches <-  rbind(wc$scores, pre_wc$scores ) %>% mutate(Date = as.Date(Date)) %>% arrange(desc(Date))
+all_matches <-  rbind(wc$scores, pre_wc$scores ) %>% 
+  #get fifa ranks
+  mutate(Date = as.Date(Date)) %>% 
+  arrange(desc(Date)) %>%
+  create_quarter(.,Date) %>%
+  get_rankings(., rankings_fifa) %>%
+  select(-c(month,quarter))
+
+
+
 
 
  
