@@ -1,633 +1,636 @@
 team,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Attendance,Captain,Referee,qatar
-Argentina,2020-10-08,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,ec Ecuador,"",Lionel Messi,Roberto Tobar,FALSE
-Argentina,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,1,bo Bolivia,"",Lionel Messi,Diego Haro,FALSE
-Argentina,2020-11-12,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,py Paraguay,"",Lionel Messi,Raphael Claus,FALSE
-Argentina,2020-11-17,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,pe Peru,"",Lionel Messi,Wilmar Roldán,FALSE
-Argentina,2021-06-03,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,cl Chile,"",Lionel Messi,Jesús Valenzuela,FALSE
-Argentina,2021-06-08,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,2,2,co Colombia,"",Lionel Messi,Roberto Tobar,FALSE
-Argentina,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,ve Venezuela,"",Lionel Messi,Leodán González,FALSE
-Argentina,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,"",0,0,br Brazil,"",Lionel Messi,Jesús Valenzuela,FALSE
-Argentina,2021-09-09,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,bo Bolivia,"",Lionel Messi,Kevin Ortega,FALSE
-Argentina,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,py Paraguay,"",Lionel Messi,Anderson Daronco,FALSE
-Argentina,2021-10-10,20:30,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,3,0,uy Uruguay,"",Lionel Messi,Roberto Tobar,FALSE
-Argentina,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,pe Peru,"",Lionel Messi,Wilton Pereira Sampaio,FALSE
-Argentina,2021-11-12,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Away,W,1,0,uy Uruguay,"",Ángel Di María,Alexis Herrera,FALSE
-Argentina,2021-11-16,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,0,0,br Brazil,"",Lionel Messi,Andrés Cunha,FALSE
-Argentina,2022-01-27,21:15,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,2,1,cl Chile,"",Ángel Di María,Anderson Daronco,FALSE
-Argentina,2022-02-01,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,1,0,co Colombia,"",Ángel Di María,Raphael Claus,FALSE
-Argentina,2022-03-25,20:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,3,0,ve Venezuela,"",Lionel Messi,Kevin Ortega,FALSE
-Argentina,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,ec Ecuador,"",Lionel Messi,Raphael Claus,FALSE
-Argentina,2022-06-05,20:00,Friendlies (M),Friendlies (M),Sun,Neutral,W,5,0,ee Estonia,"18,332",Lionel Messi,Urs Schnyder,FALSE
-Argentina,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Home,W,3,0,hn Honduras,"64,420",Lionel Messi,Rubiel Vázquez,FALSE
-Argentina,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,jm Jamaica,"",Ángel Di María,Marco Ortíz,FALSE
-Argentina,2022-11-16,"",Friendlies (M),Friendlies (M),Wed,Away,"",,,ae UAE,"","","",FALSE
-Australia,2019-09-10,18:30,WCQ,Second round,Tue,Away,W,3,0,kw Kuwait,"11,852",Mathew Leckie,Taqi Aljaafari Jahari,FALSE
-Australia,2019-10-10,20:00,WCQ,Second round,Thu,Home,W,5,0,np Nepal,"18,563",Mark Milligan,Thoriq Munir Alkatiri,FALSE
-Australia,2019-10-15,19:40,WCQ,Second round,Tue,Away,W,7,1,tw Chinese Taipei,"3,251",Mathew Ryan,Mongkolchai Pechsri,FALSE
-Australia,2019-11-14,18:00,WCQ,Second round,Thu,Away,W,1,0,jo Jordan,"9,712",Mathew Ryan,Fu Ming,FALSE
-Australia,2021-06-03,22:00,WCQ,Second round,Thu,Home,W,3,0,kw Kuwait,"",Mathew Leckie,Jumpei Iida,FALSE
-Australia,2021-06-07,22:00,WCQ,Second round,Mon,Home,W,5,1,tw Chinese Taipei,"",Trent Sainsbury,Saoud Ali Al Adba,FALSE
-Australia,2021-06-11,19:00,WCQ,Second round,Fri,Away,W,3,0,np Nepal,"",Mathew Leckie,Ahmed Al Kaf,FALSE
-Australia,2021-06-15,19:00,WCQ,Second round,Tue,Home,W,1,0,jo Jordan,"",Mathew Ryan,Kim Woosung,FALSE
-Australia,2021-09-02,21:00,WCQ,Third round,Thu,Home,W,3,0,cn China PR,"",Mathew Ryan,Ko Hyungjin,FALSE
-Australia,2021-09-07,19:00,WCQ,Third round,Tue,Away,W,1,0,vn Vietnam,"",Mathew Ryan,Abdelrahman Al Jassim,FALSE
-Australia,2021-10-07,21:30,WCQ,Third round,Thu,Home,W,3,1,om Oman,"",Mathew Ryan,Nawaf Shukralla,FALSE
-Australia,2021-10-12,19:14,WCQ,Third round,Tue,Away,L,1,2,jp Japan,"14,437",Mathew Ryan,Abdulrahman Ibrahim Al Jassim,FALSE
-Australia,2021-11-11,20:10,WCQ,Third round,Thu,Home,D,0,0,sa Saudi Arabia,"23,314",Mathew Ryan,Ko Hyungjin,FALSE
-Australia,2021-11-16,19:00,WCQ,Third round,Tue,Away,D,1,1,cn China PR,"1,050",Mathew Ryan,Adham Makhadmeh,FALSE
-Australia,2022-01-27,20:10,WCQ,Third round,Thu,Home,W,4,0,vn Vietnam,"27,740",Mathew Ryan,Ko Hyungjin,FALSE
-Australia,2022-02-01,20:00,WCQ,Third round,Tue,Away,D,2,2,om Oman,"",Mathew Ryan,Mohammed Abdulla Hassan,FALSE
-Australia,2022-03-24,20:10,WCQ,Third round,Thu,Home,L,0,2,jp Japan,"41,852",Mathew Ryan,Nawaf Shukralla,FALSE
-Australia,2022-03-29,21:00,WCQ,Third round,Tue,Away,L,0,1,sa Saudi Arabia,"51,433",Mathew Ryan,Adham Makhadmeh,FALSE
-Australia,2022-06-01,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,2,1,jo Jordan,"",Mathew Ryan,Saad Mane,FALSE
-Australia,2022-06-07,21:00,WCQ,Fourth round,Tue,Neutral,W,2,1,ae UAE,"6,500",Mathew Ryan,Ilgiz Tantashev,FALSE
-Australia,2022-06-13,21:00,WCQ Play-offs,WCQ — Inter-confederation play-offs (M),Mon,Neutral,D,0 (5),0 (4),pe Peru,"",Mathew Ryan,Slavko Vinčič,FALSE
-Australia,2022-09-22,20:00,Friendlies (M),Friendlies (M),Thu,Home,W,1,0,nz New Zealand,"25,392",Mathew Ryan,Ryūji Satō,FALSE
-Australia,2022-09-25,16:00,Friendlies (M),Friendlies (M),Sun,Away,W,2,0,nz New Zealand,"34,985",Mathew Leckie,Yūsuke Araki,FALSE
-Belgium,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,1,wls Wales,"",Jan Vertonghen,Cüneyt Çakιr,FALSE
-Belgium,2021-03-27,20:45,WCQ,First round,Sat,Away,D,1,1,cz Czech Republic,"",Jan Vertonghen,William Collum,FALSE
-Belgium,2021-03-30,20:45,WCQ,First round,Tue,Home,W,8,0,by Belarus,"",Jan Vertonghen,Donatas Rumšas,FALSE
-Belgium,2021-09-02,21:45,WCQ,First round,Thu,Away,W,5,2,ee Estonia,"6,685",Eden Hazard,Guillermo Cuadra,FALSE
-Belgium,2021-09-05,20:45,WCQ,First round,Sun,Home,W,3,0,cz Czech Republic,"21,416",Eden Hazard,Michael Oliver,FALSE
-Belgium,2021-09-08,21:45,WCQ,First round,Wed,Away,W,1,0,by Belarus,"",Toby Alderweireld,Paweł Raczkowski,FALSE
-Belgium,2021-11-13,20:45,WCQ,First round,Sat,Home,W,3,1,ee Estonia,"29,895",Eden Hazard,Halil Umut Meler,FALSE
-Belgium,2021-11-16,19:45,WCQ,First round,Tue,Away,D,1,1,wls Wales,"32,343",Kevin De Bruyne,Artur Dias,FALSE
-Belgium,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Away,D,2,2,ie Rep. of Ireland,"",Youri Tielemans,Nick Walsh,FALSE
-Belgium,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Home,W,3,0,bf Burkina Faso,"",Youri Tielemans,Dennis Higler,FALSE
-Belgium,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,1,4,nl Netherlands,"38,327",Eden Hazard,José Sánchez,FALSE
-Belgium,2022-06-08,20:45,UEFA Nations League,League A,Wed,Home,W,6,1,pl Poland,"27,409",Eden Hazard,Ivan Kružliak,FALSE
-Belgium,2022-06-11,19:45,UEFA Nations League,League A,Sat,Away,D,1,1,wls Wales,"27,188",Kevin De Bruyne,Benoît Bastien,FALSE
-Belgium,2022-06-14,20:45,UEFA Nations League,League A,Tue,Away,W,1,0,pl Poland,"58,803",Eden Hazard,Irfan Peljto,FALSE
-Belgium,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,1,wls Wales,"28,463",Eden Hazard,Ali Palabıyık,FALSE
-Belgium,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,L,0,1,nl Netherlands,"52,314",Eden Hazard,Anthony Taylor,FALSE
-Belgium,2022-11-18,18:00,Friendlies (M),Friendlies (M),Fri,Neutral,"",,,eg Egypt,"","","",FALSE
-Brazil,2020-10-09,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,5,0,bo Bolivia,"",Casemiro,Leodán González,FALSE
-Brazil,2020-10-13,19:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,2,pe Peru,"",Thiago Silva,Julio Bascuñán,FALSE
-Brazil,2020-11-13,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,1,0,ve Venezuela,"",Thiago Silva,Juan Benítez,FALSE
-Brazil,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,uy Uruguay,"",Thiago Silva,Roberto Tobar,FALSE
-Brazil,2021-06-04,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,2,0,ec Ecuador,"",Casemiro,Alexis Herrera,FALSE
-Brazil,2021-06-08,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,py Paraguay,"",Marquinhos,Patricio Loustau,FALSE
-Brazil,2021-09-02,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,cl Chile,"",Casemiro,Diego Haro,FALSE
-Brazil,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,"",0,0,ar Argentina,"",Casemiro,Jesús Valenzuela,FALSE
-Brazil,2021-09-09,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,pe Peru,"",Casemiro,Wilmar Roldán,FALSE
-Brazil,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,ve Venezuela,"",Thiago Silva,Kevin Ortega,FALSE
-Brazil,2021-10-10,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,D,0,0,co Colombia,"",Marquinhos,Patricio Loustau,FALSE
-Brazil,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,1,uy Uruguay,"",Thiago Silva,Fernando Rapallini,FALSE
-Brazil,2021-11-11,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,co Colombia,"",Thiago Silva,Roberto Tobar,FALSE
-Brazil,2021-11-16,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,ar Argentina,"",Marquinhos,Andrés Cunha,FALSE
-Brazil,2022-01-27,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,ec Ecuador,"",Casemiro,Wilmar Roldán,FALSE
-Brazil,2022-02-01,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,0,py Paraguay,"",Dani Alves,Facundo Tello,FALSE
-Brazil,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,0,cl Chile,"",Thiago Silva,Darío Herrera,FALSE
-Brazil,2022-03-29,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,0,bo Bolivia,"",Dani Alves,Eber Aquino,FALSE
-Brazil,2022-06-02,20:00,Friendlies (M),Friendlies (M),Thu,Away,W,5,1,kr Korea Republic,"64,872",Dani Alves,Ryūji Satō,FALSE
-Brazil,2022-06-06,19:20,Friendlies (M),Friendlies (M),Mon,Away,W,1,0,jp Japan,"63,638",Dani Alves,Alireza Faghani,FALSE
-Brazil,2022-09-23,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,gh Ghana,"",Thiago Silva,Mikael Lesage,FALSE
-Brazil,2022-09-27,15:30,Friendlies (M),Friendlies (M),Tue,Neutral,W,5,1,tn Tunisia,"",Thiago Silva,Ruddy Buquet,FALSE
-Cameroon,2021-09-03,20:00,WCQ,Second round,Fri,Home,W,2,0,mw Malawi,,Vincent Aboubakar,Jean-Jacques Ndala,FALSE
-Cameroon,2021-09-06,19:00,WCQ,Second round,Mon,Away,L,1,2,ci Côte d'Ivoire,,Vincent Aboubakar,Mehdi Abid Charef,FALSE
-Cameroon,2021-10-08,17:00,WCQ,Second round,Fri,Home,W,3,1,mz Mozambique,,Vincent Aboubakar,Mohamed Maarouf,FALSE
-Cameroon,2021-10-11,15:00,WCQ,Second round,Mon,Away,W,1,0,mz Mozambique,,Vincent Aboubakar,Sabri Mohamed Fadel,FALSE
-Cameroon,2021-11-13,15:00,WCQ,Second round,Sat,Away,W,4,0,mw Malawi,,Vincent Aboubakar,Issa Sy,FALSE
-Cameroon,2021-11-16,20:00,WCQ,Second round,Tue,Home,W,1,0,ci Côte d'Ivoire,,Vincent Aboubakar,Janny Sikazwe,FALSE
-Cameroon,2022-01-09,17:00,Africa Cup of Nations,Group stage,Sun,Neutral,W,2,1,bf Burkina Faso,,Vincent Aboubakar,Mustapha Ghorbal,FALSE
-Cameroon,2022-01-13,17:00,Africa Cup of Nations,Group stage,Thu,Neutral,W,4,1,et Ethiopia,,Vincent Aboubakar,Jean-Jacques Ndala,FALSE
-Cameroon,2022-01-17,17:00,Africa Cup of Nations,Group stage,Mon,Neutral,D,1,1,cv Cape Verde,,Vincent Aboubakar,Sadek Selmi,FALSE
-Cameroon,2022-01-24,20:00,Africa Cup of Nations,Round of 16,Mon,Neutral,W,2,1,km Comoros,,Vincent Aboubakar,Bamlak Tessema,FALSE
-Cameroon,2022-01-29,17:00,Africa Cup of Nations,Quarter-finals,Sat,Neutral,W,2,0,gm Gambia,,Vincent Aboubakar,Pacifique Ndabihawenimana,FALSE
-Cameroon,2022-02-03,20:00,Africa Cup of Nations,Semi-finals,Thu,Neutral,D,0 (1),0 (3),eg Egypt,,Vincent Aboubakar,Bakary Papa Gassama,FALSE
-Cameroon,2022-02-05,20:00,Africa Cup of Nations,Third-place match,Sat,Neutral,D,3 (5),3 (3),bf Burkina Faso,,Ambroise Oyongo,Redouane Jiyed,FALSE
-Cameroon,2022-03-25,18:00,WCQ,Third round,Fri,Home,L,0,1,dz Algeria,,Vincent Aboubakar,Joshua Bondo,FALSE
-Cameroon,2022-03-27,"",Africa Cup of Nations qualification,Group stage,Sun,Away,"","","",na Namibia,,"","",FALSE
-Cameroon,2022-03-29,20:30,WCQ,Third round,Tue,Away,W,2,1,dz Algeria,,Eric Maxim Choupo-Moting,Bakary Papa Gassama,FALSE
-Cameroon,2022-06-04,17:00,Africa Cup of Nations qualification,Group stage,Sat,Home,"","","",ke Kenya,,"",Mahamat Alhadj Allaou,FALSE
-Cameroon,2022-06-09,16:00,Africa Cup of Nations qualification,Group stage,Thu,Neutral,W,1,0,bi Burundi,,Vincent Aboubakar,Souleiman Ahmed Djama,FALSE
-Cameroon,2022-09-23,15:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,uz Uzbekistan,323,Vincent Aboubakar,Kim Woosung,FALSE
-Cameroon,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Away,L,0,1,kr Korea Republic,,Vincent Aboubakar,Alex King,FALSE
-Cameroon,2022-11-18,17:00,Friendlies (M),Friendlies (M),Fri,Home,"","","",pa Panama,,"","",FALSE
-Canada,2021-03-25,20:00,WCQ,First round,Thu,Home,W,5,1,bm Bermuda,"",Atiba Hutchinson,Armando Villarreal,FALSE
-Canada,2021-03-29,18:00,WCQ,First round,Mon,Away,W,11,0,ky Cayman Islands,"",Samuel Piette,Ted Unkel,FALSE
-Canada,2021-06-05,20:00,WCQ,First round,Sat,Away,W,7,0,aw Aruba,45,Junior Hoilett,Marco Ortíz,FALSE
-Canada,2021-06-08,20:05,WCQ,First round,Tue,Home,W,4,0,sr Suriname,"",Milan Borjan,Nima Saghafi,FALSE
-Canada,2021-06-12,17:00,WCQ,Second round,Sat,Away,W,1,0,ht Haiti,"",Milan Borjan,John Pitti,FALSE
-Canada,2021-06-15,20:05,WCQ,Second round,Tue,Home,W,3,0,ht Haiti,"",Milan Borjan,Rubiel Vázquez,FALSE
-Canada,2021-09-02,20:05,WCQ,Third round,Thu,Home,D,1,1,hn Honduras,"14,822",Atiba Hutchinson,Fernando Guerrero,FALSE
-Canada,2021-09-05,19:12,WCQ,Third round,Sun,Away,D,1,1,us United States,"43,028",Milan Borjan,Oshane Nation,FALSE
-Canada,2021-09-08,19:30,WCQ,Third round,Wed,Home,W,3,0,sv El Salvador,"14,926",Atiba Hutchinson,Ricardo Montero,FALSE
-Canada,2021-10-07,20:40,WCQ,Third round,Thu,Away,D,1,1,mx Mexico,"40,468",Steven Vitória,Ismael Cornejo,FALSE
-Canada,2021-10-10,17:00,WCQ,Third round,Sun,Away,D,0,0,jm Jamaica,"",Doneil Henry,Keylor Herrera,FALSE
-Canada,2021-10-13,19:30,WCQ,Third round,Wed,Home,W,4,1,pa Panama,"26,622",Steven Vitória,Armando Villarreal,FALSE
-Canada,2021-11-12,19:05,WCQ,Third round,Fri,Home,W,1,0,cr Costa Rica,"48,806",Milan Borjan,Ismail Elfath,FALSE
-Canada,2021-11-16,19:05,WCQ,Third round,Tue,Home,W,2,1,mx Mexico,"44,212",Atiba Hutchinson,Mario Escobar,FALSE
-Canada,2022-01-27,19:05,WCQ,Third round,Thu,Away,W,2,0,hn Honduras,"10,000",Atiba Hutchinson,Daneon Parchment,FALSE
-Canada,2022-01-30,15:05,WCQ,Third round,Sun,Home,W,2,0,us United States,"12,000",Milan Borjan,César Arturo Ramos,FALSE
-Canada,2022-02-02,20:00,WCQ,Third round,Wed,Away,W,2,0,sv El Salvador,"9,000",Atiba Hutchinson,Armando Villarreal,FALSE
-Canada,2022-03-24,20:05,WCQ,Third round,Thu,Away,L,0,1,cr Costa Rica,"35,000",Atiba Hutchinson,Said Martínez,FALSE
-Canada,2022-03-27,16:05,WCQ,Third round,Sun,Home,W,4,0,jm Jamaica,"29,122",Milan Borjan,Fernando Guerrero,FALSE
-Canada,2022-03-30,20:05,WCQ,Third round,Wed,Away,L,0,1,pa Panama,"8,000",Atiba Hutchinson,Jair Marrufo,FALSE
-Canada,2022-09-23,19:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,2,0,qa Qatar,"",Junior Hoilett,Manuel Schüttengruber,FALSE
-Canada,2022-09-27,18:00,Friendlies (M),Friendlies (M),Tue,Home,L,0,2,uy Uruguay,"",Milan Borjan,Peter Kráľovič,FALSE
-Canada,2022-11-11,18:30,Friendlies (M),Friendlies (M),Fri,Away,"",,,bh Bahrain,"","","",FALSE
-Canada,2022-11-17,22:40,Friendlies (M),Friendlies (M),Thu,Away,"",,,jp Japan,"","","",FALSE
-Costa Rica,2021-09-02,20:05,WCQ,Third round,Thu,Away,D,0,0,pa Panama,"14,000",Celso Borges,Iván Barton,FALSE
-Costa Rica,2021-09-05,17:05,WCQ,Third round,Sun,Home,L,0,1,mx Mexico,"2,200",Bryan Ruiz,Ismail Elfath,FALSE
-Costa Rica,2021-09-08,19:05,WCQ,Third round,Wed,Home,D,1,1,jm Jamaica,"3,000",Bryan Ruiz,Drew Fischer,FALSE
-Costa Rica,2021-10-07,18:05,WCQ,Third round,Thu,Away,D,0,0,hn Honduras,"18,500",Keylor Navas,Mario Escobar,FALSE
-Costa Rica,2021-10-10,16:05,WCQ,Third round,Sun,Home,W,2,1,sv El Salvador,"4,500",Bryan Ruiz,Said Martínez,FALSE
-Costa Rica,2021-10-13,19:00,WCQ,Third round,Wed,Away,L,1,2,us United States,"20,165",Bryan Ruiz,Daneon Parchment,FALSE
-Costa Rica,2021-11-12,19:05,WCQ,Third round,Fri,Away,L,0,1,ca Canada,"48,806",Óscar Duarte,Ismail Elfath,FALSE
-Costa Rica,2021-11-16,19:05,WCQ,Third round,Tue,Home,W,2,1,hn Honduras,"7,000",Keylor Navas,Jair Marrufo,FALSE
-Costa Rica,2022-01-27,20:05,WCQ,Third round,Thu,Home,W,1,0,pa Panama,"16,534",Keylor Navas,Ismail Elfath,FALSE
-Costa Rica,2022-01-30,17:00,WCQ,Third round,Sun,Away,D,0,0,mx Mexico,"2,000",Keylor Navas,Said Martínez,FALSE
-Costa Rica,2022-02-02,19:00,WCQ,Third round,Wed,Away,W,1,0,jm Jamaica,"",Keylor Navas,Marco Ortíz,FALSE
-Costa Rica,2022-03-24,20:05,WCQ,Third round,Thu,Home,W,1,0,ca Canada,"35,000",Keylor Navas,Said Martínez,FALSE
-Costa Rica,2022-03-27,15:05,WCQ,Third round,Sun,Away,W,2,1,sv El Salvador,"",Keylor Navas,Daneon Parchment,FALSE
-Costa Rica,2022-03-30,19:05,WCQ,Third round,Wed,Home,W,2,0,us United States,"35,000",Keylor Navas,Drew Fischer,FALSE
-Costa Rica,2022-06-14,21:00,WCQ Play-offs,WCQ — Inter-confederation play-offs (M),Tue,Neutral,W,1,0,nz New Zealand,"",Keylor Navas,Mohammed Abdulla Hassan,FALSE
-Costa Rica,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Away,D,2,2,kr Korea Republic,"37,581",Celso Borges,Alex King,FALSE
-Costa Rica,2022-09-27,15:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,2,1,uz Uzbekistan,"",Kendall Waston,Kim Daeyong,FALSE
-Costa Rica,2022-11-09,20:00,Friendlies (M),Friendlies (M),Wed,Home,"",,,ng Nigeria,"","","",FALSE
-Costa Rica,2022-11-17,17:00,Friendlies (M),Friendlies (M),Thu,Away,"",,,iq Iraq,"","","",FALSE
-Croatia,2021-03-24,20:45,WCQ,First round,Wed,Away,L,0,1,si Slovenia,"",Luka Modrić,Antonio Matéu Lahoz,FALSE
-Croatia,2021-03-27,18:00,WCQ,First round,Sat,Home,W,1,0,cy Cyprus,"",Luka Modrić,Kristo Tohver,FALSE
-Croatia,2021-03-30,20:45,WCQ,First round,Tue,Home,W,3,0,mt Malta,"",Domagoj Vida,Lionel Tschudi,FALSE
-Croatia,2021-09-01,21:45,WCQ,First round,Wed,Away,D,0,0,ru Russia,"18,708",Ivan Perišić,Roi Reinshreiber,FALSE
-Croatia,2021-09-04,20:45,WCQ,First round,Sat,Away,W,1,0,sk Slovakia,"9,047",Domagoj Vida,Bartosz Frankowski,FALSE
-Croatia,2021-09-07,20:45,WCQ,First round,Tue,Home,W,3,0,si Slovenia,"16,237",Ivan Perišić,Clément Turpin,FALSE
-Croatia,2021-10-08,21:45,WCQ,First round,Fri,Away,W,3,0,cy Cyprus,"2,333",Luka Modrić,Michael Oliver,FALSE
-Croatia,2021-10-11,20:45,WCQ,First round,Mon,Home,D,2,2,sk Slovakia,"9,926",Luka Modrić,Ovidiu Hațegan,FALSE
-Croatia,2021-11-11,20:45,WCQ,First round,Thu,Away,W,7,1,mt Malta,"4,581",Luka Modrić,Deniz Aytekin,FALSE
-Croatia,2021-11-14,15:00,WCQ,First round,Sun,Home,W,1,0,ru Russia,"30,257",Luka Modrić,Danny Makkelie,FALSE
-Croatia,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Home,D,1,1,si Slovenia,"",Luka Modrić,Abdullah Jamali,FALSE
-Croatia,2022-03-29,17:00,Friendlies (M),Friendlies (M),Tue,Home,W,2,1,bg Bulgaria,"",Domagoj Vida,Khamis Mohammed Al Marri,FALSE
-Croatia,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,0,3,at Austria,"13,994",Mateo Kovačić,Chris Kavanagh,FALSE
-Croatia,2022-06-06,20:45,UEFA Nations League,League A,Mon,Home,D,1,1,fr France,"33,869",Luka Modrić,Marco Guida,FALSE
-Croatia,2022-06-10,20:45,UEFA Nations League,League A,Fri,Away,W,1,0,dk Denmark,"35,862",Marcelo Brozović,Bartosz Frankowski,FALSE
-Croatia,2022-06-13,20:45,UEFA Nations League,League A,Mon,Away,W,1,0,fr France,"774,100",Luka Modrić,Orel Grinfeeld,FALSE
-Croatia,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,1,dk Denmark,"22,715",Luka Modrić,Davide Massa,FALSE
-Croatia,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,W,3,1,at Austria,"45,700",Luka Modrić,Artur Dias,FALSE
-Croatia,2022-11-16,18:00,Friendlies (M),Friendlies (M),Wed,Away,"",,,sa Saudi Arabia,"","","",FALSE
-Denmark,2021-03-25,19:00,WCQ,First round,Thu,Away,W,2,0,il Israel,"5,000",Simon Kjær,Craig Pawson,FALSE
-Denmark,2021-03-28,18:00,WCQ,First round,Sun,Home,W,8,0,md Moldova,"",Kasper Schmeichel,Aghayev Aliyev,FALSE
-Denmark,2021-03-31,20:45,WCQ,First round,Wed,Away,W,4,0,at Austria,"",Simon Kjær,Artur Dias,FALSE
-Denmark,2021-09-01,20:45,WCQ,First round,Wed,Home,W,2,0,sct Scotland,"34,562",Simon Kjær,Ovidiu Hațegan,FALSE
-Denmark,2021-09-04,19:45,WCQ,First round,Sat,Away,W,1,0,fo Faroe Islands,"4,620",Kasper Schmeichel,Fran Jović,FALSE
-Denmark,2021-09-07,20:45,WCQ,First round,Tue,Home,W,5,0,il Israel,"35,158",Simon Kjær,Tobias Stieler,FALSE
-Denmark,2021-10-09,21:45,WCQ,First round,Sat,Away,W,4,0,md Moldova,"2,642",Simon Kjær,João Pinheiro,FALSE
-Denmark,2021-10-12,20:45,WCQ,First round,Tue,Home,W,1,0,at Austria,"35,843",Simon Kjær,Ivan Kružliak,FALSE
-Denmark,2021-11-12,20:45,WCQ,First round,Fri,Home,W,3,1,fo Faroe Islands,"35,531",Simon Kjær,Radu Petrescu,FALSE
-Denmark,2021-11-15,19:45,WCQ,First round,Mon,Away,L,0,2,sct Scotland,"",Simon Kjær,Alejandro Hernández,FALSE
-Denmark,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Away,L,2,4,nl Netherlands,"",Kasper Schmeichel,Lawrence Visser,FALSE
-Denmark,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Home,W,3,0,rs Serbia,"",Christian Eriksen,Felix Zwayer,FALSE
-Denmark,2022-06-03,20:45,UEFA Nations League,League A,Fri,Away,W,2,1,fr France,"75,833",Kasper Schmeichel,Felix Zwayer,FALSE
-Denmark,2022-06-06,20:45,UEFA Nations League,League A,Mon,Away,W,2,1,at Austria,"18,700",Kasper Schmeichel,William Collum,FALSE
-Denmark,2022-06-10,20:45,UEFA Nations League,League A,Fri,Home,L,0,1,hr Croatia,"35,862",Christian Eriksen,Bartosz Frankowski,FALSE
-Denmark,2022-06-13,20:45,UEFA Nations League,League A,Mon,Home,W,2,0,at Austria,"35,230",Kasper Schmeichel,Alejandro Hernández,FALSE
-Denmark,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,hr Croatia,"22,715",Simon Kjær,Davide Massa,FALSE
-Denmark,2022-09-25,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,fr France,"36,064",Kasper Schmeichel,István Kovács,FALSE
-Ecuador,2020-10-08,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,ar Argentina,"",Enner Valencia,Roberto Tobar,FALSE
-Ecuador,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,2,uy Uruguay,"",Enner Valencia,Wilmar Roldán,FALSE
-Ecuador,2020-11-12,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,2,bo Bolivia,"",Alexander Domínguez,Wilton Pereira Sampaio,FALSE
-Ecuador,2020-11-17,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,6,1,co Colombia,"",Alexander Domínguez,Jesús Valenzuela,FALSE
-Ecuador,2021-06-04,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,2,br Brazil,"",Enner Valencia,Alexis Herrera,FALSE
-Ecuador,2021-06-08,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,1,2,pe Peru,"",Alexander Domínguez,Esteban Ostojich,FALSE
-Ecuador,2021-09-02,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,py Paraguay,"",Enner Valencia,Andrés Matonte,FALSE
-Ecuador,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,D,0,0,cl Chile,"",Enner Valencia,Facundo Tello,FALSE
-Ecuador,2021-09-09,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,uy Uruguay,"",Carlos Gruezo,Anderson Daronco,FALSE
-Ecuador,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,bo Bolivia,"",Enner Valencia,Wilmar Roldán,FALSE
-Ecuador,2021-10-10,16:30,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,1,2,ve Venezuela,"",Enner Valencia,Andrés Cunha,FALSE
-Ecuador,2021-10-14,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,co Colombia,"",Enner Valencia,Diego Haro,FALSE
-Ecuador,2021-11-11,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,ve Venezuela,"",Alexander Domínguez,Christian Ferreyra,FALSE
-Ecuador,2021-11-16,21:15,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,cl Chile,"",Alexander Domínguez,Fernando Rapallini,FALSE
-Ecuador,2022-01-27,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,br Brazil,"",Enner Valencia,Wilmar Roldán,FALSE
-Ecuador,2022-02-01,21:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,pe Peru,"",Carlos Gruezo,Wilton Sampaio,FALSE
-Ecuador,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,3,py Paraguay,"",Enner Valencia,Jesús Valenzuela,FALSE
-Ecuador,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,1,1,ar Argentina,"",Carlos Gruezo,Raphael Claus,FALSE
-Ecuador,2022-06-02,20:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,ng Nigeria,"25,219",Enner Valencia,Ricardo Montero,FALSE
-Ecuador,2022-06-05,18:30,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,mx Mexico,"61,104",Alexander Domínguez,Oliver Vergara,FALSE
-Ecuador,2022-06-11,20:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,cv Cape Verde,"",Alexander Domínguez,Moeth Gaymes,FALSE
-Ecuador,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,0,0,sa Saudi Arabia,"",Enner Valencia,Ivan Bebek,FALSE
-Ecuador,2022-09-27,13:55,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,jp Japan,"4,321",Ángel Mena,Sascha Stegemann,FALSE
-Ecuador,2022-11-12,"",Friendlies (M),Friendlies (M),Sat,Neutral,"",,,iq Iraq,"","","",FALSE
-England,2021-03-25,19:45,WCQ,First round,Thu,Home,W,5,0,sm San Marino,"",Raheem Sterling,Kirill Levnikov,FALSE
-England,2021-03-28,18:00,WCQ,First round,Sun,Away,W,2,0,al Albania,200,Harry Kane,Orel Grinfeeld,FALSE
-England,2021-03-31,19:45,WCQ,First round,Wed,Home,W,2,1,pl Poland,"",Harry Kane,Björn Kuipers,FALSE
-England,2021-09-02,20:45,WCQ,First round,Thu,Away,W,4,0,hu Hungary,"58,260",Harry Kane,Cüneyt Çakιr,FALSE
-England,2021-09-05,17:00,WCQ,First round,Sun,Home,W,4,0,ad Andorra,"67,171",Jordan Henderson,Anastasios Papapetrou,FALSE
-England,2021-09-08,20:45,WCQ,First round,Wed,Away,D,1,1,pl Poland,"56,212",Harry Kane,Daniel Siebert,FALSE
-England,2021-10-09,20:45,WCQ,First round,Sat,Away,W,5,0,ad Andorra,"2,285",Kieran Trippier,Kateryna Monzul,FALSE
-England,2021-10-12,19:45,WCQ,First round,Tue,Home,D,1,1,hu Hungary,"69,380",Harry Kane,Alejandro Hernández,FALSE
-England,2021-11-12,19:45,WCQ,First round,Fri,Home,W,5,0,al Albania,"80,366",Harry Kane,Ruddy Buquet,FALSE
-England,2021-11-15,20:45,WCQ,First round,Mon,Away,W,10,0,sm San Marino,"",Harry Kane,Rade Obrenović,FALSE
-England,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,ch Switzerland,"",Harry Kane,Andreas Ekberg,FALSE
-England,2022-03-29,19:45,Friendlies (M),Friendlies (M),Tue,Home,W,3,0,ci Côte d'Ivoire,"",Raheem Sterling,Erik Lambrechts,FALSE
-England,2022-06-04,18:00,UEFA Nations League,League A,Sat,Away,L,0,1,hu Hungary,"26,935",Harry Kane,Artur Dias,FALSE
-England,2022-06-07,20:45,UEFA Nations League,League A,Tue,Away,D,1,1,de Germany,"66,289",Harry Kane,Carlos del Cerro,FALSE
-England,2022-06-11,19:45,UEFA Nations League,League A,Sat,Home,D,0,0,it Italy,"1,782",Tammy Abraham,Szymon Marciniak,FALSE
-England,2022-06-14,19:45,UEFA Nations League,League A,Tue,Home,L,0,4,hu Hungary,"28,839",Harry Kane,Clément Turpin,FALSE
-England,2022-09-23,20:45,UEFA Nations League,League A,Fri,Away,L,0,1,it Italy,"50,640",Harry Kane,Jesús Gil,FALSE
-England,2022-09-26,19:45,UEFA Nations League,League A,Mon,Home,D,3,3,de Germany,"78,949",Harry Kane,Danny Makkelie,FALSE
-France,2021-03-24,20:45,WCQ,First round,Wed,Home,D,1,1,ua Ukraine,"",Hugo Lloris,Tobias Stieler,FALSE
-France,2021-03-28,19:00,WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,"",Hugo Lloris,Aliaksei Kulbakou,FALSE
-France,2021-03-31,20:45,WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,"",Hugo Lloris,Daniele Orsato,FALSE
-France,2021-09-01,20:45,WCQ,First round,Wed,Home,D,1,1,ba Bosnia & Herz'na,"21,754",Hugo Lloris,Sandro Schärer,FALSE
-France,2021-09-04,21:45,WCQ,First round,Sat,Away,D,1,1,ua Ukraine,"48,000",Hugo Lloris,Slavko Vinčič,FALSE
-France,2021-09-07,20:45,WCQ,First round,Tue,Home,W,2,0,fi Finland,"57,057",Hugo Lloris,Deniz Aytekin,FALSE
-France,2021-11-13,20:45,WCQ,First round,Sat,Home,W,8,0,kz Kazakhstan,"45,551",Hugo Lloris,Glenn Nyberg,FALSE
-France,2021-11-16,21:45,WCQ,First round,Tue,Away,W,2,0,fi Finland,"31,890",Hugo Lloris,Marco Guida,FALSE
-France,2022-03-25,21:15,Friendlies (M),Friendlies (M),Fri,Home,W,2,1,ci Côte d'Ivoire,"62,510",Hugo Lloris,Vitor Ferreira Fernandes,FALSE
-France,2022-03-29,21:15,Friendlies (M),Friendlies (M),Tue,Home,W,5,0,za South Africa,"48,120",Raphaël Varane,Sandro Schärer,FALSE
-France,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,1,2,dk Denmark,"75,833",Hugo Lloris,Felix Zwayer,FALSE
-France,2022-06-06,20:45,UEFA Nations League,League A,Mon,Away,D,1,1,hr Croatia,"33,869",Presnel Kimpembe,Marco Guida,FALSE
-France,2022-06-10,20:45,UEFA Nations League,League A,Fri,Away,D,1,1,at Austria,"44,800",Hugo Lloris,Anastasios Sidiropoulos,FALSE
-France,2022-06-13,20:45,UEFA Nations League,League A,Mon,Home,L,0,1,hr Croatia,"774,100",Presnel Kimpembe,Orel Grinfeeld,FALSE
-France,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,0,at Austria,"70,188",Raphaël Varane,Andreas Ekberg,FALSE
-France,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,L,0,2,dk Denmark,"36,064",Antoine Griezmann,István Kovács,FALSE
-Germany,2021-03-25,20:45,WCQ,First round,Thu,Home,W,3,0,is Iceland,"",Manuel Neuer,Srđan Jovanović,FALSE
-Germany,2021-03-28,21:45,WCQ,First round,Sun,Away,W,1,0,ro Romania,"",Manuel Neuer,Clément Turpin,FALSE
-Germany,2021-03-31,20:45,WCQ,First round,Wed,Home,L,1,2,mk N. Macedonia,"",İlkay Gündoğan,Sergey Karasev,FALSE
-Germany,2021-09-02,20:45,WCQ,First round,Thu,Away,W,2,0,li Liechtenstein,"7,958",Joshua Kimmich,Fábio Veríssimo,FALSE
-Germany,2021-09-05,20:45,WCQ,First round,Sun,Home,W,6,0,am Armenia,"18,086",Manuel Neuer,William Collum,FALSE
-Germany,2021-09-08,18:45,WCQ,First round,Wed,Away,W,4,0,is Iceland,"3,505",Manuel Neuer,Andreas Ekberg,FALSE
-Germany,2021-10-08,20:45,WCQ,First round,Fri,Home,W,2,1,ro Romania,"25,000",Joshua Kimmich,Cüneyt Çakιr,FALSE
-Germany,2021-10-11,20:45,WCQ,First round,Mon,Away,W,4,0,mk N. Macedonia,"16,182",Manuel Neuer,Danny Makkelie,FALSE
-Germany,2021-11-11,20:45,WCQ,First round,Thu,Home,W,9,0,li Liechtenstein,"25,984",Manuel Neuer,Ivana Martinčić,FALSE
-Germany,2021-11-14,21:00,WCQ,First round,Sun,Away,W,4,1,am Armenia,"7,200",Thomas Müller,François Letexier,FALSE
-Germany,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Home,W,2,0,il Israel,"",İlkay Gündoğan,Maurizio Mariani,FALSE
-Germany,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Away,D,1,1,nl Netherlands,"50,387",Manuel Neuer,Craig Pawson,FALSE
-Germany,2022-06-04,20:45,UEFA Nations League,League A,Sat,Away,D,1,1,it Italy,"23,754",Manuel Neuer,Srdjan Stojanovic,FALSE
-Germany,2022-06-07,20:45,UEFA Nations League,League A,Tue,Home,D,1,1,eng England,"66,289",Manuel Neuer,Carlos del Cerro,FALSE
-Germany,2022-06-11,20:45,UEFA Nations League,League A,Sat,Away,D,1,1,hu Hungary,"55,948",Manuel Neuer,José Sánchez,FALSE
-Germany,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,W,5,2,it Italy,"44,144",Manuel Neuer,István Kovács,FALSE
-Germany,2022-09-23,20:45,UEFA Nations League,League A,Fri,Home,L,0,1,hu Hungary,"39,513",Thomas Müller,Slavko Vinčič,FALSE
-Germany,2022-09-26,19:45,UEFA Nations League,League A,Mon,Away,D,3,3,eng England,"78,949",Joshua Kimmich,Danny Makkelie,FALSE
-Germany,2022-11-16,19:00,Friendlies (M),Friendlies (M),Wed,Away,"",,,om Oman,"","","",FALSE
-Ghana,2021-09-03,19:00,WCQ,Second round,Fri,Home,W,1,0,et Ethiopia,"",André Ayew,Redouane Jiyed,FALSE
-Ghana,2021-09-06,18:00,WCQ,Second round,Mon,Away,L,0,1,za South Africa,"",André Ayew,Derrick Kafuli,FALSE
-Ghana,2021-10-09,16:00,WCQ,Second round,Sat,Home,W,3,1,zw Zimbabwe,"",André Ayew,Pierre Atcho,FALSE
-Ghana,2021-10-12,15:00,WCQ,Second round,Tue,Away,W,1,0,zw Zimbabwe,"",Thomas Partey,Amin Omar,FALSE
-Ghana,2021-11-11,16:00,WCQ,Second round,Thu,Away,D,1,1,et Ethiopia,"",André Ayew,Blaise Ngwa,FALSE
-Ghana,2021-11-14,19:00,WCQ,Second round,Sun,Home,W,1,0,za South Africa,"4,000",André Ayew,Maguette Ndiaye,FALSE
-Ghana,2022-01-05,19:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0,3,dz Algeria,"1,045",Thomas Partey,Saoud Ali Al Adba,FALSE
-Ghana,2022-01-10,17:00,Africa Cup of Nations,Group stage,Mon,Neutral,L,0,1,ma Morocco,"",André Ayew,Joshua Bondo,FALSE
-Ghana,2022-01-14,20:00,Africa Cup of Nations,Group stage,Fri,Neutral,D,1,1,ga Gabon,"",André Ayew,Lahlou Benbraham,FALSE
-Ghana,2022-01-18,20:00,Africa Cup of Nations,Group stage,Tue,Neutral,L,2,3,km Comoros,"",André Ayew,Boubou Traoré,FALSE
-Ghana,2022-03-25,19:30,WCQ,Third round,Fri,Home,D,0,0,ng Nigeria,"",Thomas Partey,Redouane Jiyed,FALSE
-Ghana,2022-03-29,18:00,WCQ,Third round,Tue,Away,D,1,1,ng Nigeria,"",Thomas Partey,Sadek Selmi,FALSE
-Ghana,2022-06-01,19:00,Africa Cup of Nations qualification,Group stage,Wed,Home,W,3,0,mg Madagascar,"",André Ayew,Mahamadou Keita,FALSE
-Ghana,2022-06-05,14:00,Africa Cup of Nations qualification,Group stage,Sun,Neutral,D,1,1,cf CAR,"",Daniel Amartey,Pierre Ghislain Atcho,FALSE
-Ghana,2022-09-23,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,3,br Brazil,"",André Ayew,Mikael Lesage,FALSE
-Ghana,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,1,0,ni Nicaragua,"",Richard Ofori,Dario Bel,FALSE
-Ghana,2022-11-17,11:00,Friendlies (M),Friendlies (M),Thu,Home,"",,,ch Switzerland,"","","",FALSE
-IR Iran,2019-09-10,20:00,WCQ,Second round,Tue,Away,W,2,0,hk Hong Kong,"13,942",Ehsan Hajsafi,Yudai Yamamoto,FALSE
-IR Iran,2019-10-10,17:00,WCQ,Second round,Thu,Home,W,14,0,kh Cambodia,"15,823",Ehsan Hajsafi,Banerjee Pranjal,FALSE
-IR Iran,2019-10-15,19:30,WCQ,Second round,Tue,Away,L,0,1,bh Bahrain,"14,810",Ehsan Hajsafi,Valentin Kovalenko,FALSE
-IR Iran,2019-11-14,16:00,WCQ,Second round,Thu,Away,L,1,2,iq Iraq,"13,752",Masoud Shojaei,Crishantha Dilan Perera,FALSE
-IR Iran,2021-06-03,19:00,WCQ,Second round,Thu,Home,W,3,1,hk Hong Kong,"",Alireza Jahanbakhsh,Adham Makhadmeh,FALSE
-IR Iran,2021-06-07,21:00,WCQ,Second round,Mon,Home,W,3,0,bh Bahrain,"",Ehsan Hajsafi,Fu Ming,FALSE
-IR Iran,2021-06-11,17:30,WCQ,Second round,Fri,Away,W,10,0,kh Cambodia,"",Alireza Jahanbakhsh,Kim Jonghyeok,FALSE
-IR Iran,2021-06-15,21:00,WCQ,Second round,Tue,Home,W,1,0,iq Iraq,"",Ehsan Hajsafi,Ilgiz Tantashev,FALSE
-IR Iran,2021-09-02,20:30,WCQ,Third round,Thu,Home,W,1,0,sy Syria,"",Alireza Jahanbakhsh,Ryūji Satō,FALSE
-IR Iran,2021-09-07,21:00,WCQ,Third round,Tue,Away,W,3,0,iq Iraq,"",Alireza Jahanbakhsh,Ma Ning,FALSE
-IR Iran,2021-10-07,20:45,WCQ,Third round,Thu,Away,W,1,0,ae UAE,"3,034",Alireza Jahanbakhsh,Chris Beath,FALSE
-IR Iran,2021-10-12,17:00,WCQ,Third round,Tue,Home,D,1,1,kr Korea Republic,"",Alireza Jahanbakhsh,Ahmed Al Kaf,FALSE
-IR Iran,2021-11-11,14:00,WCQ,Third round,Thu,Away,W,2,1,lb Lebanon,"",Alireza Jahanbakhsh,Abdulrahman Ibrahim Al Jassim,FALSE
-IR Iran,2021-11-16,18:00,WCQ,Third round,Tue,Away,W,3,0,sy Syria,907,Ehsan Hajsafi,Ma Ning,FALSE
-IR Iran,2022-01-27,18:00,WCQ,Third round,Thu,Home,W,1,0,iq Iraq,"9,354",Alireza Jahanbakhsh,Chris Beath,FALSE
-IR Iran,2022-02-01,18:00,WCQ,Third round,Tue,Home,W,1,0,ae UAE,"",Alireza Jahanbakhsh,Ahmed Al Kaf,FALSE
-IR Iran,2022-03-24,20:00,WCQ,Third round,Thu,Away,L,0,2,kr Korea Republic,"64,375",Ehsan Hajsafi,Chris Beath,FALSE
-IR Iran,2022-03-29,16:00,WCQ,Third round,Tue,Home,W,2,0,lb Lebanon,"22,453",Alireza Jahanbakhsh,Fu Ming,FALSE
-IR Iran,2022-06-12,21:20,Friendlies (M),Friendlies (M),Sun,Neutral,L,1,2,dz Algeria,600,Ehsan Hajsafi,Mohammed Ahmed Al Shammari,FALSE
-IR Iran,2022-09-23,19:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,1,0,uy Uruguay,"",Ehsan Hajsafi,Walter Altmann,FALSE
-IR Iran,2022-09-27,16:30,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,sn Senegal,"",Ehsan Hajsafi,Harald Lechner,FALSE
-IR Iran,2022-11-10,19:30,Friendlies (M),Friendlies (M),Thu,Home,"",,,ni Nicaragua,"","","",FALSE
-IR Iran,2022-11-16,"",Friendlies (M),Friendlies (M),Wed,Home,"",,,tn Tunisia,"","","",FALSE
-Japan,2019-09-10,18:50,WCQ,Second round,Tue,Away,W,2,0,mm Myanmar,"25,500",Maya Yoshida,Ahmad Ibrahim,FALSE
-Japan,2019-10-10,19:35,WCQ,Second round,Thu,Home,W,6,0,mn Mongolia,"43,122",Maya Yoshida,Chae Sanghyeop,FALSE
-Japan,2019-10-15,17:15,WCQ,Second round,Tue,Away,W,3,0,tj Tajikistan,"19,100",Maya Yoshida,Zaid Thamer Mohammed,FALSE
-Japan,2019-11-14,17:20,WCQ,Second round,Thu,Away,W,2,0,kg Kyrgyz Republic,"17,543",Maya Yoshida,Mohammed Al Hoish,FALSE
-Japan,2021-03-30,19:30,WCQ,Second round,Tue,Away,W,14,0,mn Mongolia,"",Maya Yoshida,Omar Mohamed Al Ali,FALSE
-Japan,2021-05-28,19:20,WCQ,Second round,Fri,Home,W,10,0,mm Myanmar,"",Maya Yoshida,Hasan Akrami,FALSE
-Japan,2021-06-07,19:30,WCQ,Second round,Mon,Home,W,4,1,tj Tajikistan,"",Genki Haraguchi,Abdelrahman Al Jassim,FALSE
-Japan,2021-06-15,19:25,WCQ,Second round,Tue,Home,W,5,1,kg Kyrgyz Republic,"",Genki Haraguchi,Omar Mubarak Al Yaqoubi,FALSE
-Japan,2021-09-02,19:14,WCQ,Third round,Thu,Home,L,0,1,om Oman,"4,853",Maya Yoshida,Mohammed Abdulla Hassan,FALSE
-Japan,2021-09-07,18:00,WCQ,Third round,Tue,Away,W,1,0,cn China PR,"",Maya Yoshida,Nawaf Shukralla,FALSE
-Japan,2021-10-07,20:00,WCQ,Third round,Thu,Away,L,0,1,sa Saudi Arabia,"51,218",Maya Yoshida,Adham Makhadmeh,FALSE
-Japan,2021-10-12,19:14,WCQ,Third round,Tue,Home,W,2,1,au Australia,"14,437",Maya Yoshida,Abdulrahman Ibrahim Al Jassim,FALSE
-Japan,2021-11-11,19:00,WCQ,Third round,Thu,Away,W,1,0,vn Vietnam,"11,022",Maya Yoshida,Mohammed Abdulla Hassan,FALSE
-Japan,2021-11-16,20:00,WCQ,Third round,Tue,Away,W,1,0,om Oman,"14,123",Maya Yoshida,Ko Hyungjin,FALSE
-Japan,2022-01-27,19:00,WCQ,Third round,Thu,Home,W,2,0,cn China PR,"11,753",Wataru Endo,Abdulrahman Ibrahim Al Jassim,FALSE
-Japan,2022-02-01,19:14,WCQ,Third round,Tue,Home,W,2,0,sa Saudi Arabia,"19,118",Wataru Endo,Ko Hyungjin,FALSE
-Japan,2022-03-24,20:10,WCQ,Third round,Thu,Away,W,2,0,au Australia,"41,852",Maya Yoshida,Nawaf Shukralla,FALSE
-Japan,2022-03-29,19:35,WCQ,Third round,Tue,Home,D,1,1,vn Vietnam,"44,600",Maya Yoshida,Ilgiz Tantashev,FALSE
-Japan,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Home,W,4,1,py Paraguay,"24,511",Maya Yoshida,Chris Beath,FALSE
-Japan,2022-06-06,19:20,Friendlies (M),Friendlies (M),Mon,Home,L,0,1,br Brazil,"63,638",Maya Yoshida,Alireza Faghani,FALSE
-Japan,2022-09-23,14:25,Friendlies (M),Friendlies (M),Fri,Neutral,W,2,0,us United States,"5,149",Maya Yoshida,Felix Zwayer,FALSE
-Japan,2022-09-27,13:55,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,ec Ecuador,"4,321",Gaku Shibasaki,Sascha Stegemann,FALSE
-Japan,2022-11-17,22:40,Friendlies (M),Friendlies (M),Thu,Home,"",,,ca Canada,"","","",FALSE
-Korea Republic,2019-09-10,19:00,WCQ,Second round,Tue,Away,W,2,0,tm Turkmenistan,"26,000",Son Heung-min,Ammar Ali Al Junaibi,FALSE
-Korea Republic,2019-10-10,20:00,WCQ,Second round,Thu,Home,W,8,0,lk Sri Lanka,"23,225",Son Heung-min,Hasan Akrami,FALSE
-Korea Republic,2019-10-15,17:30,WCQ,Second round,Tue,Away,"",,,kp Korea DPR,100,Son Heung-min,Abdelrahman Al Jassim,FALSE
-Korea Republic,2019-11-14,15:00,WCQ,Second round,Thu,Away,D,0,0,lb Lebanon,170,Son Heung-min,Mohanad Qasim Sarray,FALSE
-Korea Republic,2021-06-05,20:00,WCQ,Second round,Sat,Home,W,5,0,tm Turkmenistan,"3,932",Son Heung-min,Turki Mohammed Al Khudayr,FALSE
-Korea Republic,2021-06-07,20:00,WCQ,Second round,Mon,Home,"",,,kp Korea DPR,"","","",FALSE
-Korea Republic,2021-06-09,20:00,WCQ,Second round,Wed,Away,W,5,0,lk Sri Lanka,"4,008",Kim Shin-wook,Shen Yinhao,FALSE
-Korea Republic,2021-06-13,15:00,WCQ,Second round,Sun,Home,W,2,1,lb Lebanon,"4,061",Son Heung-min,Khamis Al Marri,FALSE
-Korea Republic,2021-09-02,20:00,WCQ,Third round,Thu,Home,D,0,0,iq Iraq,"",Son Heung-min,Nawaf Shukralla,FALSE
-Korea Republic,2021-09-07,20:00,WCQ,Third round,Tue,Home,W,1,0,lb Lebanon,"",Kim Young-gwon,Ryūji Satō,FALSE
-Korea Republic,2021-10-07,20:00,WCQ,Third round,Thu,Home,W,2,1,sy Syria,"",Son Heung-min,Abdulrahman Ibrahim Al Jassim,FALSE
-Korea Republic,2021-10-12,17:00,WCQ,Third round,Tue,Away,D,1,1,ir IR Iran,"",Son Heung-min,Ahmed Al Kaf,FALSE
-Korea Republic,2021-11-11,20:00,WCQ,Third round,Thu,Home,W,1,0,ae UAE,"30,152",Son Heung-min,Ma Ning,FALSE
-Korea Republic,2021-11-16,18:00,WCQ,Third round,Tue,Away,W,3,0,iq Iraq,"",Son Heung-min,Ilgiz Tantashev,FALSE
-Korea Republic,2022-01-15,14:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,5,1,is Iceland,"",Kim Young-gwon,Ali Palabıyık,FALSE
-Korea Republic,2022-01-21,14:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,4,0,md Moldova,"",Kim Young-gwon,Abdulkadir Bitigen,FALSE
-Korea Republic,2022-01-27,14:00,WCQ,Third round,Thu,Away,W,1,0,lb Lebanon,"5,400",Kim Young-gwon,Ahmed Al Kaf,FALSE
-Korea Republic,2022-02-01,18:00,WCQ,Third round,Tue,Neutral,W,2,0,sy Syria,310,Kim Young-gwon,Hiroyuki Kimura,FALSE
-Korea Republic,2022-03-24,20:00,WCQ,Third round,Thu,Home,W,2,0,ir IR Iran,"64,375",Son Heung-min,Chris Beath,FALSE
-Korea Republic,2022-03-29,17:45,WCQ,Third round,Tue,Away,L,0,1,ae UAE,"4,223",Son Heung-min,Ahmed Al Kaf,FALSE
-Korea Republic,2022-06-02,20:00,Friendlies (M),Friendlies (M),Thu,Home,L,1,5,br Brazil,"64,872",Son Heung-min,Ryūji Satō,FALSE
-Korea Republic,2022-06-06,20:00,Friendlies (M),Friendlies (M),Mon,Home,W,2,0,cl Chile,"40,135",Son Heung-min,Ryūji Satō,FALSE
-Korea Republic,2022-06-10,20:00,Friendlies (M),Friendlies (M),Fri,Home,D,2,2,py Paraguay,"40,228",Son Heung-min,Jérémie Pignard,FALSE
-Korea Republic,2022-06-14,20:00,Friendlies (M),Friendlies (M),Tue,Home,W,4,1,eg Egypt,"59,712",Son Heung-min,Jérémie Pignard,FALSE
-Korea Republic,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Home,D,2,2,cr Costa Rica,"37,581",Son Heung-min,Alex King,FALSE
-Korea Republic,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Home,W,1,0,cm Cameroon,"",Son Heung-min,Alex King,FALSE
-Korea Republic,2022-11-11,20:00,Friendlies (M),Friendlies (M),Fri,Home,"",,,is Iceland,"","","",FALSE
-Mexico,2021-09-02,21:00,WCQ,Third round,Thu,Home,W,2,1,jm Jamaica,"",Guillermo Ochoa,Selvin Brown,FALSE
-Mexico,2021-09-05,17:05,WCQ,Third round,Sun,Away,W,1,0,cr Costa Rica,"2,200",Andrés Guardado,Ismail Elfath,FALSE
-Mexico,2021-09-08,19:05,WCQ,Third round,Wed,Away,D,1,1,pa Panama,"16,000",Guillermo Ochoa,Mario Escobar,FALSE
-Mexico,2021-10-07,20:40,WCQ,Third round,Thu,Home,D,1,1,ca Canada,"40,468",Andrés Guardado,Ismael Cornejo,FALSE
-Mexico,2021-10-10,18:00,WCQ,Third round,Sun,Home,W,3,0,hn Honduras,"45,590",Guillermo Ochoa,Ismail Elfath,FALSE
-Mexico,2021-10-13,20:05,WCQ,Third round,Wed,Away,W,2,0,sv El Salvador,"31,000",Guillermo Ochoa,Drew Fischer,FALSE
-Mexico,2021-11-12,21:10,WCQ,Third round,Fri,Away,L,0,2,us United States,"26,000",Guillermo Ochoa,Iván Barton,FALSE
-Mexico,2021-11-16,19:05,WCQ,Third round,Tue,Away,L,1,2,ca Canada,"44,212",Guillermo Ochoa,Mario Escobar,FALSE
-Mexico,2022-01-27,19:00,WCQ,Third round,Thu,Away,W,2,1,jm Jamaica,"",Andrés Guardado,Ismael Cornejo,FALSE
-Mexico,2022-01-30,17:00,WCQ,Third round,Sun,Home,D,0,0,cr Costa Rica,"2,000",Guillermo Ochoa,Said Martínez,FALSE
-Mexico,2022-02-02,21:00,WCQ,Third round,Wed,Home,W,1,0,pa Panama,"2,000",Andrés Guardado,Iván Barton,FALSE
-Mexico,2022-03-24,20:00,WCQ,Third round,Thu,Home,D,0,0,us United States,"47,000",Guillermo Ochoa,Mario Escobar,FALSE
-Mexico,2022-03-27,17:05,WCQ,Third round,Sun,Away,W,1,0,hn Honduras,"",Guillermo Ochoa,Armando Villarreal,FALSE
-Mexico,2022-03-30,19:05,WCQ,Third round,Wed,Home,W,2,0,sv El Salvador,"",Guillermo Ochoa,Oshane Nation,FALSE
-Mexico,2022-04-27,20:30,Friendlies (M),Friendlies (M),Wed,Home,D,0,0,gt Guatemala,"37,311",Jesús Alberto Angulo,Reon Radix,FALSE
-Mexico,2022-05-28,19:08,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,ng Nigeria,"56,872",Andrés Guardado,José Torres,FALSE
-Mexico,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,3,uy Uruguay,"57,735",César Montes,Juan Gabriel Calderón,FALSE
-Mexico,2022-06-05,18:30,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,ec Ecuador,"61,104",Andrés Guardado,Oliver Vergara,FALSE
-Mexico,2022-08-31,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0,1,py Paraguay,"51,387",César Montes,Nima Saghafi,FALSE
-Mexico,2022-09-24,18:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,pe Peru,"62,729",Guillermo Ochoa,Bryan López,FALSE
-Mexico,2022-09-27,19:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,2,3,co Colombia,"67,311",Andrés Guardado,Nima Saghafi,FALSE
-Mexico,2022-11-09,21:00,Friendlies (M),Friendlies (M),Wed,Home,"",,,iq Iraq,"","","",FALSE
-Mexico,2022-11-16,20:30,Friendlies (M),Friendlies (M),Wed,Home,"",,,se Sweden,"","","",FALSE
-Morocco,2021-09-02,20:00,WCQ,Second round,Thu,Home,W,2,0,sd Sudan,"",Romain Saïss,Maguette Ndiaye,FALSE
-Morocco,2021-10-06,20:00,WCQ,Second round,Wed,Home,W,5,0,gw Guinea-Bissau,"",Romain Saïss,Boubou Traoré,FALSE
-Morocco,2021-10-09,19:00,WCQ,Second round,Sat,Away,W,3,0,gw Guinea-Bissau,"",Romain Saïss,Jean-Jacques Ndala,FALSE
-Morocco,2021-10-12,20:00,WCQ,Second round,Tue,Away,W,4,1,gn Guinea,"",Romain Saïss,Alioum,FALSE
-Morocco,2021-11-12,21:00,WCQ,Second round,Fri,Away,W,3,0,sd Sudan,"",Romain Saïss,Peter Waweru,FALSE
-Morocco,2021-11-16,20:00,WCQ,Second round,Tue,Home,W,3,0,gn Guinea,"",Yassine Bounou,Joshua Bondo,FALSE
-Morocco,2022-01-10,17:00,Africa Cup of Nations,Group stage,Mon,Neutral,W,1,0,gh Ghana,"",Romain Saïss,Joshua Bondo,FALSE
-Morocco,2022-01-14,17:00,Africa Cup of Nations,Group stage,Fri,Neutral,W,2,0,km Comoros,"",Romain Saïss,Sadek Selmi,FALSE
-Morocco,2022-01-18,20:00,Africa Cup of Nations,Group stage,Tue,Neutral,D,2,2,ga Gabon,"",Fayçal Fajr,Dahane Beida,FALSE
-Morocco,2022-01-25,20:00,Africa Cup of Nations,Round of 16,Tue,Neutral,W,2,1,mw Malawi,"",Romain Saïss,Pacifique Ndabihawenimana,FALSE
-Morocco,2022-01-30,16:00,Africa Cup of Nations,Quarter-finals,Sun,Neutral,L,1,2,eg Egypt,"",Romain Saïss,Maguette Ndiaye,FALSE
-Morocco,2022-03-25,16:00,WCQ,Third round,Fri,Away,D,1,1,cd Congo DR,"",Romain Saïss,Victor Gomes,FALSE
-Morocco,2022-03-29,19:30,WCQ,Third round,Tue,Home,W,4,1,cd Congo DR,"",Romain Saïss,Pacifique Ndabihawenimana,FALSE
-Morocco,2022-06-01,19:30,Friendlies (M),Friendlies (M),Wed,Away,L,0,3,us United States,"19,512",Romain Saïss,Ismael Cornejo,FALSE
-Morocco,2022-06-09,20:00,Africa Cup of Nations qualification,Group stage,Thu,Home,W,2,1,za South Africa,"",Romain Saïss,Sadek Selmi,FALSE
-Morocco,2022-06-13,20:00,Africa Cup of Nations qualification,Group stage,Mon,Neutral,W,2,0,lr Liberia,"",Romain Saïss,Mohamed Ali Moussa,FALSE
-Morocco,2022-09-19,"",Africa Cup of Nations qualification,Group stage,Mon,Home,"",,,zw Zimbabwe,"","","",FALSE
-Morocco,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Home,W,2,0,cl Chile,"",Romain Saïss,Martin Dohál,FALSE
-Morocco,2022-09-27,"",Africa Cup of Nations qualification,Group stage,Tue,Away,"",,,zw Zimbabwe,"","","",FALSE
-Morocco,2022-09-27,21:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,py Paraguay,"",Romain Saïss,Jesús Gil,FALSE
-Morocco,2022-11-17,"",Friendlies (M),Friendlies (M),Thu,Home,"",,,ge Georgia,"","","",FALSE
-Netherlands,2021-03-24,20:00,WCQ,First round,Wed,Away,L,2,4,tr Turkey,"",Georginio Wijnaldum,Michael Oliver,FALSE
-Netherlands,2021-03-27,18:00,WCQ,First round,Sat,Home,W,2,0,lv Latvia,"5,000",Georginio Wijnaldum,Stéphanie Frappart,FALSE
-Netherlands,2021-03-30,20:45,WCQ,First round,Tue,Away,W,7,0,gi Gibraltar,335,Georginio Wijnaldum,João Pinheiro,FALSE
-Netherlands,2021-09-01,20:45,WCQ,First round,Wed,Away,D,1,1,no Norway,"6,711",Virgil van Dijk,Szymon Marciniak,FALSE
-Netherlands,2021-09-04,20:45,WCQ,First round,Sat,Home,W,4,0,me Montenegro,"20,458",Georginio Wijnaldum,Jesús Gil,FALSE
-Netherlands,2021-09-07,20:45,WCQ,First round,Tue,Home,W,6,1,tr Turkey,"31,389",Virgil van Dijk,Daniele Orsato,FALSE
-Netherlands,2021-10-08,21:45,WCQ,First round,Fri,Away,W,1,0,lv Latvia,"4,711",Virgil van Dijk,Andy Madley,FALSE
-Netherlands,2021-10-11,20:45,WCQ,First round,Mon,Home,W,6,0,gi Gibraltar,"31,583",Virgil van Dijk,Vitaly Meshkov,FALSE
-Netherlands,2021-11-13,20:45,WCQ,First round,Sat,Away,D,2,2,me Montenegro,"1,844",Virgil van Dijk,Carlos del Cerro,FALSE
-Netherlands,2021-11-16,20:45,WCQ,First round,Tue,Home,W,2,0,no Norway,"",Virgil van Dijk,Clément Turpin,FALSE
-Netherlands,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Home,W,4,2,dk Denmark,"",Virgil van Dijk,Lawrence Visser,FALSE
-Netherlands,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,de Germany,"50,387",Virgil van Dijk,Craig Pawson,FALSE
-Netherlands,2022-06-03,20:45,UEFA Nations League,League A,Fri,Away,W,4,1,be Belgium,"38,327",Virgil van Dijk,José Sánchez,FALSE
-Netherlands,2022-06-08,19:45,UEFA Nations League,League A,Wed,Away,W,2,1,wls Wales,"23,395",Stefan de Vrij,Glenn Nyberg,FALSE
-Netherlands,2022-06-11,20:45,UEFA Nations League,League A,Sat,Home,D,2,2,pl Poland,"39,382",Memphis Depay,Halil Umut Meler,FALSE
-Netherlands,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,W,3,2,wls Wales,"32,247",Matthijs de Ligt,Horațiu Fesnic,FALSE
-Netherlands,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,W,2,0,pl Poland,"56,673",Virgil van Dijk,Alejandro Hernández,FALSE
-Netherlands,2022-09-25,20:45,UEFA Nations League,League A,Sun,Home,W,1,0,be Belgium,"52,314",Virgil van Dijk,Anthony Taylor,FALSE
-Poland,2021-03-25,20:45,WCQ,First round,Thu,Away,D,3,3,hu Hungary,"",Robert Lewandowski,Felix Brych,FALSE
-Poland,2021-03-28,20:45,WCQ,First round,Sun,Home,W,3,0,ad Andorra,"",Robert Lewandowski,Erik Lambrechts,FALSE
-Poland,2021-03-31,19:45,WCQ,First round,Wed,Away,L,1,2,eng England,"",Kamil Glik,Björn Kuipers,FALSE
-Poland,2021-09-02,20:45,WCQ,First round,Thu,Home,W,4,1,al Albania,"38,254",Robert Lewandowski,Maurizio Mariani,FALSE
-Poland,2021-09-05,20:45,WCQ,First round,Sun,Away,W,7,1,sm San Marino,500,Robert Lewandowski,Mattias Gestranius,FALSE
-Poland,2021-09-08,20:45,WCQ,First round,Wed,Home,D,1,1,eng England,"56,212",Robert Lewandowski,Daniel Siebert,FALSE
-Poland,2021-10-09,20:45,WCQ,First round,Sat,Home,W,5,0,sm San Marino,"56,128",Robert Lewandowski,Fran Jović,FALSE
-Poland,2021-10-12,20:45,WCQ,First round,Tue,Away,W,1,0,al Albania,"21,000",Robert Lewandowski,Clément Turpin,FALSE
-Poland,2021-11-12,20:45,WCQ,First round,Fri,Away,W,4,1,ad Andorra,"1,049",Robert Lewandowski,John Beaton,FALSE
-Poland,2021-11-15,20:45,WCQ,First round,Mon,Home,L,1,2,hu Hungary,"",Wojciech Szczęsny,Tiago Martins,FALSE
-Poland,2022-03-24,20:00,WCQ,Semi-finals,Thu,Away,"",,,ru Russia,"","","",FALSE
-Poland,2022-03-24,19:45,Friendlies (M),Friendlies (M),Thu,Away,D,1,1,sct Scotland,"",Kamil Glik,Robert Hennessy,FALSE
-Poland,2022-03-29,20:45,WCQ,Finals,Tue,Home,W,2,0,se Sweden,"54,078",Robert Lewandowski,Daniele Orsato,FALSE
-Poland,2022-06-01,18:00,UEFA Nations League,League A,Wed,Home,W,2,1,wls Wales,"35,214",Robert Lewandowski,Rade Obrenović,FALSE
-Poland,2022-06-08,20:45,UEFA Nations League,League A,Wed,Away,L,1,6,be Belgium,"27,409",Robert Lewandowski,Ivan Kružliak,FALSE
-Poland,2022-06-11,20:45,UEFA Nations League,League A,Sat,Away,D,2,2,nl Netherlands,"39,382",Grzegorz Krychowiak,Halil Umut Meler,FALSE
-Poland,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,L,0,1,be Belgium,"58,803",Robert Lewandowski,Irfan Peljto,FALSE
-Poland,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,L,0,2,nl Netherlands,"56,673",Robert Lewandowski,Alejandro Hernández,FALSE
-Poland,2022-09-25,19:45,UEFA Nations League,League A,Sun,Away,W,1,0,wls Wales,"31,520",Robert Lewandowski,Andris Treimanis,FALSE
-Poland,2022-11-16,18:00,Friendlies (M),Friendlies (M),Wed,Home,"",,,cl Chile,"","","",FALSE
-Portugal,2021-03-24,19:45,WCQ,First round,Wed,Home,W,1,0,az Azerbaijan,"",Cristiano Ronaldo,Daniel Siebert,FALSE
-Portugal,2021-03-27,20:45,WCQ,First round,Sat,Away,D,2,2,rs Serbia,"",Cristiano Ronaldo,Danny Makkelie,FALSE
-Portugal,2021-03-30,20:45,WCQ,First round,Tue,Away,W,3,1,lu Luxembourg,"",Cristiano Ronaldo,Sergey Ivanov,FALSE
-Portugal,2021-09-01,19:45,WCQ,First round,Wed,Home,W,2,1,ie Rep. of Ireland,"7,831",Cristiano Ronaldo,Matej Jug,FALSE
-Portugal,2021-09-07,20:00,WCQ,First round,Tue,Away,W,3,0,az Azerbaijan,"20,574",João Moutinho,Marco Guida,FALSE
-Portugal,2021-10-12,19:45,WCQ,First round,Tue,Home,W,5,0,lu Luxembourg,"18,553",Cristiano Ronaldo,Benoît Bastien,FALSE
-Portugal,2021-11-11,19:45,WCQ,First round,Thu,Away,D,0,0,ie Rep. of Ireland,"50,737",Cristiano Ronaldo,Jesús Gil,FALSE
-Portugal,2021-11-14,19:45,WCQ,First round,Sun,Home,L,1,2,rs Serbia,"58,873",Cristiano Ronaldo,Daniele Orsato,FALSE
-Portugal,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,3,1,tr Turkey,"48,010",Cristiano Ronaldo,Daniel Siebert,FALSE
-Portugal,2022-03-29,19:45,WCQ,Finals,Tue,Home,W,2,0,mk N. Macedonia,"48,010",Cristiano Ronaldo,Anthony Taylor,FALSE
-Portugal,2022-06-02,20:45,UEFA Nations League,League A,Thu,Away,D,1,1,es Spain,"41,236",João Moutinho,Michael Oliver,FALSE
-Portugal,2022-06-05,19:45,UEFA Nations League,League A,Sun,Home,W,4,0,ch Switzerland,"42,325",Cristiano Ronaldo,Orel Grinfeeld,FALSE
-Portugal,2022-06-09,19:45,UEFA Nations League,League A,Thu,Home,W,2,0,cz Czech Republic,"44,100",Cristiano Ronaldo,Matej Jug,FALSE
-Portugal,2022-06-12,20:45,UEFA Nations League,League A,Sun,Away,L,0,1,ch Switzerland,"26,300",Pepe,Fran Jović,FALSE
-Portugal,2022-09-24,20:45,UEFA Nations League,League A,Sat,Away,W,4,0,cz Czech Republic,"19,322",Cristiano Ronaldo,Srđan Jovanović,FALSE
-Portugal,2022-09-27,19:45,UEFA Nations League,League A,Tue,Home,L,0,1,es Spain,"28,196",Cristiano Ronaldo,Daniele Orsato,FALSE
-Portugal,2022-11-17,18:45,Friendlies (M),Friendlies (M),Thu,Home,"",,,ng Nigeria,"","","",FALSE
-Qatar,2019-09-05,19:30,WCQ,Second round,Thu,Home,W,6,0,af Afghanistan,"10,950",Hassan Al-Haydos,Aziz Asimov,FALSE
-Qatar,2019-09-10,19:30,WCQ,Second round,Tue,Home,D,0,0,in India,"12,020",Hassan Al-Haydos,Nazmi Nasaruddin,FALSE
-Qatar,2019-10-10,19:00,WCQ,Second round,Thu,Away,W,2,0,bd Bangladesh,"24,570",Hassan Al-Haydos,Bijan Heidari,FALSE
-Qatar,2019-10-15,19:30,WCQ,Second round,Tue,Home,W,2,1,om Oman,"26,731",Hassan Al-Haydos,Fu Ming,FALSE
-Qatar,2019-11-19,19:00,WCQ,Second round,Tue,Neutral,W,1,0,af Afghanistan,"6,000",Hassan Al-Haydos,Timur Fayzullin,FALSE
-Qatar,2020-12-04,19:00,WCQ,Second round,Fri,Home,W,5,0,bd Bangladesh,"1,044",Hassan Al-Haydos,Amirul Izwan Yaacob,FALSE
-Qatar,2021-06-03,20:00,WCQ,Second round,Thu,Away,W,1,0,in India,"",Hassan Al-Haydos,Ma Ning,FALSE
-Qatar,2021-06-07,20:10,WCQ,Second round,Mon,Away,W,1,0,om Oman,"1,559",Hassan Al-Haydos,Crishantha Dilan Perera,FALSE
-Qatar,2022-03-26,20:30,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,bg Bulgaria,"",Boualem Khoukhi,Mohammed Khaled Al Hoish,FALSE
-Qatar,2022-03-29,20:30,Friendlies (M),Friendlies (M),Tue,Home,D,0,0,si Slovenia,"",Saad Al Sheeb,Youssef Essrairi,FALSE
-Qatar,2022-08-26,18:30,Friendlies (M),Friendlies (M),Fri,Home,D,1,1,jm Jamaica,"",Abdulaziz Hatem,Sebastian Gishamer,FALSE
-Qatar,2022-09-23,19:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,ca Canada,"",Saad Al Sheeb,Manuel Schüttengruber,FALSE
-Qatar,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Home,D,2,2,cl Chile,"",Hassan Al-Haydos,Julian Weinberger,FALSE
-Saudi Arabia,2019-09-10,19:00,WCQ,Second round,Tue,Away,D,2,2,ye Yemen,"3,100",Omar Hawsawi,Sivakorn Pu-udom,FALSE
-Saudi Arabia,2019-10-10,20:00,WCQ,Second round,Thu,Home,W,3,0,sg Singapore,"14,560",Yahya Al-Shehri,Kim Heegon,FALSE
-Saudi Arabia,2019-10-15,16:00,WCQ,Second round,Tue,Away,D,0,0,ps Palestine,"12,000",Salman Al-Faraj,Ahmed Al Kaf,FALSE
-Saudi Arabia,2019-11-14,17:00,WCQ,Second round,Thu,Away,W,3,2,uz Uzbekistan,"31,524",Salman Al-Faraj,Ryūji Satō,FALSE
-Saudi Arabia,2021-03-30,20:30,WCQ,Second round,Tue,Home,W,5,0,ps Palestine,"",Salem Al-Dawsari,Mohanad Qasim Sarray,FALSE
-Saudi Arabia,2021-06-05,21:00,WCQ,Second round,Sat,Home,W,3,0,ye Yemen,"4,382",Salman Al-Faraj,Nivon Robesh,FALSE
-Saudi Arabia,2021-06-11,21:00,WCQ,Second round,Fri,Away,W,3,0,sg Singapore,"4,879",Salman Al-Faraj,Mohanad Qasim Sarray,FALSE
-Saudi Arabia,2021-06-15,21:00,WCQ,Second round,Tue,Home,W,3,0,uz Uzbekistan,"6,339",Salman Al-Faraj,Ko Hyungjin,FALSE
-Saudi Arabia,2021-09-02,21:00,WCQ,Third round,Thu,Home,W,3,1,vn Vietnam,"8,331",Salman Al-Faraj,Ilgiz Tantashev,FALSE
-Saudi Arabia,2021-09-07,20:00,WCQ,Third round,Tue,Away,W,1,0,om Oman,"8,150",Salman Al-Faraj,Hanna Hattab,FALSE
-Saudi Arabia,2021-10-07,20:00,WCQ,Third round,Thu,Home,W,1,0,jp Japan,"51,218",Salman Al-Faraj,Adham Makhadmeh,FALSE
-Saudi Arabia,2021-10-12,20:00,WCQ,Third round,Tue,Home,W,3,2,cn China PR,"54,124",Salman Al-Faraj,Ilgiz Tantashev,FALSE
-Saudi Arabia,2021-11-11,20:10,WCQ,Third round,Thu,Away,D,0,0,au Australia,"23,314",Salman Al-Faraj,Ko Hyungjin,FALSE
-Saudi Arabia,2021-11-16,19:00,WCQ,Third round,Tue,Away,W,1,0,vn Vietnam,"9,669",Salman Al-Faraj,Hanna Hattab,FALSE
-Saudi Arabia,2022-01-27,20:15,WCQ,Third round,Thu,Home,W,1,0,om Oman,"47,364",Salem Al-Dawsari,Nawaf Shukralla,FALSE
-Saudi Arabia,2022-02-01,19:14,WCQ,Third round,Tue,Away,L,0,2,jp Japan,"19,118",Salem Al-Dawsari,Ko Hyungjin,FALSE
-Saudi Arabia,2022-03-24,19:00,WCQ,Third round,Thu,Away,D,1,1,cn China PR,200,Salman Al-Faraj,Mohammed Abdulla Hassan,FALSE
-Saudi Arabia,2022-03-29,21:00,WCQ,Third round,Tue,Home,W,1,0,au Australia,"51,433",Salman Al-Faraj,Adham Makhadmeh,FALSE
-Saudi Arabia,2022-06-05,19:00,Friendlies (M),Friendlies (M),Sun,Neutral,L,0,1,co Colombia,"2,000",Salman Al-Faraj,Jason Barcelo,FALSE
-Saudi Arabia,2022-06-09,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,1,ve Venezuela,"",Salem Al-Dawsari,Jason Barcelo,FALSE
-Saudi Arabia,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,0,0,ec Ecuador,"",Salem Al-Dawsari,Ivan Bebek,FALSE
-Saudi Arabia,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Home,D,0,0,us United States,364,Ali Al-Bulaihi,Ivan Bebek,FALSE
-Saudi Arabia,2022-11-06,16:00,Friendlies (M),Friendlies (M),Sun,Neutral,"",,,is Iceland,"","","",FALSE
-Saudi Arabia,2022-11-10,18:00,Friendlies (M),Friendlies (M),Thu,Home,"",,,pa Panama,"","","",FALSE
-Saudi Arabia,2022-11-16,18:00,Friendlies (M),Friendlies (M),Wed,Home,"",,,hr Croatia,"","","",FALSE
-Senegal,2021-09-01,16:00,WCQ,Second round,Wed,Home,W,2,0,tg Togo,"",Kalidou Koulibaly,Sadek Selmi,FALSE
-Senegal,2021-09-07,17:00,WCQ,Second round,Tue,Away,W,3,1,cg Congo,"",Kalidou Koulibaly,Mohamed Ali Moussa,FALSE
-Senegal,2021-10-09,19:00,WCQ,Second round,Sat,Home,W,4,1,na Namibia,"",Kalidou Koulibaly,Kalilou Traoré,FALSE
-Senegal,2021-10-12,15:00,WCQ,Second round,Tue,Away,W,3,1,na Namibia,"",Kalidou Koulibaly,Athoumani Mohamed,FALSE
-Senegal,2021-11-11,19:00,WCQ,Second round,Thu,Away,D,1,1,tg Togo,"",Kalidou Koulibaly,Jalal Jiyed,FALSE
-Senegal,2021-11-14,19:00,WCQ,Second round,Sun,Home,W,2,0,cg Congo,"",Kalidou Koulibaly,Fabrício Duarte,FALSE
-Senegal,2022-01-10,14:00,Africa Cup of Nations,Group stage,Mon,Neutral,W,1,0,zw Zimbabwe,"",Idrissa Gana Gueye,Mario Escobar,FALSE
-Senegal,2022-01-14,14:00,Africa Cup of Nations,Group stage,Fri,Neutral,D,0,0,gn Guinea,"",Sadio Mané,Bamlak Tessema,FALSE
-Senegal,2022-01-18,17:00,Africa Cup of Nations,Group stage,Tue,Neutral,D,0,0,mw Malawi,"",Kalidou Koulibaly,Blaise Ngwa,FALSE
-Senegal,2022-01-25,17:00,Africa Cup of Nations,Round of 16,Tue,Neutral,W,2,0,cv Cape Verde,"10,155",Kalidou Koulibaly,Lahlou Benbraham,FALSE
-Senegal,2022-01-30,20:00,Africa Cup of Nations,Quarter-finals,Sun,Neutral,W,3,1,gq Equ. Guinea,"17,262",Kalidou Koulibaly,Victor Gomes,FALSE
-Senegal,2022-02-02,20:00,Africa Cup of Nations,Semi-finals,Wed,Neutral,W,3,1,bf Burkina Faso,"",Kalidou Koulibaly,Bamlak Tessema,FALSE
-Senegal,2022-02-06,20:00,Africa Cup of Nations,Final,Sun,Neutral,D,0 (4),0 (2),eg Egypt,"",Kalidou Koulibaly,Victor Gomes,FALSE
-Senegal,2022-03-25,21:30,WCQ,Third round,Fri,Away,L,0,1,eg Egypt,"",Kalidou Koulibaly,Jean-Jacques Ndala,FALSE
-Senegal,2022-03-29,17:00,WCQ,Third round,Tue,Home,W,1 (3),0 (1),eg Egypt,"",Kalidou Koulibaly,Mustapha Ghorbal,FALSE
-Senegal,2022-06-04,19:00,Africa Cup of Nations qualification,Group stage,Sat,Home,W,3,1,bj Benin,"",Kalidou Koulibaly,Karim Sabry,FALSE
-Senegal,2022-06-07,21:00,Africa Cup of Nations qualification,Group stage,Tue,Away,W,1,0,rw Rwanda,"",Kalidou Koulibaly,Jean-Jacques Ndala,FALSE
-Senegal,2022-09-24,19:15,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,0,bo Bolivia,"",Kalidou Koulibaly,Bastien Dechepy,FALSE
-Senegal,2022-09-27,16:30,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,ir IR Iran,"",Kalidou Koulibaly,Harald Lechner,FALSE
-Serbia,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,2,ie Rep. of Ireland,"",Dušan Tadić,Davide Massa,FALSE
-Serbia,2021-03-27,20:45,WCQ,First round,Sat,Home,D,2,2,pt Portugal,"",Dušan Tadić,Danny Makkelie,FALSE
-Serbia,2021-03-30,20:00,WCQ,First round,Tue,Away,W,2,1,az Azerbaijan,"",Dušan Tadić,Roi Reinshreiber,FALSE
-Serbia,2021-09-04,18:00,WCQ,First round,Sat,Home,W,4,1,lu Luxembourg,"10,078",Dušan Tadić,Halil Umut Meler,FALSE
-Serbia,2021-09-07,19:45,WCQ,First round,Tue,Away,D,1,1,ie Rep. of Ireland,"25,415",Dušan Tadić,José Sánchez,FALSE
-Serbia,2021-10-09,20:45,WCQ,First round,Sat,Away,W,1,0,lu Luxembourg,"2,000",Dušan Tadić,William Collum,FALSE
-Serbia,2021-10-12,20:45,WCQ,First round,Tue,Home,W,3,1,az Azerbaijan,"5,890",Matija Nastasić,Erik Lambrechts,FALSE
-Serbia,2021-11-14,19:45,WCQ,First round,Sun,Away,W,2,1,pt Portugal,"58,873",Dušan Tadić,Daniele Orsato,FALSE
-Serbia,2022-03-24,19:30,Friendlies (M),Friendlies (M),Thu,Away,W,1,0,hu Hungary,"",Dušan Tadić,Filip Glova,FALSE
-Serbia,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Away,L,0,3,dk Denmark,"",Dušan Tadić,Felix Zwayer,FALSE
-Serbia,2022-06-02,20:45,UEFA Nations League,League B,Thu,Home,L,0,1,no Norway,"9,726",Dušan Tadić,Paweł Raczkowski,FALSE
-Serbia,2022-06-05,20:45,UEFA Nations League,League B,Sun,Home,W,4,1,si Slovenia,"10,925",Aleksandar Mitrović,Jesús Gil,FALSE
-Serbia,2022-06-09,20:45,UEFA Nations League,League B,Thu,Away,W,1,0,se Sweden,"24,123",Dušan Tadić,Lawrence Visser,FALSE
-Serbia,2022-06-12,20:45,UEFA Nations League,League B,Sun,Away,D,2,2,si Slovenia,"13,782",Dušan Tadić,Maurizio Mariani,FALSE
-Serbia,2022-09-24,20:45,UEFA Nations League,League B,Sat,Home,W,4,1,se Sweden,"14,122",Dušan Tadić,Georgi Kabakov,FALSE
-Serbia,2022-09-27,20:45,UEFA Nations League,League B,Tue,Away,W,2,0,no Norway,"24,364",Dušan Tadić,Antonio Matéu Lahoz,FALSE
-Serbia,2022-11-18,19:00,Friendlies (M),Friendlies (M),Fri,Away,"",,,bh Bahrain,"","","",FALSE
-Spain,2021-03-25,20:45,WCQ,First round,Thu,Home,D,1,1,gr Greece,"",Sergio Ramos,Marco Guida,FALSE
-Spain,2021-03-28,20:00,WCQ,First round,Sun,Away,W,2,1,ge Georgia,"",Sergio Busquets,Radu Petrescu,FALSE
-Spain,2021-03-31,20:45,WCQ,First round,Wed,Home,W,3,1,xk Kosovo,"",Sergio Busquets,Jakob Kehlet,FALSE
-Spain,2021-09-02,20:45,WCQ,First round,Thu,Away,L,1,2,se Sweden,"16,901",Sergio Busquets,Anthony Taylor,FALSE
-Spain,2021-09-05,20:45,WCQ,First round,Sun,Home,W,4,0,ge Georgia,"8,444",César Azpilicueta,Tiago Martins,FALSE
-Spain,2021-09-08,20:45,WCQ,First round,Wed,Away,W,2,0,xk Kosovo,"1,200",Sergio Busquets,Bobby Madden,FALSE
-Spain,2021-11-11,21:45,WCQ,First round,Thu,Away,W,1,0,gr Greece,"7,825",Koke,Szymon Marciniak,FALSE
-Spain,2021-11-14,20:45,WCQ,First round,Sun,Home,W,1,0,se Sweden,"51,844",Sergio Busquets,Felix Brych,FALSE
-Spain,2022-03-26,19:45,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,al Albania,"",Álvaro Morata,Trustin Farrugia Cann,FALSE
-Spain,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Home,W,5,0,is Iceland,"34,600",Jordi Alba,Horațiu Fesnic,FALSE
-Spain,2022-06-02,20:45,UEFA Nations League,League A,Thu,Home,D,1,1,pt Portugal,"41,236",Sergio Busquets,Michael Oliver,FALSE
-Spain,2022-06-05,20:45,UEFA Nations League,League A,Sun,Away,D,2,2,cz Czech Republic,"18,245",Koke,François Letexier,FALSE
-Spain,2022-06-09,20:45,UEFA Nations League,League A,Thu,Away,W,1,0,ch Switzerland,"25,875",Sergio Busquets,Serdar Gözübüyük,FALSE
-Spain,2022-06-12,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,cz Czech Republic,"30,389",Koke,Cüneyt Çakιr,FALSE
-Spain,2022-09-24,20:45,UEFA Nations League,League A,Sat,Home,L,1,2,ch Switzerland,"31,089",Sergio Busquets,Clément Turpin,FALSE
-Spain,2022-09-27,19:45,UEFA Nations League,League A,Tue,Away,W,1,0,pt Portugal,"28,196",Koke,Daniele Orsato,FALSE
-Spain,2022-11-17,19:00,Friendlies (M),Friendlies (M),Thu,Away,"",,,jo Jordan,"","","",FALSE
-Switzerland,2021-03-25,19:00,WCQ,First round,Thu,Away,W,3,1,bg Bulgaria,"",Granit Xhaka,Nikola Dabanović,FALSE
-Switzerland,2021-03-28,20:45,WCQ,First round,Sun,Home,W,1,0,lt Lithuania,"",Granit Xhaka,Mattias Gestranius,FALSE
-Switzerland,2021-09-05,20:45,WCQ,First round,Sun,Home,D,0,0,it Italy,"31,500",Yann Sommer,Carlos del Cerro,FALSE
-Switzerland,2021-09-08,19:45,WCQ,First round,Wed,Away,D,0,0,nir Northern Ireland,"15,660",Yann Sommer,Harald Lechner,FALSE
-Switzerland,2021-10-09,20:45,WCQ,First round,Sat,Home,W,2,0,nir Northern Ireland,"19,129",Xherdan Shaqiri,Slavko Vinčič,FALSE
-Switzerland,2021-10-12,21:45,WCQ,First round,Tue,Away,W,4,0,lt Lithuania,"1,806",Xherdan Shaqiri,Tiago Martins,FALSE
-Switzerland,2021-11-12,20:45,WCQ,First round,Fri,Away,D,1,1,it Italy,"45,699",Xherdan Shaqiri,Anthony Taylor,FALSE
-Switzerland,2021-11-15,20:45,WCQ,First round,Mon,Home,W,4,0,bg Bulgaria,"",Xherdan Shaqiri,Benoît Bastien,FALSE
-Switzerland,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Away,L,1,2,eng England,"",Granit Xhaka,Andreas Ekberg,FALSE
-Switzerland,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,xk Kosovo,"",Granit Xhaka,Ruddy Buquet,FALSE
-Switzerland,2022-06-02,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,cz Czech Republic,"12,236",Granit Xhaka,Daniel Siebert,FALSE
-Switzerland,2022-06-05,19:45,UEFA Nations League,League A,Sun,Away,L,0,4,pt Portugal,"42,325",Granit Xhaka,Orel Grinfeeld,FALSE
-Switzerland,2022-06-09,20:45,UEFA Nations League,League A,Thu,Home,L,0,1,es Spain,"25,875",Granit Xhaka,Serdar Gözübüyük,FALSE
-Switzerland,2022-06-12,20:45,UEFA Nations League,League A,Sun,Home,W,1,0,pt Portugal,"26,300",Granit Xhaka,Fran Jović,FALSE
-Switzerland,2022-09-24,20:45,UEFA Nations League,League A,Sat,Away,W,2,1,es Spain,"31,089",Granit Xhaka,Clément Turpin,FALSE
-Switzerland,2022-09-27,20:45,UEFA Nations League,League A,Tue,Home,W,2,1,cz Czech Republic,"13,353",Granit Xhaka,Irfan Peljto,FALSE
-Switzerland,2022-11-17,11:00,Friendlies (M),Friendlies (M),Thu,Away,"",,,gh Ghana,"","","",FALSE
-Tunisia,2021-09-03,20:00,WCQ,Second round,Fri,Home,W,3,0,gq Equ. Guinea,,Wahbi Khazri,Daniel Nii Ayi Laryea,FALSE
-Tunisia,2021-09-07,15:00,WCQ,Second round,Tue,Away,W,2,0,zm Zambia,,Wahbi Khazri,Eric Otogo-Castane,FALSE
-Tunisia,2021-10-07,20:00,WCQ,Second round,Thu,Home,W,3,0,mr Mauritania,,Wahbi Khazri,Bamlak Tessema,FALSE
-Tunisia,2021-10-10,19:00,WCQ,Second round,Sun,Away,D,0,0,mr Mauritania,,Farouk Ben Mustapha,Mehdi Abid Charef,FALSE
-Tunisia,2021-11-13,17:00,WCQ,Second round,Sat,Away,L,0,1,gq Equ. Guinea,,Wahbi Khazri,Boubou Traoré,FALSE
-Tunisia,2021-11-16,20:00,WCQ,Second round,Tue,Home,W,3,1,zm Zambia,,Wahbi Khazri,Pacifique Ndabihawenimana,FALSE
-Tunisia,2022-01-12,14:00,Africa Cup of Nations,Group stage,Wed,Neutral,L,0,1,ml Mali,,Wahbi Khazri,Janny Sikazwe,FALSE
-Tunisia,2022-01-16,17:00,Africa Cup of Nations,Group stage,Sun,Neutral,W,4,0,mr Mauritania,,Wahbi Khazri,Mahmoud El Banna,FALSE
-Tunisia,2022-01-20,20:00,Africa Cup of Nations,Group stage,Thu,Neutral,L,0,1,gm Gambia,,Ellyes Skhiri,Fernando Guerrero,FALSE
-Tunisia,2022-01-23,20:00,Africa Cup of Nations,Round of 16,Sun,Neutral,W,1,0,ng Nigeria,,Youssef Msakni,Maguette Ndiaye,FALSE
-Tunisia,2022-01-29,20:00,Africa Cup of Nations,Quarter-finals,Sat,Neutral,L,0,1,bf Burkina Faso,,Youssef Msakni,Joshua Bondo,FALSE
-Tunisia,2022-03-25,17:00,WCQ,Third round,Fri,Away,W,1,0,ml Mali,,Youssef Msakni,Bamlak Tessema,FALSE
-Tunisia,2022-03-29,20:30,WCQ,Third round,Tue,Home,D,0,0,ml Mali,,Youssef Msakni,Maguette Ndiaye,FALSE
-Tunisia,2022-06-02,20:00,Africa Cup of Nations qualification,Group stage,Thu,Home,W,4,0,gq Equ. Guinea,,Ferjani Sassi,Pacifique Ndabihawenimana,FALSE
-Tunisia,2022-06-05,15:00,Africa Cup of Nations qualification,Group stage,Sun,Away,D,0,0,bw Botswana,,Ali Maâloul,Athoumani Mohamed,FALSE
-Tunisia,2022-09-22,16:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,km Comoros,,Wahbi Khazri,Gabriel Henry,FALSE
-Tunisia,2022-09-27,15:30,Friendlies (M),Friendlies (M),Tue,Neutral,L,1,5,br Brazil,,Youssef Msakni,Ruddy Buquet,FALSE
-Tunisia,2022-11-16,"",Friendlies (M),Friendlies (M),Wed,Away,"",,,ir IR Iran,,"","",FALSE
-United States,2021-09-02,20:05,WCQ,Third round,Thu,Away,D,0,0,sv El Salvador,"29,000",Tyler Adams,Juan Gabriel Calderón,FALSE
-United States,2021-09-05,19:12,WCQ,Third round,Sun,Home,D,1,1,ca Canada,"43,028",Christian Pulisic,Oshane Nation,FALSE
-United States,2021-09-08,20:30,WCQ,Third round,Wed,Away,W,4,1,hn Honduras,"31,000",Christian Pulisic,Fernando Hernández,FALSE
-United States,2021-10-07,18:45,WCQ,Third round,Thu,Home,W,2,0,jm Jamaica,"20,500",Tyler Adams,Reon Radix,FALSE
-United States,2021-10-10,17:05,WCQ,Third round,Sun,Away,L,0,1,pa Panama,"16,228",Walker Zimmerman,César Arturo Ramos,FALSE
-United States,2021-10-13,19:00,WCQ,Third round,Wed,Home,W,2,1,cr Costa Rica,"20,165",Tyler Adams,Daneon Parchment,FALSE
-United States,2021-11-12,21:10,WCQ,Third round,Fri,Home,W,2,0,mx Mexico,"26,000",Tyler Adams,Iván Barton,FALSE
-United States,2021-11-16,17:00,WCQ,Third round,Tue,Away,D,1,1,jm Jamaica,"4,100",Tyler Adams,Juan Gabriel Calderón,FALSE
-United States,2022-01-27,19:00,WCQ,Third round,Thu,Home,W,1,0,sv El Salvador,"20,000",Christian Pulisic,Bryan López,FALSE
-United States,2022-01-30,15:05,WCQ,Third round,Sun,Away,L,0,2,ca Canada,"12,000",Tyler Adams,César Arturo Ramos,FALSE
-United States,2022-02-02,18:30,WCQ,Third round,Wed,Home,W,3,0,hn Honduras,"19,202",Walker Zimmerman,Oshane Nation,FALSE
-United States,2022-03-24,20:00,WCQ,Third round,Thu,Away,D,0,0,mx Mexico,"47,000",Tyler Adams,Mario Escobar,FALSE
-United States,2022-03-27,19:00,WCQ,Third round,Sun,Home,W,5,1,pa Panama,"25,022",Christian Pulisic,Iván Barton,FALSE
-United States,2022-03-30,19:05,WCQ,Third round,Wed,Away,L,0,2,cr Costa Rica,"35,000",Walker Zimmerman,Drew Fischer,FALSE
-United States,2022-06-01,19:30,Friendlies (M),Friendlies (M),Wed,Home,W,3,0,ma Morocco,"19,512",Christian Pulisic,Ismael Cornejo,FALSE
-United States,2022-09-23,14:25,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,jp Japan,"5,149",Walker Zimmerman,Felix Zwayer,FALSE
-United States,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Away,D,0,0,sa Saudi Arabia,364,Christian Pulisic,Ivan Bebek,FALSE
-Uruguay,2020-10-08,19:45,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,1,cl Chile,"",Diego Godín,Eber Aguino,FALSE
-Uruguay,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,2,4,ec Ecuador,"",Diego Godín,Wilmar Roldán,FALSE
-Uruguay,2020-11-13,15:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,W,3,0,co Colombia,"",Diego Godín,Fernando Rapallini,FALSE
-Uruguay,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,2,br Brazil,"",Diego Godín,Roberto Tobar,FALSE
-Uruguay,2021-06-03,19:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,py Paraguay,"",Diego Godín,Wilmar Roldán,FALSE
-Uruguay,2021-06-08,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,ve Venezuela,"",Diego Godín,Anderson Daronco,FALSE
-Uruguay,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,pe Peru,"",Diego Godín,Néstor Pitana,FALSE
-Uruguay,2021-09-05,19:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,4,2,bo Bolivia,"",Diego Godín,Eber Aguino,FALSE
-Uruguay,2021-09-09,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,ec Ecuador,"",Fernando Muslera,Anderson Daronco,FALSE
-Uruguay,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,co Colombia,"",Diego Godín,Jesús Valenzuela,FALSE
-Uruguay,2021-10-10,20:30,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,0,3,ar Argentina,"",Diego Godín,Roberto Tobar,FALSE
-Uruguay,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,4,br Brazil,"",Diego Godín,Fernando Rapallini,FALSE
-Uruguay,2021-11-12,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Home,L,0,1,ar Argentina,"",Diego Godín,Alexis Herrera,FALSE
-Uruguay,2021-11-16,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,0,3,bo Bolivia,"",Diego Godín,Wilton Sampaio,FALSE
-Uruguay,2022-01-27,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,py Paraguay,"",Diego Godín,Darío Herrera,FALSE
-Uruguay,2022-02-01,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,1,ve Venezuela,"",Diego Godín,Bruno Arleu de Araujo,FALSE
-Uruguay,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,pe Peru,"",Diego Godín,Anderson Daronco,FALSE
-Uruguay,2022-03-29,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,cl Chile,"",Diego Godín,Patricio Loustau,FALSE
-Uruguay,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,3,0,mx Mexico,"57,735",Edinson Cavani,Juan Gabriel Calderón,FALSE
-Uruguay,2022-09-23,19:30,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,1,ir IR Iran,"",Luis Suárez,Walter Altmann,FALSE
-Uruguay,2022-09-27,18:00,Friendlies (M),Friendlies (M),Tue,Away,W,2,0,ca Canada,"",Luis Suárez,Peter Kráľovič,FALSE
-Wales,2021-03-24,20:45,WCQ,First round,Wed,Away,L,1,3,be Belgium,"",Gareth Bale,Cüneyt Çakιr,FALSE
-Wales,2021-03-30,19:45,WCQ,First round,Tue,Home,W,1,0,cz Czech Republic,"",Gareth Bale,Ovidiu Hațegan,FALSE
-Wales,2021-09-05,16:00,WCQ,First round,Sun,Away,W,3,2,by Belarus,"",Gareth Bale,Giorgi Kruashvili,FALSE
-Wales,2021-09-08,19:45,WCQ,First round,Wed,Home,D,0,0,ee Estonia,"21,624",Gareth Bale,Ruddy Buquet,FALSE
-Wales,2021-10-08,20:45,WCQ,First round,Fri,Away,D,2,2,cz Czech Republic,"16,856",Aaron Ramsey,Deniz Aytekin,FALSE
-Wales,2021-10-11,21:45,WCQ,First round,Mon,Away,W,1,0,ee Estonia,"5,118",Aaron Ramsey,Sandro Schärer,FALSE
-Wales,2021-11-13,19:45,WCQ,First round,Sat,Home,W,5,1,by Belarus,"27,152",Gareth Bale,Maurizio Mariani,FALSE
-Wales,2021-11-16,19:45,WCQ,First round,Tue,Home,D,1,1,be Belgium,"32,343",Aaron Ramsey,Artur Dias,FALSE
-Wales,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,2,1,at Austria,"32,053",Gareth Bale,Szymon Marciniak,FALSE
-Wales,2022-03-29,19:45,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,cz Czech Republic,"",Wayne Hennessey,Paul Tierney,FALSE
-Wales,2022-06-01,18:00,UEFA Nations League,League A,Wed,Away,L,1,2,pl Poland,"35,214",Chris Gunter,Rade Obrenović,FALSE
-Wales,2022-06-05,17:00,WCQ,Finals,Sun,Home,W,1,0,ua Ukraine,"32,660",Gareth Bale,Antonio Matéu Lahoz,FALSE
-Wales,2022-06-08,19:45,UEFA Nations League,League A,Wed,Home,L,1,2,nl Netherlands,"23,395",Ben Davies,Glenn Nyberg,FALSE
-Wales,2022-06-11,19:45,UEFA Nations League,League A,Sat,Home,D,1,1,be Belgium,"27,188",Gareth Bale,Benoît Bastien,FALSE
-Wales,2022-06-14,20:45,UEFA Nations League,League A,Tue,Away,L,2,3,nl Netherlands,"32,247",Ben Davies,Horațiu Fesnic,FALSE
-Wales,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,be Belgium,"28,463",Wayne Hennessey,Ali Palabıyık,FALSE
-Wales,2022-09-25,19:45,UEFA Nations League,League A,Sun,Home,L,0,1,pl Poland,"31,520",Gareth Bale,Andris Treimanis,FALSE
+Argentina,2020-10-08,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,Ecuador,"",Lionel Messi,Roberto Tobar,FALSE
+Argentina,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,1,Bolivia,"",Lionel Messi,Diego Haro,FALSE
+Argentina,2020-11-12,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,Paraguay,"",Lionel Messi,Raphael Claus,FALSE
+Argentina,2020-11-17,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,Peru,"",Lionel Messi,Wilmar Roldán,FALSE
+Argentina,2021-06-03,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,Chile,"",Lionel Messi,Jesús Valenzuela,FALSE
+Argentina,2021-06-08,18:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,2,2,Colombia,"",Lionel Messi,Roberto Tobar,FALSE
+Argentina,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,Venezuela,"",Lionel Messi,Leodán González,FALSE
+Argentina,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,"",0,0,Brazil,"",Lionel Messi,Jesús Valenzuela,FALSE
+Argentina,2021-09-09,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,Bolivia,"",Lionel Messi,Kevin Ortega,FALSE
+Argentina,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,Paraguay,"",Lionel Messi,Anderson Daronco,FALSE
+Argentina,2021-10-10,20:30,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,3,0,Uruguay,"",Lionel Messi,Roberto Tobar,FALSE
+Argentina,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,Peru,"",Lionel Messi,Wilton Pereira Sampaio,FALSE
+Argentina,2021-11-12,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Away,W,1,0,Uruguay,"",Ángel Di María,Alexis Herrera,FALSE
+Argentina,2021-11-16,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,0,0,Brazil,"",Lionel Messi,Andrés Cunha,FALSE
+Argentina,2022-01-27,21:15,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,2,1,Chile,"",Ángel Di María,Anderson Daronco,FALSE
+Argentina,2022-02-01,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,1,0,Colombia,"",Ángel Di María,Raphael Claus,FALSE
+Argentina,2022-03-25,20:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,3,0,Venezuela,"",Lionel Messi,Kevin Ortega,FALSE
+Argentina,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,Ecuador,"",Lionel Messi,Raphael Claus,FALSE
+Argentina,2022-06-05,20:00,Friendlies (M),Friendlies (M),Sun,Neutral,W,5,0,Estonia,"18,332",Lionel Messi,Urs Schnyder,FALSE
+Argentina,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Home,W,3,0,Honduras,"64,420",Lionel Messi,Rubiel Vázquez,FALSE
+Argentina,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,Jamaica,"",Ángel Di María,Marco Ortíz,FALSE
+Argentina,2022-11-16,19:30,Friendlies (M),Friendlies (M),Wed,Away,"",,,UAE,"","","",FALSE
+Australia,2019-09-10,18:30,WCQ,Second round,Tue,Away,W,3,0,Kuwait,"11,852",Mathew Leckie,Taqi Aljaafari Jahari,FALSE
+Australia,2019-10-10,20:00,WCQ,Second round,Thu,Home,W,5,0,Nepal,"18,563",Mark Milligan,Thoriq Munir Alkatiri,FALSE
+Australia,2019-10-15,19:40,WCQ,Second round,Tue,Away,W,7,1,Chinese Taipei,"3,251",Mathew Ryan,Mongkolchai Pechsri,FALSE
+Australia,2019-11-14,18:00,WCQ,Second round,Thu,Away,W,1,0,Jordan,"9,712",Mathew Ryan,Fu Ming,FALSE
+Australia,2021-06-03,22:00,WCQ,Second round,Thu,Home,W,3,0,Kuwait,"",Mathew Leckie,Jumpei Iida,FALSE
+Australia,2021-06-07,22:00,WCQ,Second round,Mon,Home,W,5,1,Chinese Taipei,"",Trent Sainsbury,Saoud Ali Al Adba,FALSE
+Australia,2021-06-11,19:00,WCQ,Second round,Fri,Away,W,3,0,Nepal,"",Mathew Leckie,Ahmed Al Kaf,FALSE
+Australia,2021-06-15,19:00,WCQ,Second round,Tue,Home,W,1,0,Jordan,"",Mathew Ryan,Kim Woosung,FALSE
+Australia,2021-09-02,21:00,WCQ,Third round,Thu,Home,W,3,0,China PR,"",Mathew Ryan,Ko Hyungjin,FALSE
+Australia,2021-09-07,19:00,WCQ,Third round,Tue,Away,W,1,0,Vietnam,"",Mathew Ryan,Abdelrahman Al Jassim,FALSE
+Australia,2021-10-07,21:30,WCQ,Third round,Thu,Home,W,3,1,Oman,"",Mathew Ryan,Nawaf Shukralla,FALSE
+Australia,2021-10-12,19:14,WCQ,Third round,Tue,Away,L,1,2,Japan,"14,437",Mathew Ryan,Abdulrahman Ibrahim Al Jassim,FALSE
+Australia,2021-11-11,20:10,WCQ,Third round,Thu,Home,D,0,0,Saudi Arabia,"23,314",Mathew Ryan,Ko Hyungjin,FALSE
+Australia,2021-11-16,19:00,WCQ,Third round,Tue,Away,D,1,1,China PR,"1,050",Mathew Ryan,Adham Makhadmeh,FALSE
+Australia,2022-01-27,20:10,WCQ,Third round,Thu,Home,W,4,0,Vietnam,"27,740",Mathew Ryan,Ko Hyungjin,FALSE
+Australia,2022-02-01,20:00,WCQ,Third round,Tue,Away,D,2,2,Oman,"",Mathew Ryan,Mohammed Abdulla Hassan,FALSE
+Australia,2022-03-24,20:10,WCQ,Third round,Thu,Home,L,0,2,Japan,"41,852",Mathew Ryan,Nawaf Shukralla,FALSE
+Australia,2022-03-29,21:00,WCQ,Third round,Tue,Away,L,0,1,Saudi Arabia,"51,433",Mathew Ryan,Adham Makhadmeh,FALSE
+Australia,2022-06-01,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,W,2,1,Jordan,"",Mathew Ryan,Saad Mane,FALSE
+Australia,2022-06-07,21:00,WCQ,Fourth round,Tue,Neutral,W,2,1,UAE,"6,500",Mathew Ryan,Ilgiz Tantashev,FALSE
+Australia,2022-06-13,21:00,WCQ Play-offs,WCQ — Inter-confederation play-offs (M),Mon,Neutral,D,0 (5),0 (4),Peru,"",Mathew Ryan,Slavko Vinčič,FALSE
+Australia,2022-09-22,20:00,Friendlies (M),Friendlies (M),Thu,Home,W,1,0,New Zealand,"25,392",Mathew Ryan,Ryūji Satō,FALSE
+Australia,2022-09-25,16:00,Friendlies (M),Friendlies (M),Sun,Away,W,2,0,New Zealand,"34,985",Mathew Leckie,Yūsuke Araki,FALSE
+Belgium,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,1,Wales,"",Jan Vertonghen,Cüneyt Çakιr,FALSE
+Belgium,2021-03-27,20:45,WCQ,First round,Sat,Away,D,1,1,Czech Republic,"",Jan Vertonghen,William Collum,FALSE
+Belgium,2021-03-30,20:45,WCQ,First round,Tue,Home,W,8,0,Belarus,"",Jan Vertonghen,Donatas Rumšas,FALSE
+Belgium,2021-09-02,21:45,WCQ,First round,Thu,Away,W,5,2,Estonia,"6,685",Eden Hazard,Guillermo Cuadra,FALSE
+Belgium,2021-09-05,20:45,WCQ,First round,Sun,Home,W,3,0,Czech Republic,"21,416",Eden Hazard,Michael Oliver,FALSE
+Belgium,2021-09-08,21:45,WCQ,First round,Wed,Away,W,1,0,Belarus,"",Toby Alderweireld,Paweł Raczkowski,FALSE
+Belgium,2021-11-13,20:45,WCQ,First round,Sat,Home,W,3,1,Estonia,"29,895",Eden Hazard,Halil Umut Meler,FALSE
+Belgium,2021-11-16,19:45,WCQ,First round,Tue,Away,D,1,1,Wales,"32,343",Kevin De Bruyne,Artur Dias,FALSE
+Belgium,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Away,D,2,2,Rep. of Ireland,"",Youri Tielemans,Nick Walsh,FALSE
+Belgium,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Home,W,3,0,Burkina Faso,"",Youri Tielemans,Dennis Higler,FALSE
+Belgium,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,1,4,Netherlands,"38,327",Eden Hazard,José Sánchez,FALSE
+Belgium,2022-06-08,20:45,UEFA Nations League,League A,Wed,Home,W,6,1,Poland,"27,409",Eden Hazard,Ivan Kružliak,FALSE
+Belgium,2022-06-11,19:45,UEFA Nations League,League A,Sat,Away,D,1,1,Wales,"27,188",Kevin De Bruyne,Benoît Bastien,FALSE
+Belgium,2022-06-14,20:45,UEFA Nations League,League A,Tue,Away,W,1,0,Poland,"58,803",Eden Hazard,Irfan Peljto,FALSE
+Belgium,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,1,Wales,"28,463",Eden Hazard,Ali Palabıyık,FALSE
+Belgium,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,L,0,1,Netherlands,"52,314",Eden Hazard,Anthony Taylor,FALSE
+Belgium,2022-11-18,18:00,Friendlies (M),Friendlies (M),Fri,Neutral,"",,,Egypt,"","","",FALSE
+Brazil,2020-10-09,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,5,0,Bolivia,"",Casemiro,Leodán González,FALSE
+Brazil,2020-10-13,19:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,2,Peru,"",Thiago Silva,Julio Bascuñán,FALSE
+Brazil,2020-11-13,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,1,0,Venezuela,"",Thiago Silva,Juan Benítez,FALSE
+Brazil,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,Uruguay,"",Thiago Silva,Roberto Tobar,FALSE
+Brazil,2021-06-04,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Home,W,2,0,Ecuador,"",Casemiro,Alexis Herrera,FALSE
+Brazil,2021-06-08,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,Paraguay,"",Marquinhos,Patricio Loustau,FALSE
+Brazil,2021-09-02,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,Chile,"",Casemiro,Diego Haro,FALSE
+Brazil,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,"",0,0,Argentina,"",Casemiro,Jesús Valenzuela,FALSE
+Brazil,2021-09-09,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,Peru,"",Casemiro,Wilmar Roldán,FALSE
+Brazil,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,Venezuela,"",Thiago Silva,Kevin Ortega,FALSE
+Brazil,2021-10-10,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,D,0,0,Colombia,"",Marquinhos,Patricio Loustau,FALSE
+Brazil,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,1,Uruguay,"",Thiago Silva,Fernando Rapallini,FALSE
+Brazil,2021-11-11,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,Colombia,"",Thiago Silva,Roberto Tobar,FALSE
+Brazil,2021-11-16,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,Argentina,"",Marquinhos,Andrés Cunha,FALSE
+Brazil,2022-01-27,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,Ecuador,"",Casemiro,Wilmar Roldán,FALSE
+Brazil,2022-02-01,21:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,0,Paraguay,"",Dani Alves,Facundo Tello,FALSE
+Brazil,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,0,Chile,"",Thiago Silva,Darío Herrera,FALSE
+Brazil,2022-03-29,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,0,Bolivia,"",Dani Alves,Eber Aquino,FALSE
+Brazil,2022-06-02,20:00,Friendlies (M),Friendlies (M),Thu,Away,W,5,1,Korea Republic,"64,872",Dani Alves,Ryūji Satō,FALSE
+Brazil,2022-06-06,19:20,Friendlies (M),Friendlies (M),Mon,Away,W,1,0,Japan,"63,638",Dani Alves,Alireza Faghani,FALSE
+Brazil,2022-09-23,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,Ghana,"",Thiago Silva,Mikael Lesage,FALSE
+Brazil,2022-09-27,15:30,Friendlies (M),Friendlies (M),Tue,Neutral,W,5,1,Tunisia,"",Thiago Silva,Ruddy Buquet,FALSE
+Cameroon,2021-09-03,20:00,WCQ,Second round,Fri,Home,W,2,0,Malawi,"",Vincent Aboubakar,Jean-Jacques Ndala,FALSE
+Cameroon,2021-09-06,19:00,WCQ,Second round,Mon,Away,L,1,2,Côte d'Ivoire,"",Vincent Aboubakar,Mehdi Abid Charef,FALSE
+Cameroon,2021-10-08,17:00,WCQ,Second round,Fri,Home,W,3,1,Mozambique,"",Vincent Aboubakar,Mohamed Maarouf,FALSE
+Cameroon,2021-10-11,15:00,WCQ,Second round,Mon,Away,W,1,0,Mozambique,"",Vincent Aboubakar,Sabri Mohamed Fadel,FALSE
+Cameroon,2021-11-13,15:00,WCQ,Second round,Sat,Away,W,4,0,Malawi,"",Vincent Aboubakar,Issa Sy,FALSE
+Cameroon,2021-11-16,20:00,WCQ,Second round,Tue,Home,W,1,0,Côte d'Ivoire,"",Vincent Aboubakar,Janny Sikazwe,FALSE
+Cameroon,2022-01-09,17:00,Africa Cup of Nations,Group stage,Sun,Neutral,W,2,1,Burkina Faso,"",Vincent Aboubakar,Mustapha Ghorbal,FALSE
+Cameroon,2022-01-13,17:00,Africa Cup of Nations,Group stage,Thu,Neutral,W,4,1,Ethiopia,"",Vincent Aboubakar,Jean-Jacques Ndala,FALSE
+Cameroon,2022-01-17,17:00,Africa Cup of Nations,Group stage,Mon,Neutral,D,1,1,Cape Verde,"",Vincent Aboubakar,Sadek Selmi,FALSE
+Cameroon,2022-01-24,20:00,Africa Cup of Nations,Round of 16,Mon,Neutral,W,2,1,Comoros,"",Vincent Aboubakar,Bamlak Tessema,FALSE
+Cameroon,2022-01-29,17:00,Africa Cup of Nations,Quarter-finals,Sat,Neutral,W,2,0,Gambia,"",Vincent Aboubakar,Pacifique Ndabihawenimana,FALSE
+Cameroon,2022-02-03,20:00,Africa Cup of Nations,Semi-finals,Thu,Neutral,D,0 (1),0 (3),Egypt,"",Vincent Aboubakar,Bakary Papa Gassama,FALSE
+Cameroon,2022-02-05,20:00,Africa Cup of Nations,Third-place match,Sat,Neutral,D,3 (5),3 (3),Burkina Faso,"",Ambroise Oyongo,Redouane Jiyed,FALSE
+Cameroon,2022-03-25,18:00,WCQ,Third round,Fri,Home,L,0,1,Algeria,"",Vincent Aboubakar,Joshua Bondo,FALSE
+Cameroon,2022-03-27,"",Africa Cup of Nations qualification,Group stage,Sun,Away,"","","",Namibia,"","","",FALSE
+Cameroon,2022-03-29,20:30,WCQ,Third round,Tue,Away,W,2,1,Algeria,"",Eric Maxim Choupo-Moting,Bakary Papa Gassama,FALSE
+Cameroon,2022-06-04,17:00,Africa Cup of Nations qualification,Group stage,Sat,Home,"","","",Kenya,"","",Mahamat Alhadj Allaou,FALSE
+Cameroon,2022-06-09,16:00,Africa Cup of Nations qualification,Group stage,Thu,Neutral,W,1,0,Burundi,"",Vincent Aboubakar,Souleiman Ahmed Djama,FALSE
+Cameroon,2022-09-23,15:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,Uzbekistan,323,Vincent Aboubakar,Kim Woosung,FALSE
+Cameroon,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Away,L,0,1,Korea Republic,"59,389",Vincent Aboubakar,Alex King,FALSE
+Cameroon,2022-11-09,18:00,Friendlies (M),Friendlies (M),Wed,Home,D,1,1,Jamaica,"",Vincent Aboubakar,Jean-Jacques Ndala,FALSE
+Cameroon,2022-11-18,17:00,Friendlies (M),Friendlies (M),Fri,Home,"","","",Panama,"","","",FALSE
+Canada,2021-03-25,20:00,WCQ,First round,Thu,Home,W,5,1,Bermuda,"",Atiba Hutchinson,Armando Villarreal,FALSE
+Canada,2021-03-29,18:00,WCQ,First round,Mon,Away,W,11,0,Cayman Islands,"",Samuel Piette,Ted Unkel,FALSE
+Canada,2021-06-05,20:00,WCQ,First round,Sat,Away,W,7,0,Aruba,45,Junior Hoilett,Marco Ortíz,FALSE
+Canada,2021-06-08,20:05,WCQ,First round,Tue,Home,W,4,0,Suriname,"",Milan Borjan,Nima Saghafi,FALSE
+Canada,2021-06-12,17:00,WCQ,Second round,Sat,Away,W,1,0,Haiti,"",Milan Borjan,John Pitti,FALSE
+Canada,2021-06-15,20:05,WCQ,Second round,Tue,Home,W,3,0,Haiti,"",Milan Borjan,Rubiel Vázquez,FALSE
+Canada,2021-09-02,20:05,WCQ,Third round,Thu,Home,D,1,1,Honduras,"14,822",Atiba Hutchinson,Fernando Guerrero,FALSE
+Canada,2021-09-05,19:12,WCQ,Third round,Sun,Away,D,1,1,United States,"43,028",Milan Borjan,Oshane Nation,FALSE
+Canada,2021-09-08,19:30,WCQ,Third round,Wed,Home,W,3,0,El Salvador,"14,926",Atiba Hutchinson,Ricardo Montero,FALSE
+Canada,2021-10-07,20:40,WCQ,Third round,Thu,Away,D,1,1,Mexico,"40,468",Steven Vitória,Ismael Cornejo,FALSE
+Canada,2021-10-10,17:00,WCQ,Third round,Sun,Away,D,0,0,Jamaica,"",Doneil Henry,Keylor Herrera,FALSE
+Canada,2021-10-13,19:30,WCQ,Third round,Wed,Home,W,4,1,Panama,"26,622",Steven Vitória,Armando Villarreal,FALSE
+Canada,2021-11-12,19:05,WCQ,Third round,Fri,Home,W,1,0,Costa Rica,"48,806",Milan Borjan,Ismail Elfath,FALSE
+Canada,2021-11-16,19:05,WCQ,Third round,Tue,Home,W,2,1,Mexico,"44,212",Atiba Hutchinson,Mario Escobar,FALSE
+Canada,2022-01-27,19:05,WCQ,Third round,Thu,Away,W,2,0,Honduras,"10,000",Atiba Hutchinson,Daneon Parchment,FALSE
+Canada,2022-01-30,15:05,WCQ,Third round,Sun,Home,W,2,0,United States,"12,000",Milan Borjan,César Arturo Ramos,FALSE
+Canada,2022-02-02,20:00,WCQ,Third round,Wed,Away,W,2,0,El Salvador,"9,000",Atiba Hutchinson,Armando Villarreal,FALSE
+Canada,2022-03-24,20:05,WCQ,Third round,Thu,Away,L,0,1,Costa Rica,"35,000",Atiba Hutchinson,Said Martínez,FALSE
+Canada,2022-03-27,16:05,WCQ,Third round,Sun,Home,W,4,0,Jamaica,"29,122",Milan Borjan,Fernando Guerrero,FALSE
+Canada,2022-03-30,20:05,WCQ,Third round,Wed,Away,L,0,1,Panama,"8,000",Atiba Hutchinson,Jair Marrufo,FALSE
+Canada,2022-09-23,19:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,2,0,Qatar,"",Junior Hoilett,Manuel Schüttengruber,FALSE
+Canada,2022-09-27,18:00,Friendlies (M),Friendlies (M),Tue,Home,L,0,2,Uruguay,"",Milan Borjan,Peter Kráľovič,FALSE
+Canada,2022-11-11,18:30,Friendlies (M),Friendlies (M),Fri,Away,D,2,2,Bahrain,"",Samuel Piette,Abdullah Jamali,FALSE
+Canada,2022-11-17,22:40,Friendlies (M),Friendlies (M),Thu,Away,"",,,Japan,"","","",FALSE
+Costa Rica,2021-09-02,20:05,WCQ,Third round,Thu,Away,D,0,0,Panama,"14,000",Celso Borges,Iván Barton,FALSE
+Costa Rica,2021-09-05,17:05,WCQ,Third round,Sun,Home,L,0,1,Mexico,"2,200",Bryan Ruiz,Ismail Elfath,FALSE
+Costa Rica,2021-09-08,19:05,WCQ,Third round,Wed,Home,D,1,1,Jamaica,"3,000",Bryan Ruiz,Drew Fischer,FALSE
+Costa Rica,2021-10-07,18:05,WCQ,Third round,Thu,Away,D,0,0,Honduras,"18,500",Keylor Navas,Mario Escobar,FALSE
+Costa Rica,2021-10-10,16:05,WCQ,Third round,Sun,Home,W,2,1,El Salvador,"4,500",Bryan Ruiz,Said Martínez,FALSE
+Costa Rica,2021-10-13,19:00,WCQ,Third round,Wed,Away,L,1,2,United States,"20,165",Bryan Ruiz,Daneon Parchment,FALSE
+Costa Rica,2021-11-12,19:05,WCQ,Third round,Fri,Away,L,0,1,Canada,"48,806",Óscar Duarte,Ismail Elfath,FALSE
+Costa Rica,2021-11-16,19:05,WCQ,Third round,Tue,Home,W,2,1,Honduras,"7,000",Keylor Navas,Jair Marrufo,FALSE
+Costa Rica,2022-01-27,20:05,WCQ,Third round,Thu,Home,W,1,0,Panama,"16,534",Keylor Navas,Ismail Elfath,FALSE
+Costa Rica,2022-01-30,17:00,WCQ,Third round,Sun,Away,D,0,0,Mexico,"2,000",Keylor Navas,Said Martínez,FALSE
+Costa Rica,2022-02-02,19:00,WCQ,Third round,Wed,Away,W,1,0,Jamaica,"",Keylor Navas,Marco Ortíz,FALSE
+Costa Rica,2022-03-24,20:05,WCQ,Third round,Thu,Home,W,1,0,Canada,"35,000",Keylor Navas,Said Martínez,FALSE
+Costa Rica,2022-03-27,15:05,WCQ,Third round,Sun,Away,W,2,1,El Salvador,"",Keylor Navas,Daneon Parchment,FALSE
+Costa Rica,2022-03-30,19:05,WCQ,Third round,Wed,Home,W,2,0,United States,"35,000",Keylor Navas,Drew Fischer,FALSE
+Costa Rica,2022-06-14,21:00,WCQ Play-offs,WCQ — Inter-confederation play-offs (M),Tue,Neutral,W,1,0,New Zealand,"",Keylor Navas,Mohammed Abdulla Hassan,FALSE
+Costa Rica,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Away,D,2,2,Korea Republic,"37,581",Celso Borges,Alex King,FALSE
+Costa Rica,2022-09-27,15:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,2,1,Uzbekistan,"",Kendall Waston,Kim Daeyong,FALSE
+Costa Rica,2022-11-09,20:00,Friendlies (M),Friendlies (M),Wed,Home,W,2,0,Nigeria,"",Bryan Ruiz,Fernando Hernández,FALSE
+Costa Rica,2022-11-17,17:00,Friendlies (M),Friendlies (M),Thu,Away,"",,,Iraq,"","","",FALSE
+Croatia,2021-03-24,20:45,WCQ,First round,Wed,Away,L,0,1,Slovenia,"",Luka Modrić,Antonio Matéu Lahoz,FALSE
+Croatia,2021-03-27,18:00,WCQ,First round,Sat,Home,W,1,0,Cyprus,"",Luka Modrić,Kristo Tohver,FALSE
+Croatia,2021-03-30,20:45,WCQ,First round,Tue,Home,W,3,0,Malta,"",Domagoj Vida,Lionel Tschudi,FALSE
+Croatia,2021-09-01,21:45,WCQ,First round,Wed,Away,D,0,0,Russia,"18,708",Ivan Perišić,Roi Reinshreiber,FALSE
+Croatia,2021-09-04,20:45,WCQ,First round,Sat,Away,W,1,0,Slovakia,"9,047",Domagoj Vida,Bartosz Frankowski,FALSE
+Croatia,2021-09-07,20:45,WCQ,First round,Tue,Home,W,3,0,Slovenia,"16,237",Ivan Perišić,Clément Turpin,FALSE
+Croatia,2021-10-08,21:45,WCQ,First round,Fri,Away,W,3,0,Cyprus,"2,333",Luka Modrić,Michael Oliver,FALSE
+Croatia,2021-10-11,20:45,WCQ,First round,Mon,Home,D,2,2,Slovakia,"9,926",Luka Modrić,Ovidiu Hațegan,FALSE
+Croatia,2021-11-11,20:45,WCQ,First round,Thu,Away,W,7,1,Malta,"4,581",Luka Modrić,Deniz Aytekin,FALSE
+Croatia,2021-11-14,15:00,WCQ,First round,Sun,Home,W,1,0,Russia,"30,257",Luka Modrić,Danny Makkelie,FALSE
+Croatia,2022-03-26,17:00,Friendlies (M),Friendlies (M),Sat,Home,D,1,1,Slovenia,"",Luka Modrić,Abdullah Jamali,FALSE
+Croatia,2022-03-29,17:00,Friendlies (M),Friendlies (M),Tue,Home,W,2,1,Bulgaria,"",Domagoj Vida,Khamis Mohammed Al Marri,FALSE
+Croatia,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,0,3,Austria,"13,994",Mateo Kovačić,Chris Kavanagh,FALSE
+Croatia,2022-06-06,20:45,UEFA Nations League,League A,Mon,Home,D,1,1,France,"33,869",Luka Modrić,Marco Guida,FALSE
+Croatia,2022-06-10,20:45,UEFA Nations League,League A,Fri,Away,W,1,0,Denmark,"35,862",Marcelo Brozović,Bartosz Frankowski,FALSE
+Croatia,2022-06-13,20:45,UEFA Nations League,League A,Mon,Away,W,1,0,France,"774,100",Luka Modrić,Orel Grinfeeld,FALSE
+Croatia,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,1,Denmark,"22,715",Luka Modrić,Davide Massa,FALSE
+Croatia,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,W,3,1,Austria,"45,700",Luka Modrić,Artur Dias,FALSE
+Croatia,2022-11-16,13:00,Friendlies (M),Friendlies (M),Wed,Away,"",,,Saudi Arabia,"","","",FALSE
+Denmark,2021-03-25,19:00,WCQ,First round,Thu,Away,W,2,0,Israel,"5,000",Simon Kjær,Craig Pawson,FALSE
+Denmark,2021-03-28,18:00,WCQ,First round,Sun,Home,W,8,0,Moldova,"",Kasper Schmeichel,Aghayev Aliyev,FALSE
+Denmark,2021-03-31,20:45,WCQ,First round,Wed,Away,W,4,0,Austria,"",Simon Kjær,Artur Dias,FALSE
+Denmark,2021-09-01,20:45,WCQ,First round,Wed,Home,W,2,0,Scotland,"34,562",Simon Kjær,Ovidiu Hațegan,FALSE
+Denmark,2021-09-04,19:45,WCQ,First round,Sat,Away,W,1,0,Faroe Islands,"4,620",Kasper Schmeichel,Fran Jović,FALSE
+Denmark,2021-09-07,20:45,WCQ,First round,Tue,Home,W,5,0,Israel,"35,158",Simon Kjær,Tobias Stieler,FALSE
+Denmark,2021-10-09,21:45,WCQ,First round,Sat,Away,W,4,0,Moldova,"2,642",Simon Kjær,João Pinheiro,FALSE
+Denmark,2021-10-12,20:45,WCQ,First round,Tue,Home,W,1,0,Austria,"35,843",Simon Kjær,Ivan Kružliak,FALSE
+Denmark,2021-11-12,20:45,WCQ,First round,Fri,Home,W,3,1,Faroe Islands,"35,531",Simon Kjær,Radu Petrescu,FALSE
+Denmark,2021-11-15,19:45,WCQ,First round,Mon,Away,L,0,2,Scotland,"",Simon Kjær,Alejandro Hernández,FALSE
+Denmark,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Away,L,2,4,Netherlands,"",Kasper Schmeichel,Lawrence Visser,FALSE
+Denmark,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Home,W,3,0,Serbia,"",Christian Eriksen,Felix Zwayer,FALSE
+Denmark,2022-06-03,20:45,UEFA Nations League,League A,Fri,Away,W,2,1,France,"75,833",Kasper Schmeichel,Felix Zwayer,FALSE
+Denmark,2022-06-06,20:45,UEFA Nations League,League A,Mon,Away,W,2,1,Austria,"18,700",Kasper Schmeichel,William Collum,FALSE
+Denmark,2022-06-10,20:45,UEFA Nations League,League A,Fri,Home,L,0,1,Croatia,"35,862",Christian Eriksen,Bartosz Frankowski,FALSE
+Denmark,2022-06-13,20:45,UEFA Nations League,League A,Mon,Home,W,2,0,Austria,"35,230",Kasper Schmeichel,Alejandro Hernández,FALSE
+Denmark,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,Croatia,"22,715",Simon Kjær,Davide Massa,FALSE
+Denmark,2022-09-25,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,France,"36,064",Kasper Schmeichel,István Kovács,FALSE
+Ecuador,2020-10-08,21:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,Argentina,"",Enner Valencia,Roberto Tobar,FALSE
+Ecuador,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,2,Uruguay,"",Enner Valencia,Wilmar Roldán,FALSE
+Ecuador,2020-11-12,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,2,Bolivia,"",Alexander Domínguez,Wilton Pereira Sampaio,FALSE
+Ecuador,2020-11-17,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,6,1,Colombia,"",Alexander Domínguez,Jesús Valenzuela,FALSE
+Ecuador,2021-06-04,21:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,L,0,2,Brazil,"",Enner Valencia,Alexis Herrera,FALSE
+Ecuador,2021-06-08,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,1,2,Peru,"",Alexander Domínguez,Esteban Ostojich,FALSE
+Ecuador,2021-09-02,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,Paraguay,"",Enner Valencia,Andrés Matonte,FALSE
+Ecuador,2021-09-05,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,D,0,0,Chile,"",Enner Valencia,Facundo Tello,FALSE
+Ecuador,2021-09-09,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,1,Uruguay,"",Carlos Gruezo,Anderson Daronco,FALSE
+Ecuador,2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,Bolivia,"",Enner Valencia,Wilmar Roldán,FALSE
+Ecuador,2021-10-10,16:30,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,1,2,Venezuela,"",Enner Valencia,Andrés Cunha,FALSE
+Ecuador,2021-10-14,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,Colombia,"",Enner Valencia,Diego Haro,FALSE
+Ecuador,2021-11-11,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,Venezuela,"",Alexander Domínguez,Christian Ferreyra,FALSE
+Ecuador,2021-11-16,21:15,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,Chile,"",Alexander Domínguez,Fernando Rapallini,FALSE
+Ecuador,2022-01-27,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,1,1,Brazil,"",Enner Valencia,Wilmar Roldán,FALSE
+Ecuador,2022-02-01,21:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,Peru,"",Carlos Gruezo,Wilton Sampaio,FALSE
+Ecuador,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,3,Paraguay,"",Enner Valencia,Jesús Valenzuela,FALSE
+Ecuador,2022-03-29,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Home,D,1,1,Argentina,"",Carlos Gruezo,Raphael Claus,FALSE
+Ecuador,2022-06-02,20:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,Nigeria,"25,219",Enner Valencia,Ricardo Montero,FALSE
+Ecuador,2022-06-05,18:30,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,Mexico,"61,104",Alexander Domínguez,Oliver Vergara,FALSE
+Ecuador,2022-06-11,20:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,Cape Verde,"",Alexander Domínguez,Moeth Gaymes,FALSE
+Ecuador,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,0,0,Saudi Arabia,"",Enner Valencia,Ivan Bebek,FALSE
+Ecuador,2022-09-27,13:55,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,Japan,"4,321",Ángel Mena,Sascha Stegemann,FALSE
+Ecuador,2022-11-12,18:30,Friendlies (M),Friendlies (M),Sat,Neutral,D,0,0,Iraq,"",Alexander Domínguez,Gustavo Correia,FALSE
+England,2021-03-25,19:45,WCQ,First round,Thu,Home,W,5,0,San Marino,"",Raheem Sterling,Kirill Levnikov,FALSE
+England,2021-03-28,18:00,WCQ,First round,Sun,Away,W,2,0,Albania,200,Harry Kane,Orel Grinfeeld,FALSE
+England,2021-03-31,19:45,WCQ,First round,Wed,Home,W,2,1,Poland,"",Harry Kane,Björn Kuipers,FALSE
+England,2021-09-02,20:45,WCQ,First round,Thu,Away,W,4,0,Hungary,"58,260",Harry Kane,Cüneyt Çakιr,FALSE
+England,2021-09-05,17:00,WCQ,First round,Sun,Home,W,4,0,Andorra,"67,171",Jordan Henderson,Anastasios Papapetrou,FALSE
+England,2021-09-08,20:45,WCQ,First round,Wed,Away,D,1,1,Poland,"56,212",Harry Kane,Daniel Siebert,FALSE
+England,2021-10-09,20:45,WCQ,First round,Sat,Away,W,5,0,Andorra,"2,285",Kieran Trippier,Kateryna Monzul,FALSE
+England,2021-10-12,19:45,WCQ,First round,Tue,Home,D,1,1,Hungary,"69,380",Harry Kane,Alejandro Hernández,FALSE
+England,2021-11-12,19:45,WCQ,First round,Fri,Home,W,5,0,Albania,"80,366",Harry Kane,Ruddy Buquet,FALSE
+England,2021-11-15,20:45,WCQ,First round,Mon,Away,W,10,0,San Marino,"",Harry Kane,Rade Obrenović,FALSE
+England,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,Switzerland,"",Harry Kane,Andreas Ekberg,FALSE
+England,2022-03-29,19:45,Friendlies (M),Friendlies (M),Tue,Home,W,3,0,Côte d'Ivoire,"",Raheem Sterling,Erik Lambrechts,FALSE
+England,2022-06-04,18:00,UEFA Nations League,League A,Sat,Away,L,0,1,Hungary,"26,935",Harry Kane,Artur Dias,FALSE
+England,2022-06-07,20:45,UEFA Nations League,League A,Tue,Away,D,1,1,Germany,"66,289",Harry Kane,Carlos del Cerro,FALSE
+England,2022-06-11,19:45,UEFA Nations League,League A,Sat,Home,D,0,0,Italy,"1,782",Tammy Abraham,Szymon Marciniak,FALSE
+England,2022-06-14,19:45,UEFA Nations League,League A,Tue,Home,L,0,4,Hungary,"28,839",Harry Kane,Clément Turpin,FALSE
+England,2022-09-23,20:45,UEFA Nations League,League A,Fri,Away,L,0,1,Italy,"50,640",Harry Kane,Jesús Gil,FALSE
+England,2022-09-26,19:45,UEFA Nations League,League A,Mon,Home,D,3,3,Germany,"78,949",Harry Kane,Danny Makkelie,FALSE
+France,2021-03-24,20:45,WCQ,First round,Wed,Home,D,1,1,Ukraine,"",Hugo Lloris,Tobias Stieler,FALSE
+France,2021-03-28,19:00,WCQ,First round,Sun,Away,W,2,0,Kazakhstan,"",Hugo Lloris,Aliaksei Kulbakou,FALSE
+France,2021-03-31,20:45,WCQ,First round,Wed,Away,W,1,0,Bosnia & Herz'na,"",Hugo Lloris,Daniele Orsato,FALSE
+France,2021-09-01,20:45,WCQ,First round,Wed,Home,D,1,1,Bosnia & Herz'na,"21,754",Hugo Lloris,Sandro Schärer,FALSE
+France,2021-09-04,21:45,WCQ,First round,Sat,Away,D,1,1,Ukraine,"48,000",Hugo Lloris,Slavko Vinčič,FALSE
+France,2021-09-07,20:45,WCQ,First round,Tue,Home,W,2,0,Finland,"57,057",Hugo Lloris,Deniz Aytekin,FALSE
+France,2021-11-13,20:45,WCQ,First round,Sat,Home,W,8,0,Kazakhstan,"45,551",Hugo Lloris,Glenn Nyberg,FALSE
+France,2021-11-16,21:45,WCQ,First round,Tue,Away,W,2,0,Finland,"31,890",Hugo Lloris,Marco Guida,FALSE
+France,2022-03-25,21:15,Friendlies (M),Friendlies (M),Fri,Home,W,2,1,Côte d'Ivoire,"62,510",Hugo Lloris,Vitor Ferreira Fernandes,FALSE
+France,2022-03-29,21:15,Friendlies (M),Friendlies (M),Tue,Home,W,5,0,South Africa,"48,120",Raphaël Varane,Sandro Schärer,FALSE
+France,2022-06-03,20:45,UEFA Nations League,League A,Fri,Home,L,1,2,Denmark,"75,833",Hugo Lloris,Felix Zwayer,FALSE
+France,2022-06-06,20:45,UEFA Nations League,League A,Mon,Away,D,1,1,Croatia,"33,869",Presnel Kimpembe,Marco Guida,FALSE
+France,2022-06-10,20:45,UEFA Nations League,League A,Fri,Away,D,1,1,Austria,"44,800",Hugo Lloris,Anastasios Sidiropoulos,FALSE
+France,2022-06-13,20:45,UEFA Nations League,League A,Mon,Home,L,0,1,Croatia,"774,100",Presnel Kimpembe,Orel Grinfeeld,FALSE
+France,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,W,2,0,Austria,"70,188",Raphaël Varane,Andreas Ekberg,FALSE
+France,2022-09-25,20:45,UEFA Nations League,League A,Sun,Away,L,0,2,Denmark,"36,064",Antoine Griezmann,István Kovács,FALSE
+Germany,2021-03-25,20:45,WCQ,First round,Thu,Home,W,3,0,Iceland,"",Manuel Neuer,Srđan Jovanović,FALSE
+Germany,2021-03-28,21:45,WCQ,First round,Sun,Away,W,1,0,Romania,"",Manuel Neuer,Clément Turpin,FALSE
+Germany,2021-03-31,20:45,WCQ,First round,Wed,Home,L,1,2,N. Macedonia,"",İlkay Gündoğan,Sergey Karasev,FALSE
+Germany,2021-09-02,20:45,WCQ,First round,Thu,Away,W,2,0,Liechtenstein,"7,958",Joshua Kimmich,Fábio Veríssimo,FALSE
+Germany,2021-09-05,20:45,WCQ,First round,Sun,Home,W,6,0,Armenia,"18,086",Manuel Neuer,William Collum,FALSE
+Germany,2021-09-08,18:45,WCQ,First round,Wed,Away,W,4,0,Iceland,"3,505",Manuel Neuer,Andreas Ekberg,FALSE
+Germany,2021-10-08,20:45,WCQ,First round,Fri,Home,W,2,1,Romania,"25,000",Joshua Kimmich,Cüneyt Çakιr,FALSE
+Germany,2021-10-11,20:45,WCQ,First round,Mon,Away,W,4,0,N. Macedonia,"16,182",Manuel Neuer,Danny Makkelie,FALSE
+Germany,2021-11-11,20:45,WCQ,First round,Thu,Home,W,9,0,Liechtenstein,"25,984",Manuel Neuer,Ivana Martinčić,FALSE
+Germany,2021-11-14,21:00,WCQ,First round,Sun,Away,W,4,1,Armenia,"7,200",Thomas Müller,François Letexier,FALSE
+Germany,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Home,W,2,0,Israel,"",İlkay Gündoğan,Maurizio Mariani,FALSE
+Germany,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Away,D,1,1,Netherlands,"50,387",Manuel Neuer,Craig Pawson,FALSE
+Germany,2022-06-04,20:45,UEFA Nations League,League A,Sat,Away,D,1,1,Italy,"23,754",Manuel Neuer,Srdjan Stojanovic,FALSE
+Germany,2022-06-07,20:45,UEFA Nations League,League A,Tue,Home,D,1,1,England,"66,289",Manuel Neuer,Carlos del Cerro,FALSE
+Germany,2022-06-11,20:45,UEFA Nations League,League A,Sat,Away,D,1,1,Hungary,"55,948",Manuel Neuer,José Sánchez,FALSE
+Germany,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,W,5,2,Italy,"44,144",Manuel Neuer,István Kovács,FALSE
+Germany,2022-09-23,20:45,UEFA Nations League,League A,Fri,Home,L,0,1,Hungary,"39,513",Thomas Müller,Slavko Vinčič,FALSE
+Germany,2022-09-26,19:45,UEFA Nations League,League A,Mon,Away,D,3,3,England,"78,949",Joshua Kimmich,Danny Makkelie,FALSE
+Germany,2022-11-16,19:00,Friendlies (M),Friendlies (M),Wed,Away,"",,,Oman,"","","",FALSE
+Ghana,2021-09-03,19:00,WCQ,Second round,Fri,Home,W,1,0,Ethiopia,"",André Ayew,Redouane Jiyed,FALSE
+Ghana,2021-09-06,18:00,WCQ,Second round,Mon,Away,L,0,1,South Africa,"",André Ayew,Derrick Kafuli,FALSE
+Ghana,2021-10-09,16:00,WCQ,Second round,Sat,Home,W,3,1,Zimbabwe,"",André Ayew,Pierre Atcho,FALSE
+Ghana,2021-10-12,15:00,WCQ,Second round,Tue,Away,W,1,0,Zimbabwe,"",Thomas Partey,Amin Omar,FALSE
+Ghana,2021-11-11,16:00,WCQ,Second round,Thu,Away,D,1,1,Ethiopia,"",André Ayew,Blaise Ngwa,FALSE
+Ghana,2021-11-14,19:00,WCQ,Second round,Sun,Home,W,1,0,South Africa,"4,000",André Ayew,Maguette Ndiaye,FALSE
+Ghana,2022-01-05,19:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0,3,Algeria,"1,045",Thomas Partey,Saoud Ali Al Adba,FALSE
+Ghana,2022-01-10,17:00,Africa Cup of Nations,Group stage,Mon,Neutral,L,0,1,Morocco,"",André Ayew,Joshua Bondo,FALSE
+Ghana,2022-01-14,20:00,Africa Cup of Nations,Group stage,Fri,Neutral,D,1,1,Gabon,"",André Ayew,Lahlou Benbraham,FALSE
+Ghana,2022-01-18,20:00,Africa Cup of Nations,Group stage,Tue,Neutral,L,2,3,Comoros,"",André Ayew,Boubou Traoré,FALSE
+Ghana,2022-03-25,19:30,WCQ,Third round,Fri,Home,D,0,0,Nigeria,"",Thomas Partey,Redouane Jiyed,FALSE
+Ghana,2022-03-29,18:00,WCQ,Third round,Tue,Away,D,1,1,Nigeria,"",Thomas Partey,Sadek Selmi,FALSE
+Ghana,2022-06-01,19:00,Africa Cup of Nations qualification,Group stage,Wed,Home,W,3,0,Madagascar,"",André Ayew,Mahamadou Keita,FALSE
+Ghana,2022-06-05,14:00,Africa Cup of Nations qualification,Group stage,Sun,Neutral,D,1,1,CAR,"",Daniel Amartey,Pierre Ghislain Atcho,FALSE
+Ghana,2022-09-23,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,3,Brazil,"",André Ayew,Mikael Lesage,FALSE
+Ghana,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Neutral,W,1,0,Nicaragua,"",Richard Ofori,Dario Bel,FALSE
+Ghana,2022-11-17,17:00,Friendlies (M),Friendlies (M),Thu,Home,"",,,Switzerland,"","","",FALSE
+IR Iran,2019-09-10,20:00,WCQ,Second round,Tue,Away,W,2,0,Hong Kong,"13,942",Ehsan Hajsafi,Yudai Yamamoto,FALSE
+IR Iran,2019-10-10,17:00,WCQ,Second round,Thu,Home,W,14,0,Cambodia,"15,823",Ehsan Hajsafi,Banerjee Pranjal,FALSE
+IR Iran,2019-10-15,19:30,WCQ,Second round,Tue,Away,L,0,1,Bahrain,"14,810",Ehsan Hajsafi,Valentin Kovalenko,FALSE
+IR Iran,2019-11-14,16:00,WCQ,Second round,Thu,Away,L,1,2,Iraq,"13,752",Masoud Shojaei,Crishantha Dilan Perera,FALSE
+IR Iran,2021-06-03,19:00,WCQ,Second round,Thu,Home,W,3,1,Hong Kong,"",Alireza Jahanbakhsh,Adham Makhadmeh,FALSE
+IR Iran,2021-06-07,21:00,WCQ,Second round,Mon,Home,W,3,0,Bahrain,"",Ehsan Hajsafi,Fu Ming,FALSE
+IR Iran,2021-06-11,17:30,WCQ,Second round,Fri,Away,W,10,0,Cambodia,"",Alireza Jahanbakhsh,Kim Jonghyeok,FALSE
+IR Iran,2021-06-15,21:00,WCQ,Second round,Tue,Home,W,1,0,Iraq,"",Ehsan Hajsafi,Ilgiz Tantashev,FALSE
+IR Iran,2021-09-02,20:30,WCQ,Third round,Thu,Home,W,1,0,Syria,"",Alireza Jahanbakhsh,Ryūji Satō,FALSE
+IR Iran,2021-09-07,21:00,WCQ,Third round,Tue,Away,W,3,0,Iraq,"",Alireza Jahanbakhsh,Ma Ning,FALSE
+IR Iran,2021-10-07,20:45,WCQ,Third round,Thu,Away,W,1,0,UAE,"3,034",Alireza Jahanbakhsh,Chris Beath,FALSE
+IR Iran,2021-10-12,17:00,WCQ,Third round,Tue,Home,D,1,1,Korea Republic,"",Alireza Jahanbakhsh,Ahmed Al Kaf,FALSE
+IR Iran,2021-11-11,14:00,WCQ,Third round,Thu,Away,W,2,1,Lebanon,"",Alireza Jahanbakhsh,Abdulrahman Ibrahim Al Jassim,FALSE
+IR Iran,2021-11-16,18:00,WCQ,Third round,Tue,Away,W,3,0,Syria,907,Ehsan Hajsafi,Ma Ning,FALSE
+IR Iran,2022-01-27,18:00,WCQ,Third round,Thu,Home,W,1,0,Iraq,"9,354",Alireza Jahanbakhsh,Chris Beath,FALSE
+IR Iran,2022-02-01,18:00,WCQ,Third round,Tue,Home,W,1,0,UAE,"",Alireza Jahanbakhsh,Ahmed Al Kaf,FALSE
+IR Iran,2022-03-24,20:00,WCQ,Third round,Thu,Away,L,0,2,Korea Republic,"64,375",Ehsan Hajsafi,Chris Beath,FALSE
+IR Iran,2022-03-29,16:00,WCQ,Third round,Tue,Home,W,2,0,Lebanon,"22,453",Alireza Jahanbakhsh,Fu Ming,FALSE
+IR Iran,2022-06-12,21:20,Friendlies (M),Friendlies (M),Sun,Neutral,L,1,2,Algeria,600,Ehsan Hajsafi,Mohammed Ahmed Al Shammari,FALSE
+IR Iran,2022-09-23,19:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,1,0,Uruguay,"",Ehsan Hajsafi,Walter Altmann,FALSE
+IR Iran,2022-09-27,16:30,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,Senegal,"",Ehsan Hajsafi,Harald Lechner,FALSE
+IR Iran,2022-11-10,19:30,Friendlies (M),Friendlies (M),Thu,Home,W,1,0,Nicaragua,"",Vahid Amiri,Sadullo Gulmurodi,FALSE
+IR Iran,2022-11-16,"",Friendlies (M),Friendlies (M),Wed,Home,"",,,Tunisia,"","","",FALSE
+Japan,2019-09-10,18:50,WCQ,Second round,Tue,Away,W,2,0,Myanmar,"25,500",Maya Yoshida,Ahmad Ibrahim,FALSE
+Japan,2019-10-10,19:35,WCQ,Second round,Thu,Home,W,6,0,Mongolia,"43,122",Maya Yoshida,Chae Sanghyeop,FALSE
+Japan,2019-10-15,17:15,WCQ,Second round,Tue,Away,W,3,0,Tajikistan,"19,100",Maya Yoshida,Zaid Thamer Mohammed,FALSE
+Japan,2019-11-14,17:20,WCQ,Second round,Thu,Away,W,2,0,Kyrgyz Republic,"17,543",Maya Yoshida,Mohammed Al Hoish,FALSE
+Japan,2021-03-30,19:30,WCQ,Second round,Tue,Away,W,14,0,Mongolia,"",Maya Yoshida,Omar Mohamed Al Ali,FALSE
+Japan,2021-05-28,19:20,WCQ,Second round,Fri,Home,W,10,0,Myanmar,"",Maya Yoshida,Hasan Akrami,FALSE
+Japan,2021-06-07,19:30,WCQ,Second round,Mon,Home,W,4,1,Tajikistan,"",Genki Haraguchi,Abdelrahman Al Jassim,FALSE
+Japan,2021-06-15,19:25,WCQ,Second round,Tue,Home,W,5,1,Kyrgyz Republic,"",Genki Haraguchi,Omar Mubarak Al Yaqoubi,FALSE
+Japan,2021-09-02,19:14,WCQ,Third round,Thu,Home,L,0,1,Oman,"4,853",Maya Yoshida,Mohammed Abdulla Hassan,FALSE
+Japan,2021-09-07,18:00,WCQ,Third round,Tue,Away,W,1,0,China PR,"",Maya Yoshida,Nawaf Shukralla,FALSE
+Japan,2021-10-07,20:00,WCQ,Third round,Thu,Away,L,0,1,Saudi Arabia,"51,218",Maya Yoshida,Adham Makhadmeh,FALSE
+Japan,2021-10-12,19:14,WCQ,Third round,Tue,Home,W,2,1,Australia,"14,437",Maya Yoshida,Abdulrahman Ibrahim Al Jassim,FALSE
+Japan,2021-11-11,19:00,WCQ,Third round,Thu,Away,W,1,0,Vietnam,"11,022",Maya Yoshida,Mohammed Abdulla Hassan,FALSE
+Japan,2021-11-16,20:00,WCQ,Third round,Tue,Away,W,1,0,Oman,"14,123",Maya Yoshida,Ko Hyungjin,FALSE
+Japan,2022-01-27,19:00,WCQ,Third round,Thu,Home,W,2,0,China PR,"11,753",Wataru Endo,Abdulrahman Ibrahim Al Jassim,FALSE
+Japan,2022-02-01,19:14,WCQ,Third round,Tue,Home,W,2,0,Saudi Arabia,"19,118",Wataru Endo,Ko Hyungjin,FALSE
+Japan,2022-03-24,20:10,WCQ,Third round,Thu,Away,W,2,0,Australia,"41,852",Maya Yoshida,Nawaf Shukralla,FALSE
+Japan,2022-03-29,19:35,WCQ,Third round,Tue,Home,D,1,1,Vietnam,"44,600",Maya Yoshida,Ilgiz Tantashev,FALSE
+Japan,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Home,W,4,1,Paraguay,"24,511",Maya Yoshida,Chris Beath,FALSE
+Japan,2022-06-06,19:20,Friendlies (M),Friendlies (M),Mon,Home,L,0,1,Brazil,"63,638",Maya Yoshida,Alireza Faghani,FALSE
+Japan,2022-09-23,14:25,Friendlies (M),Friendlies (M),Fri,Neutral,W,2,0,United States,"5,149",Maya Yoshida,Felix Zwayer,FALSE
+Japan,2022-09-27,13:55,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,Ecuador,"4,321",Gaku Shibasaki,Sascha Stegemann,FALSE
+Japan,2022-11-17,22:40,Friendlies (M),Friendlies (M),Thu,Home,"",,,Canada,"","","",FALSE
+Korea Republic,2019-09-10,19:00,WCQ,Second round,Tue,Away,W,2,0,Turkmenistan,"26,000",Son Heung-min,Ammar Ali Al Junaibi,FALSE
+Korea Republic,2019-10-10,20:00,WCQ,Second round,Thu,Home,W,8,0,Sri Lanka,"23,225",Son Heung-min,Hasan Akrami,FALSE
+Korea Republic,2019-10-15,17:30,WCQ,Second round,Tue,Away,"",,,Korea DPR,100,Son Heung-min,Abdelrahman Al Jassim,FALSE
+Korea Republic,2019-11-14,15:00,WCQ,Second round,Thu,Away,D,0,0,Lebanon,170,Son Heung-min,Mohanad Qasim Sarray,FALSE
+Korea Republic,2021-06-05,20:00,WCQ,Second round,Sat,Home,W,5,0,Turkmenistan,"3,932",Son Heung-min,Turki Mohammed Al Khudayr,FALSE
+Korea Republic,2021-06-07,20:00,WCQ,Second round,Mon,Home,"",,,Korea DPR,"","","",FALSE
+Korea Republic,2021-06-09,20:00,WCQ,Second round,Wed,Away,W,5,0,Sri Lanka,"4,008",Kim Shin-wook,Shen Yinhao,FALSE
+Korea Republic,2021-06-13,15:00,WCQ,Second round,Sun,Home,W,2,1,Lebanon,"4,061",Son Heung-min,Khamis Al Marri,FALSE
+Korea Republic,2021-09-02,20:00,WCQ,Third round,Thu,Home,D,0,0,Iraq,"",Son Heung-min,Nawaf Shukralla,FALSE
+Korea Republic,2021-09-07,20:00,WCQ,Third round,Tue,Home,W,1,0,Lebanon,"",Kim Young-gwon,Ryūji Satō,FALSE
+Korea Republic,2021-10-07,20:00,WCQ,Third round,Thu,Home,W,2,1,Syria,"",Son Heung-min,Abdulrahman Ibrahim Al Jassim,FALSE
+Korea Republic,2021-10-12,17:00,WCQ,Third round,Tue,Away,D,1,1,IR Iran,"",Son Heung-min,Ahmed Al Kaf,FALSE
+Korea Republic,2021-11-11,20:00,WCQ,Third round,Thu,Home,W,1,0,UAE,"30,152",Son Heung-min,Ma Ning,FALSE
+Korea Republic,2021-11-16,18:00,WCQ,Third round,Tue,Away,W,3,0,Iraq,"",Son Heung-min,Ilgiz Tantashev,FALSE
+Korea Republic,2022-01-15,14:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,5,1,Iceland,"",Kim Young-gwon,Ali Palabıyık,FALSE
+Korea Republic,2022-01-21,14:00,Friendlies (M),Friendlies (M),Fri,Neutral,W,4,0,Moldova,"",Kim Young-gwon,Abdulkadir Bitigen,FALSE
+Korea Republic,2022-01-27,14:00,WCQ,Third round,Thu,Away,W,1,0,Lebanon,"5,400",Kim Young-gwon,Ahmed Al Kaf,FALSE
+Korea Republic,2022-02-01,18:00,WCQ,Third round,Tue,Neutral,W,2,0,Syria,310,Kim Young-gwon,Hiroyuki Kimura,FALSE
+Korea Republic,2022-03-24,20:00,WCQ,Third round,Thu,Home,W,2,0,IR Iran,"64,375",Son Heung-min,Chris Beath,FALSE
+Korea Republic,2022-03-29,17:45,WCQ,Third round,Tue,Away,L,0,1,UAE,"4,223",Son Heung-min,Ahmed Al Kaf,FALSE
+Korea Republic,2022-06-02,20:00,Friendlies (M),Friendlies (M),Thu,Home,L,1,5,Brazil,"64,872",Son Heung-min,Ryūji Satō,FALSE
+Korea Republic,2022-06-06,20:00,Friendlies (M),Friendlies (M),Mon,Home,W,2,0,Chile,"40,135",Son Heung-min,Ryūji Satō,FALSE
+Korea Republic,2022-06-10,20:00,Friendlies (M),Friendlies (M),Fri,Home,D,2,2,Paraguay,"40,228",Son Heung-min,Jérémie Pignard,FALSE
+Korea Republic,2022-06-14,20:00,Friendlies (M),Friendlies (M),Tue,Home,W,4,1,Egypt,"59,712",Son Heung-min,Jérémie Pignard,FALSE
+Korea Republic,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Home,D,2,2,Costa Rica,"37,581",Son Heung-min,Alex King,FALSE
+Korea Republic,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Home,W,1,0,Cameroon,"59,389",Son Heung-min,Alex King,FALSE
+Korea Republic,2022-11-11,20:00,Friendlies (M),Friendlies (M),Fri,Home,W,1,0,Iceland,"15,274",Kim Young-gwon,Jumpei Iida,FALSE
+Mexico,2021-09-02,21:00,WCQ,Third round,Thu,Home,W,2,1,Jamaica,"",Guillermo Ochoa,Selvin Brown,FALSE
+Mexico,2021-09-05,17:05,WCQ,Third round,Sun,Away,W,1,0,Costa Rica,"2,200",Andrés Guardado,Ismail Elfath,FALSE
+Mexico,2021-09-08,19:05,WCQ,Third round,Wed,Away,D,1,1,Panama,"16,000",Guillermo Ochoa,Mario Escobar,FALSE
+Mexico,2021-10-07,20:40,WCQ,Third round,Thu,Home,D,1,1,Canada,"40,468",Andrés Guardado,Ismael Cornejo,FALSE
+Mexico,2021-10-10,18:00,WCQ,Third round,Sun,Home,W,3,0,Honduras,"45,590",Guillermo Ochoa,Ismail Elfath,FALSE
+Mexico,2021-10-13,20:05,WCQ,Third round,Wed,Away,W,2,0,El Salvador,"31,000",Guillermo Ochoa,Drew Fischer,FALSE
+Mexico,2021-11-12,21:10,WCQ,Third round,Fri,Away,L,0,2,United States,"26,000",Guillermo Ochoa,Iván Barton,FALSE
+Mexico,2021-11-16,19:05,WCQ,Third round,Tue,Away,L,1,2,Canada,"44,212",Guillermo Ochoa,Mario Escobar,FALSE
+Mexico,2022-01-27,19:00,WCQ,Third round,Thu,Away,W,2,1,Jamaica,"",Andrés Guardado,Ismael Cornejo,FALSE
+Mexico,2022-01-30,17:00,WCQ,Third round,Sun,Home,D,0,0,Costa Rica,"2,000",Guillermo Ochoa,Said Martínez,FALSE
+Mexico,2022-02-02,21:00,WCQ,Third round,Wed,Home,W,1,0,Panama,"2,000",Andrés Guardado,Iván Barton,FALSE
+Mexico,2022-03-24,20:00,WCQ,Third round,Thu,Home,D,0,0,United States,"47,000",Guillermo Ochoa,Mario Escobar,FALSE
+Mexico,2022-03-27,17:05,WCQ,Third round,Sun,Away,W,1,0,Honduras,"",Guillermo Ochoa,Armando Villarreal,FALSE
+Mexico,2022-03-30,19:05,WCQ,Third round,Wed,Home,W,2,0,El Salvador,"",Guillermo Ochoa,Oshane Nation,FALSE
+Mexico,2022-04-27,20:30,Friendlies (M),Friendlies (M),Wed,Home,D,0,0,Guatemala,"37,311",Jesús Alberto Angulo,Reon Radix,FALSE
+Mexico,2022-05-28,19:08,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,Nigeria,"56,872",Andrés Guardado,José Torres,FALSE
+Mexico,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,3,Uruguay,"57,735",César Montes,Juan Gabriel Calderón,FALSE
+Mexico,2022-06-05,18:30,Friendlies (M),Friendlies (M),Sun,Neutral,D,0,0,Ecuador,"61,104",Andrés Guardado,Oliver Vergara,FALSE
+Mexico,2022-08-31,21:00,Friendlies (M),Friendlies (M),Wed,Neutral,L,0,1,Paraguay,"51,387",César Montes,Nima Saghafi,FALSE
+Mexico,2022-09-24,18:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,Peru,"62,729",Guillermo Ochoa,Bryan López,FALSE
+Mexico,2022-09-27,19:00,Friendlies (M),Friendlies (M),Tue,Neutral,L,2,3,Colombia,"67,311",Andrés Guardado,Nima Saghafi,FALSE
+Mexico,2022-11-09,21:00,Friendlies (M),Friendlies (M),Wed,Home,W,4,0,Iraq,"",Héctor Moreno,Guillermo Cuadra,FALSE
+Mexico,2022-11-16,20:30,Friendlies (M),Friendlies (M),Wed,Home,"",,,Sweden,"","","",FALSE
+Morocco,2021-09-02,20:00,WCQ,Second round,Thu,Home,W,2,0,Sudan,"",Romain Saïss,Maguette Ndiaye,FALSE
+Morocco,2021-10-06,20:00,WCQ,Second round,Wed,Home,W,5,0,Guinea-Bissau,"",Romain Saïss,Boubou Traoré,FALSE
+Morocco,2021-10-09,19:00,WCQ,Second round,Sat,Away,W,3,0,Guinea-Bissau,"",Romain Saïss,Jean-Jacques Ndala,FALSE
+Morocco,2021-10-12,20:00,WCQ,Second round,Tue,Away,W,4,1,Equ. Guinea,"",Romain Saïss,Alioum,FALSE
+Morocco,2021-11-12,21:00,WCQ,Second round,Fri,Away,W,3,0,Sudan,"",Romain Saïss,Peter Waweru,FALSE
+Morocco,2021-11-16,20:00,WCQ,Second round,Tue,Home,W,3,0,Equ. Guinea,"",Yassine Bounou,Joshua Bondo,FALSE
+Morocco,2022-01-10,17:00,Africa Cup of Nations,Group stage,Mon,Neutral,W,1,0,Ghana,"",Romain Saïss,Joshua Bondo,FALSE
+Morocco,2022-01-14,17:00,Africa Cup of Nations,Group stage,Fri,Neutral,W,2,0,Comoros,"",Romain Saïss,Sadek Selmi,FALSE
+Morocco,2022-01-18,20:00,Africa Cup of Nations,Group stage,Tue,Neutral,D,2,2,Gabon,"",Fayçal Fajr,Dahane Beida,FALSE
+Morocco,2022-01-25,20:00,Africa Cup of Nations,Round of 16,Tue,Neutral,W,2,1,Malawi,"",Romain Saïss,Pacifique Ndabihawenimana,FALSE
+Morocco,2022-01-30,16:00,Africa Cup of Nations,Quarter-finals,Sun,Neutral,L,1,2,Egypt,"",Romain Saïss,Maguette Ndiaye,FALSE
+Morocco,2022-03-25,16:00,WCQ,Third round,Fri,Away,D,1,1,Congo DR,"",Romain Saïss,Victor Gomes,FALSE
+Morocco,2022-03-29,19:30,WCQ,Third round,Tue,Home,W,4,1,Congo DR,"",Romain Saïss,Pacifique Ndabihawenimana,FALSE
+Morocco,2022-06-01,19:30,Friendlies (M),Friendlies (M),Wed,Away,L,0,3,United States,"19,512",Romain Saïss,Ismael Cornejo,FALSE
+Morocco,2022-06-09,20:00,Africa Cup of Nations qualification,Group stage,Thu,Home,W,2,1,South Africa,"",Romain Saïss,Sadek Selmi,FALSE
+Morocco,2022-06-13,20:00,Africa Cup of Nations qualification,Group stage,Mon,Neutral,W,2,0,Liberia,"",Romain Saïss,Mohamed Ali Moussa,FALSE
+Morocco,2022-09-19,"",Africa Cup of Nations qualification,Group stage,Mon,Home,"",,,Zimbabwe,"","","",FALSE
+Morocco,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Home,W,2,0,Chile,"",Romain Saïss,Martin Dohál,FALSE
+Morocco,2022-09-27,"",Africa Cup of Nations qualification,Group stage,Tue,Away,"",,,Zimbabwe,"","","",FALSE
+Morocco,2022-09-27,21:00,Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,Paraguay,"",Romain Saïss,Jesús Gil,FALSE
+Morocco,2022-11-17,20:00,Friendlies (M),Friendlies (M),Thu,Home,"",,,Georgia,"","","",FALSE
+Netherlands,2021-03-24,20:00,WCQ,First round,Wed,Away,L,2,4,Turkey,"",Georginio Wijnaldum,Michael Oliver,FALSE
+Netherlands,2021-03-27,18:00,WCQ,First round,Sat,Home,W,2,0,Latvia,"5,000",Georginio Wijnaldum,Stéphanie Frappart,FALSE
+Netherlands,2021-03-30,20:45,WCQ,First round,Tue,Away,W,7,0,Gibraltar,335,Georginio Wijnaldum,João Pinheiro,FALSE
+Netherlands,2021-09-01,20:45,WCQ,First round,Wed,Away,D,1,1,Norway,"6,711",Virgil van Dijk,Szymon Marciniak,FALSE
+Netherlands,2021-09-04,20:45,WCQ,First round,Sat,Home,W,4,0,Montenegro,"20,458",Georginio Wijnaldum,Jesús Gil,FALSE
+Netherlands,2021-09-07,20:45,WCQ,First round,Tue,Home,W,6,1,Turkey,"31,389",Virgil van Dijk,Daniele Orsato,FALSE
+Netherlands,2021-10-08,21:45,WCQ,First round,Fri,Away,W,1,0,Latvia,"4,711",Virgil van Dijk,Andy Madley,FALSE
+Netherlands,2021-10-11,20:45,WCQ,First round,Mon,Home,W,6,0,Gibraltar,"31,583",Virgil van Dijk,Vitaly Meshkov,FALSE
+Netherlands,2021-11-13,20:45,WCQ,First round,Sat,Away,D,2,2,Montenegro,"1,844",Virgil van Dijk,Carlos del Cerro,FALSE
+Netherlands,2021-11-16,20:45,WCQ,First round,Tue,Home,W,2,0,Norway,"",Virgil van Dijk,Clément Turpin,FALSE
+Netherlands,2022-03-26,20:45,Friendlies (M),Friendlies (M),Sat,Home,W,4,2,Denmark,"",Virgil van Dijk,Lawrence Visser,FALSE
+Netherlands,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,Germany,"50,387",Virgil van Dijk,Craig Pawson,FALSE
+Netherlands,2022-06-03,20:45,UEFA Nations League,League A,Fri,Away,W,4,1,Belgium,"38,327",Virgil van Dijk,José Sánchez,FALSE
+Netherlands,2022-06-08,19:45,UEFA Nations League,League A,Wed,Away,W,2,1,Wales,"23,395",Stefan de Vrij,Glenn Nyberg,FALSE
+Netherlands,2022-06-11,20:45,UEFA Nations League,League A,Sat,Home,D,2,2,Poland,"39,382",Memphis Depay,Halil Umut Meler,FALSE
+Netherlands,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,W,3,2,Wales,"32,247",Matthijs de Ligt,Horațiu Fesnic,FALSE
+Netherlands,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,W,2,0,Poland,"56,673",Virgil van Dijk,Alejandro Hernández,FALSE
+Netherlands,2022-09-25,20:45,UEFA Nations League,League A,Sun,Home,W,1,0,Belgium,"52,314",Virgil van Dijk,Anthony Taylor,FALSE
+Poland,2021-03-25,20:45,WCQ,First round,Thu,Away,D,3,3,Hungary,"",Robert Lewandowski,Felix Brych,FALSE
+Poland,2021-03-28,20:45,WCQ,First round,Sun,Home,W,3,0,Andorra,"",Robert Lewandowski,Erik Lambrechts,FALSE
+Poland,2021-03-31,19:45,WCQ,First round,Wed,Away,L,1,2,England,"",Kamil Glik,Björn Kuipers,FALSE
+Poland,2021-09-02,20:45,WCQ,First round,Thu,Home,W,4,1,Albania,"38,254",Robert Lewandowski,Maurizio Mariani,FALSE
+Poland,2021-09-05,20:45,WCQ,First round,Sun,Away,W,7,1,San Marino,500,Robert Lewandowski,Mattias Gestranius,FALSE
+Poland,2021-09-08,20:45,WCQ,First round,Wed,Home,D,1,1,England,"56,212",Robert Lewandowski,Daniel Siebert,FALSE
+Poland,2021-10-09,20:45,WCQ,First round,Sat,Home,W,5,0,San Marino,"56,128",Robert Lewandowski,Fran Jović,FALSE
+Poland,2021-10-12,20:45,WCQ,First round,Tue,Away,W,1,0,Albania,"21,000",Robert Lewandowski,Clément Turpin,FALSE
+Poland,2021-11-12,20:45,WCQ,First round,Fri,Away,W,4,1,Andorra,"1,049",Robert Lewandowski,John Beaton,FALSE
+Poland,2021-11-15,20:45,WCQ,First round,Mon,Home,L,1,2,Hungary,"",Wojciech Szczęsny,Tiago Martins,FALSE
+Poland,2022-03-24,20:00,WCQ,Semi-finals,Thu,Away,"",,,Russia,"","","",FALSE
+Poland,2022-03-24,19:45,Friendlies (M),Friendlies (M),Thu,Away,D,1,1,Scotland,"",Kamil Glik,Robert Hennessy,FALSE
+Poland,2022-03-29,20:45,WCQ,Finals,Tue,Home,W,2,0,Sweden,"54,078",Robert Lewandowski,Daniele Orsato,FALSE
+Poland,2022-06-01,18:00,UEFA Nations League,League A,Wed,Home,W,2,1,Wales,"35,214",Robert Lewandowski,Rade Obrenović,FALSE
+Poland,2022-06-08,20:45,UEFA Nations League,League A,Wed,Away,L,1,6,Belgium,"27,409",Robert Lewandowski,Ivan Kružliak,FALSE
+Poland,2022-06-11,20:45,UEFA Nations League,League A,Sat,Away,D,2,2,Netherlands,"39,382",Grzegorz Krychowiak,Halil Umut Meler,FALSE
+Poland,2022-06-14,20:45,UEFA Nations League,League A,Tue,Home,L,0,1,Belgium,"58,803",Robert Lewandowski,Irfan Peljto,FALSE
+Poland,2022-09-22,20:45,UEFA Nations League,League A,Thu,Home,L,0,2,Netherlands,"56,673",Robert Lewandowski,Alejandro Hernández,FALSE
+Poland,2022-09-25,19:45,UEFA Nations League,League A,Sun,Away,W,1,0,Wales,"31,520",Robert Lewandowski,Andris Treimanis,FALSE
+Poland,2022-11-16,18:00,Friendlies (M),Friendlies (M),Wed,Home,"",,,Chile,"","","",FALSE
+Portugal,2021-03-24,19:45,WCQ,First round,Wed,Home,W,1,0,Azerbaijan,"",Cristiano Ronaldo,Daniel Siebert,FALSE
+Portugal,2021-03-27,20:45,WCQ,First round,Sat,Away,D,2,2,Serbia,"",Cristiano Ronaldo,Danny Makkelie,FALSE
+Portugal,2021-03-30,20:45,WCQ,First round,Tue,Away,W,3,1,Luxembourg,"",Cristiano Ronaldo,Sergey Ivanov,FALSE
+Portugal,2021-09-01,19:45,WCQ,First round,Wed,Home,W,2,1,Rep. of Ireland,"7,831",Cristiano Ronaldo,Matej Jug,FALSE
+Portugal,2021-09-07,20:00,WCQ,First round,Tue,Away,W,3,0,Azerbaijan,"20,574",João Moutinho,Marco Guida,FALSE
+Portugal,2021-10-12,19:45,WCQ,First round,Tue,Home,W,5,0,Luxembourg,"18,553",Cristiano Ronaldo,Benoît Bastien,FALSE
+Portugal,2021-11-11,19:45,WCQ,First round,Thu,Away,D,0,0,Rep. of Ireland,"50,737",Cristiano Ronaldo,Jesús Gil,FALSE
+Portugal,2021-11-14,19:45,WCQ,First round,Sun,Home,L,1,2,Serbia,"58,873",Cristiano Ronaldo,Daniele Orsato,FALSE
+Portugal,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,3,1,Turkey,"48,010",Cristiano Ronaldo,Daniel Siebert,FALSE
+Portugal,2022-03-29,19:45,WCQ,Finals,Tue,Home,W,2,0,N. Macedonia,"48,010",Cristiano Ronaldo,Anthony Taylor,FALSE
+Portugal,2022-06-02,20:45,UEFA Nations League,League A,Thu,Away,D,1,1,Spain,"41,236",João Moutinho,Michael Oliver,FALSE
+Portugal,2022-06-05,19:45,UEFA Nations League,League A,Sun,Home,W,4,0,Switzerland,"42,325",Cristiano Ronaldo,Orel Grinfeeld,FALSE
+Portugal,2022-06-09,19:45,UEFA Nations League,League A,Thu,Home,W,2,0,Czech Republic,"44,100",Cristiano Ronaldo,Matej Jug,FALSE
+Portugal,2022-06-12,20:45,UEFA Nations League,League A,Sun,Away,L,0,1,Switzerland,"26,300",Pepe,Fran Jović,FALSE
+Portugal,2022-09-24,20:45,UEFA Nations League,League A,Sat,Away,W,4,0,Czech Republic,"19,322",Cristiano Ronaldo,Srđan Jovanović,FALSE
+Portugal,2022-09-27,19:45,UEFA Nations League,League A,Tue,Home,L,0,1,Spain,"28,196",Cristiano Ronaldo,Daniele Orsato,FALSE
+Portugal,2022-11-17,18:45,Friendlies (M),Friendlies (M),Thu,Home,"",,,Nigeria,"","","",FALSE
+Qatar,2019-09-05,19:30,WCQ,Second round,Thu,Home,W,6,0,Afghanistan,"10,950",Hassan Al-Haydos,Aziz Asimov,FALSE
+Qatar,2019-09-10,19:30,WCQ,Second round,Tue,Home,D,0,0,India,"12,020",Hassan Al-Haydos,Nazmi Nasaruddin,FALSE
+Qatar,2019-10-10,19:00,WCQ,Second round,Thu,Away,W,2,0,Bangladesh,"24,570",Hassan Al-Haydos,Bijan Heidari,FALSE
+Qatar,2019-10-15,19:30,WCQ,Second round,Tue,Home,W,2,1,Oman,"26,731",Hassan Al-Haydos,Fu Ming,FALSE
+Qatar,2019-11-19,19:00,WCQ,Second round,Tue,Neutral,W,1,0,Afghanistan,"6,000",Hassan Al-Haydos,Timur Fayzullin,FALSE
+Qatar,2020-12-04,19:00,WCQ,Second round,Fri,Home,W,5,0,Bangladesh,"1,044",Hassan Al-Haydos,Amirul Izwan Yaacob,FALSE
+Qatar,2021-06-03,20:00,WCQ,Second round,Thu,Away,W,1,0,India,"",Hassan Al-Haydos,Ma Ning,FALSE
+Qatar,2021-06-07,20:10,WCQ,Second round,Mon,Away,W,1,0,Oman,"1,559",Hassan Al-Haydos,Crishantha Dilan Perera,FALSE
+Qatar,2022-03-26,20:30,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,Bulgaria,"",Boualem Khoukhi,Mohammed Khaled Al Hoish,FALSE
+Qatar,2022-03-29,20:30,Friendlies (M),Friendlies (M),Tue,Home,D,0,0,Slovenia,"",Saad Al Sheeb,Youssef Essrairi,FALSE
+Qatar,2022-08-26,18:30,Friendlies (M),Friendlies (M),Fri,Home,D,1,1,Jamaica,"",Abdulaziz Hatem,Sebastian Gishamer,FALSE
+Qatar,2022-09-23,19:00,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,Canada,"",Saad Al Sheeb,Manuel Schüttengruber,FALSE
+Qatar,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Home,D,2,2,Chile,"",Hassan Al-Haydos,Julian Weinberger,FALSE
+Qatar,2022-11-09,18:30,Friendlies (M),Friendlies (M),Wed,Home,W,1,0,Albania,"",Saad Al Sheeb,"",FALSE
+Saudi Arabia,2019-09-10,19:00,WCQ,Second round,Tue,Away,D,2,2,Yemen,"3,100",Omar Hawsawi,Sivakorn Pu-udom,FALSE
+Saudi Arabia,2019-10-10,20:00,WCQ,Second round,Thu,Home,W,3,0,Singapore,"14,560",Yahya Al-Shehri,Kim Heegon,FALSE
+Saudi Arabia,2019-10-15,16:00,WCQ,Second round,Tue,Away,D,0,0,Palestine,"12,000",Salman Al-Faraj,Ahmed Al Kaf,FALSE
+Saudi Arabia,2019-11-14,17:00,WCQ,Second round,Thu,Away,W,3,2,Uzbekistan,"31,524",Salman Al-Faraj,Ryūji Satō,FALSE
+Saudi Arabia,2021-03-30,20:30,WCQ,Second round,Tue,Home,W,5,0,Palestine,"",Salem Al-Dawsari,Mohanad Qasim Sarray,FALSE
+Saudi Arabia,2021-06-05,21:00,WCQ,Second round,Sat,Home,W,3,0,Yemen,"4,382",Salman Al-Faraj,Nivon Robesh,FALSE
+Saudi Arabia,2021-06-11,21:00,WCQ,Second round,Fri,Away,W,3,0,Singapore,"4,879",Salman Al-Faraj,Mohanad Qasim Sarray,FALSE
+Saudi Arabia,2021-06-15,21:00,WCQ,Second round,Tue,Home,W,3,0,Uzbekistan,"6,339",Salman Al-Faraj,Ko Hyungjin,FALSE
+Saudi Arabia,2021-09-02,21:00,WCQ,Third round,Thu,Home,W,3,1,Vietnam,"8,331",Salman Al-Faraj,Ilgiz Tantashev,FALSE
+Saudi Arabia,2021-09-07,20:00,WCQ,Third round,Tue,Away,W,1,0,Oman,"8,150",Salman Al-Faraj,Hanna Hattab,FALSE
+Saudi Arabia,2021-10-07,20:00,WCQ,Third round,Thu,Home,W,1,0,Japan,"51,218",Salman Al-Faraj,Adham Makhadmeh,FALSE
+Saudi Arabia,2021-10-12,20:00,WCQ,Third round,Tue,Home,W,3,2,China PR,"54,124",Salman Al-Faraj,Ilgiz Tantashev,FALSE
+Saudi Arabia,2021-11-11,20:10,WCQ,Third round,Thu,Away,D,0,0,Australia,"23,314",Salman Al-Faraj,Ko Hyungjin,FALSE
+Saudi Arabia,2021-11-16,19:00,WCQ,Third round,Tue,Away,W,1,0,Vietnam,"9,669",Salman Al-Faraj,Hanna Hattab,FALSE
+Saudi Arabia,2022-01-27,20:15,WCQ,Third round,Thu,Home,W,1,0,Oman,"47,364",Salem Al-Dawsari,Nawaf Shukralla,FALSE
+Saudi Arabia,2022-02-01,19:14,WCQ,Third round,Tue,Away,L,0,2,Japan,"19,118",Salem Al-Dawsari,Ko Hyungjin,FALSE
+Saudi Arabia,2022-03-24,19:00,WCQ,Third round,Thu,Away,D,1,1,China PR,200,Salman Al-Faraj,Mohammed Abdulla Hassan,FALSE
+Saudi Arabia,2022-03-29,21:00,WCQ,Third round,Tue,Home,W,1,0,Australia,"51,433",Salman Al-Faraj,Adham Makhadmeh,FALSE
+Saudi Arabia,2022-06-05,19:00,Friendlies (M),Friendlies (M),Sun,Neutral,L,0,1,Colombia,"2,000",Salman Al-Faraj,Jason Barcelo,FALSE
+Saudi Arabia,2022-06-09,20:00,Friendlies (M),Friendlies (M),Thu,Neutral,L,0,1,Venezuela,"",Salem Al-Dawsari,Jason Barcelo,FALSE
+Saudi Arabia,2022-09-23,20:00,Friendlies (M),Friendlies (M),Fri,Neutral,D,0,0,Ecuador,"",Salem Al-Dawsari,Ivan Bebek,FALSE
+Saudi Arabia,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Home,D,0,0,United States,364,Ali Al-Bulaihi,Ivan Bebek,FALSE
+Saudi Arabia,2022-10-30,18:30,Friendlies (M),Friendlies (M),Sun,Home,D,0,0,Honduras,"","",Yahya Ali Al Mulla,FALSE
+Saudi Arabia,2022-11-06,16:00,Friendlies (M),Friendlies (M),Sun,Neutral,W,1,0,Iceland,"",Salman Al-Faraj,Ahmed Eisa Mohamed,FALSE
+Saudi Arabia,2022-11-10,16:00,Friendlies (M),Friendlies (M),Thu,Home,D,1,1,Panama,"",Salem Al-Dawsari,Yahya Ali Al Mulla,FALSE
+Saudi Arabia,2022-11-16,13:00,Friendlies (M),Friendlies (M),Wed,Home,"",,,Croatia,"","","",FALSE
+Senegal,2021-09-01,16:00,WCQ,Second round,Wed,Home,W,2,0,Togo,"",Kalidou Koulibaly,Sadek Selmi,FALSE
+Senegal,2021-09-07,17:00,WCQ,Second round,Tue,Away,W,3,1,Congo,"",Kalidou Koulibaly,Mohamed Ali Moussa,FALSE
+Senegal,2021-10-09,19:00,WCQ,Second round,Sat,Home,W,4,1,Namibia,"",Kalidou Koulibaly,Kalilou Traoré,FALSE
+Senegal,2021-10-12,15:00,WCQ,Second round,Tue,Away,W,3,1,Namibia,"",Kalidou Koulibaly,Athoumani Mohamed,FALSE
+Senegal,2021-11-11,19:00,WCQ,Second round,Thu,Away,D,1,1,Togo,"",Kalidou Koulibaly,Jalal Jiyed,FALSE
+Senegal,2021-11-14,19:00,WCQ,Second round,Sun,Home,W,2,0,Congo,"",Kalidou Koulibaly,Fabrício Duarte,FALSE
+Senegal,2022-01-10,14:00,Africa Cup of Nations,Group stage,Mon,Neutral,W,1,0,Zimbabwe,"",Idrissa Gana Gueye,Mario Escobar,FALSE
+Senegal,2022-01-14,14:00,Africa Cup of Nations,Group stage,Fri,Neutral,D,0,0,Equ. Guinea,"",Sadio Mané,Bamlak Tessema,FALSE
+Senegal,2022-01-18,17:00,Africa Cup of Nations,Group stage,Tue,Neutral,D,0,0,Malawi,"",Kalidou Koulibaly,Blaise Ngwa,FALSE
+Senegal,2022-01-25,17:00,Africa Cup of Nations,Round of 16,Tue,Neutral,W,2,0,Cape Verde,"10,155",Kalidou Koulibaly,Lahlou Benbraham,FALSE
+Senegal,2022-01-30,20:00,Africa Cup of Nations,Quarter-finals,Sun,Neutral,W,3,1,Equ. Guinea,"17,262",Kalidou Koulibaly,Victor Gomes,FALSE
+Senegal,2022-02-02,20:00,Africa Cup of Nations,Semi-finals,Wed,Neutral,W,3,1,Burkina Faso,"",Kalidou Koulibaly,Bamlak Tessema,FALSE
+Senegal,2022-02-06,20:00,Africa Cup of Nations,Final,Sun,Neutral,D,0 (4),0 (2),Egypt,"",Kalidou Koulibaly,Victor Gomes,FALSE
+Senegal,2022-03-25,21:30,WCQ,Third round,Fri,Away,L,0,1,Egypt,"",Kalidou Koulibaly,Jean-Jacques Ndala,FALSE
+Senegal,2022-03-29,17:00,WCQ,Third round,Tue,Home,W,1 (3),0 (1),Egypt,"",Kalidou Koulibaly,Mustapha Ghorbal,FALSE
+Senegal,2022-06-04,19:00,Africa Cup of Nations qualification,Group stage,Sat,Home,W,3,1,Benin,"",Kalidou Koulibaly,Karim Sabry,FALSE
+Senegal,2022-06-07,21:00,Africa Cup of Nations qualification,Group stage,Tue,Away,W,1,0,Rwanda,"",Kalidou Koulibaly,Jean-Jacques Ndala,FALSE
+Senegal,2022-09-24,19:15,Friendlies (M),Friendlies (M),Sat,Neutral,W,2,0,Bolivia,"",Kalidou Koulibaly,Bastien Dechepy,FALSE
+Senegal,2022-09-27,16:30,Friendlies (M),Friendlies (M),Tue,Neutral,D,1,1,IR Iran,"",Kalidou Koulibaly,Harald Lechner,FALSE
+Serbia,2021-03-24,20:45,WCQ,First round,Wed,Home,W,3,2,Rep. of Ireland,"",Dušan Tadić,Davide Massa,FALSE
+Serbia,2021-03-27,20:45,WCQ,First round,Sat,Home,D,2,2,Portugal,"",Dušan Tadić,Danny Makkelie,FALSE
+Serbia,2021-03-30,20:00,WCQ,First round,Tue,Away,W,2,1,Azerbaijan,"",Dušan Tadić,Roi Reinshreiber,FALSE
+Serbia,2021-09-04,18:00,WCQ,First round,Sat,Home,W,4,1,Luxembourg,"10,078",Dušan Tadić,Halil Umut Meler,FALSE
+Serbia,2021-09-07,19:45,WCQ,First round,Tue,Away,D,1,1,Rep. of Ireland,"25,415",Dušan Tadić,José Sánchez,FALSE
+Serbia,2021-10-09,20:45,WCQ,First round,Sat,Away,W,1,0,Luxembourg,"2,000",Dušan Tadić,William Collum,FALSE
+Serbia,2021-10-12,20:45,WCQ,First round,Tue,Home,W,3,1,Azerbaijan,"5,890",Matija Nastasić,Erik Lambrechts,FALSE
+Serbia,2021-11-14,19:45,WCQ,First round,Sun,Away,W,2,1,Portugal,"58,873",Dušan Tadić,Daniele Orsato,FALSE
+Serbia,2022-03-24,19:30,Friendlies (M),Friendlies (M),Thu,Away,W,1,0,Hungary,"",Dušan Tadić,Filip Glova,FALSE
+Serbia,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Away,L,0,3,Denmark,"",Dušan Tadić,Felix Zwayer,FALSE
+Serbia,2022-06-02,20:45,UEFA Nations League,League B,Thu,Home,L,0,1,Norway,"9,726",Dušan Tadić,Paweł Raczkowski,FALSE
+Serbia,2022-06-05,20:45,UEFA Nations League,League B,Sun,Home,W,4,1,Slovenia,"10,925",Aleksandar Mitrović,Jesús Gil,FALSE
+Serbia,2022-06-09,20:45,UEFA Nations League,League B,Thu,Away,W,1,0,Sweden,"24,123",Dušan Tadić,Lawrence Visser,FALSE
+Serbia,2022-06-12,20:45,UEFA Nations League,League B,Sun,Away,D,2,2,Slovenia,"13,782",Dušan Tadić,Maurizio Mariani,FALSE
+Serbia,2022-09-24,20:45,UEFA Nations League,League B,Sat,Home,W,4,1,Sweden,"14,122",Dušan Tadić,Georgi Kabakov,FALSE
+Serbia,2022-09-27,20:45,UEFA Nations League,League B,Tue,Away,W,2,0,Norway,"24,364",Dušan Tadić,Antonio Matéu Lahoz,FALSE
+Serbia,2022-11-18,18:30,Friendlies (M),Friendlies (M),Fri,Away,"",,,Bahrain,"","","",FALSE
+Spain,2021-03-25,20:45,WCQ,First round,Thu,Home,D,1,1,Greece,"",Sergio Ramos,Marco Guida,FALSE
+Spain,2021-03-28,20:00,WCQ,First round,Sun,Away,W,2,1,Georgia,"",Sergio Busquets,Radu Petrescu,FALSE
+Spain,2021-03-31,20:45,WCQ,First round,Wed,Home,W,3,1,Kosovo,"",Sergio Busquets,Jakob Kehlet,FALSE
+Spain,2021-09-02,20:45,WCQ,First round,Thu,Away,L,1,2,Sweden,"16,901",Sergio Busquets,Anthony Taylor,FALSE
+Spain,2021-09-05,20:45,WCQ,First round,Sun,Home,W,4,0,Georgia,"8,444",César Azpilicueta,Tiago Martins,FALSE
+Spain,2021-09-08,20:45,WCQ,First round,Wed,Away,W,2,0,Kosovo,"1,200",Sergio Busquets,Bobby Madden,FALSE
+Spain,2021-11-11,21:45,WCQ,First round,Thu,Away,W,1,0,Greece,"7,825",Koke,Szymon Marciniak,FALSE
+Spain,2021-11-14,20:45,WCQ,First round,Sun,Home,W,1,0,Sweden,"51,844",Sergio Busquets,Felix Brych,FALSE
+Spain,2022-03-26,19:45,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,Albania,"",Álvaro Morata,Trustin Farrugia Cann,FALSE
+Spain,2022-03-29,20:45,Friendlies (M),Friendlies (M),Tue,Home,W,5,0,Iceland,"34,600",Jordi Alba,Horațiu Fesnic,FALSE
+Spain,2022-06-02,20:45,UEFA Nations League,League A,Thu,Home,D,1,1,Portugal,"41,236",Sergio Busquets,Michael Oliver,FALSE
+Spain,2022-06-05,20:45,UEFA Nations League,League A,Sun,Away,D,2,2,Czech Republic,"18,245",Koke,François Letexier,FALSE
+Spain,2022-06-09,20:45,UEFA Nations League,League A,Thu,Away,W,1,0,Switzerland,"25,875",Sergio Busquets,Serdar Gözübüyük,FALSE
+Spain,2022-06-12,20:45,UEFA Nations League,League A,Sun,Home,W,2,0,Czech Republic,"30,389",Koke,Cüneyt Çakιr,FALSE
+Spain,2022-09-24,20:45,UEFA Nations League,League A,Sat,Home,L,1,2,Switzerland,"31,089",Sergio Busquets,Clément Turpin,FALSE
+Spain,2022-09-27,19:45,UEFA Nations League,League A,Tue,Away,W,1,0,Portugal,"28,196",Koke,Daniele Orsato,FALSE
+Spain,2022-11-17,18:00,Friendlies (M),Friendlies (M),Thu,Away,"",,,Jordan,"","","",FALSE
+Switzerland,2021-03-25,19:00,WCQ,First round,Thu,Away,W,3,1,Bulgaria,"",Granit Xhaka,Nikola Dabanović,FALSE
+Switzerland,2021-03-28,20:45,WCQ,First round,Sun,Home,W,1,0,Lithuania,"",Granit Xhaka,Mattias Gestranius,FALSE
+Switzerland,2021-09-05,20:45,WCQ,First round,Sun,Home,D,0,0,Italy,"31,500",Yann Sommer,Carlos del Cerro,FALSE
+Switzerland,2021-09-08,19:45,WCQ,First round,Wed,Away,D,0,0,Northern Ireland,"15,660",Yann Sommer,Harald Lechner,FALSE
+Switzerland,2021-10-09,20:45,WCQ,First round,Sat,Home,W,2,0,Northern Ireland,"19,129",Xherdan Shaqiri,Slavko Vinčič,FALSE
+Switzerland,2021-10-12,21:45,WCQ,First round,Tue,Away,W,4,0,Lithuania,"1,806",Xherdan Shaqiri,Tiago Martins,FALSE
+Switzerland,2021-11-12,20:45,WCQ,First round,Fri,Away,D,1,1,Italy,"45,699",Xherdan Shaqiri,Anthony Taylor,FALSE
+Switzerland,2021-11-15,20:45,WCQ,First round,Mon,Home,W,4,0,Bulgaria,"",Xherdan Shaqiri,Benoît Bastien,FALSE
+Switzerland,2022-03-26,17:30,Friendlies (M),Friendlies (M),Sat,Away,L,1,2,England,"",Granit Xhaka,Andreas Ekberg,FALSE
+Switzerland,2022-03-29,18:00,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,Kosovo,"",Granit Xhaka,Ruddy Buquet,FALSE
+Switzerland,2022-06-02,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,Czech Republic,"12,236",Granit Xhaka,Daniel Siebert,FALSE
+Switzerland,2022-06-05,19:45,UEFA Nations League,League A,Sun,Away,L,0,4,Portugal,"42,325",Granit Xhaka,Orel Grinfeeld,FALSE
+Switzerland,2022-06-09,20:45,UEFA Nations League,League A,Thu,Home,L,0,1,Spain,"25,875",Granit Xhaka,Serdar Gözübüyük,FALSE
+Switzerland,2022-06-12,20:45,UEFA Nations League,League A,Sun,Home,W,1,0,Portugal,"26,300",Granit Xhaka,Fran Jović,FALSE
+Switzerland,2022-09-24,20:45,UEFA Nations League,League A,Sat,Away,W,2,1,Spain,"31,089",Granit Xhaka,Clément Turpin,FALSE
+Switzerland,2022-09-27,20:45,UEFA Nations League,League A,Tue,Home,W,2,1,Czech Republic,"13,353",Granit Xhaka,Irfan Peljto,FALSE
+Switzerland,2022-11-17,17:00,Friendlies (M),Friendlies (M),Thu,Away,"",,,Ghana,"","","",FALSE
+Tunisia,2021-09-03,20:00,WCQ,Second round,Fri,Home,W,3,0,Equ. Guinea,,Wahbi Khazri,Daniel Nii Ayi Laryea,FALSE
+Tunisia,2021-09-07,15:00,WCQ,Second round,Tue,Away,W,2,0,Zambia,,Wahbi Khazri,Eric Otogo-Castane,FALSE
+Tunisia,2021-10-07,20:00,WCQ,Second round,Thu,Home,W,3,0,Mauritania,,Wahbi Khazri,Bamlak Tessema,FALSE
+Tunisia,2021-10-10,19:00,WCQ,Second round,Sun,Away,D,0,0,Mauritania,,Farouk Ben Mustapha,Mehdi Abid Charef,FALSE
+Tunisia,2021-11-13,17:00,WCQ,Second round,Sat,Away,L,0,1,Equ. Guinea,,Wahbi Khazri,Boubou Traoré,FALSE
+Tunisia,2021-11-16,20:00,WCQ,Second round,Tue,Home,W,3,1,Zambia,,Wahbi Khazri,Pacifique Ndabihawenimana,FALSE
+Tunisia,2022-01-12,14:00,Africa Cup of Nations,Group stage,Wed,Neutral,L,0,1,Mali,,Wahbi Khazri,Janny Sikazwe,FALSE
+Tunisia,2022-01-16,17:00,Africa Cup of Nations,Group stage,Sun,Neutral,W,4,0,Mauritania,,Wahbi Khazri,Mahmoud El Banna,FALSE
+Tunisia,2022-01-20,20:00,Africa Cup of Nations,Group stage,Thu,Neutral,L,0,1,Gambia,,Ellyes Skhiri,Fernando Guerrero,FALSE
+Tunisia,2022-01-23,20:00,Africa Cup of Nations,Round of 16,Sun,Neutral,W,1,0,Nigeria,,Youssef Msakni,Maguette Ndiaye,FALSE
+Tunisia,2022-01-29,20:00,Africa Cup of Nations,Quarter-finals,Sat,Neutral,L,0,1,Burkina Faso,,Youssef Msakni,Joshua Bondo,FALSE
+Tunisia,2022-03-25,17:00,WCQ,Third round,Fri,Away,W,1,0,Mali,,Youssef Msakni,Bamlak Tessema,FALSE
+Tunisia,2022-03-29,20:30,WCQ,Third round,Tue,Home,D,0,0,Mali,,Youssef Msakni,Maguette Ndiaye,FALSE
+Tunisia,2022-06-02,20:00,Africa Cup of Nations qualification,Group stage,Thu,Home,W,4,0,Equ. Guinea,,Ferjani Sassi,Pacifique Ndabihawenimana,FALSE
+Tunisia,2022-06-05,15:00,Africa Cup of Nations qualification,Group stage,Sun,Away,D,0,0,Botswana,,Ali Maâloul,Athoumani Mohamed,FALSE
+Tunisia,2022-09-22,16:30,Friendlies (M),Friendlies (M),Thu,Neutral,W,1,0,Comoros,,Wahbi Khazri,Gabriel Henry,FALSE
+Tunisia,2022-09-27,15:30,Friendlies (M),Friendlies (M),Tue,Neutral,L,1,5,Brazil,,Youssef Msakni,Ruddy Buquet,FALSE
+Tunisia,2022-11-16,"",Friendlies (M),Friendlies (M),Wed,Away,"",,,IR Iran,,"","",FALSE
+United States,2021-09-02,20:05,WCQ,Third round,Thu,Away,D,0,0,El Salvador,"29,000",Tyler Adams,Juan Gabriel Calderón,FALSE
+United States,2021-09-05,19:12,WCQ,Third round,Sun,Home,D,1,1,Canada,"43,028",Christian Pulisic,Oshane Nation,FALSE
+United States,2021-09-08,20:30,WCQ,Third round,Wed,Away,W,4,1,Honduras,"31,000",Christian Pulisic,Fernando Hernández,FALSE
+United States,2021-10-07,18:45,WCQ,Third round,Thu,Home,W,2,0,Jamaica,"20,500",Tyler Adams,Reon Radix,FALSE
+United States,2021-10-10,17:05,WCQ,Third round,Sun,Away,L,0,1,Panama,"16,228",Walker Zimmerman,César Arturo Ramos,FALSE
+United States,2021-10-13,19:00,WCQ,Third round,Wed,Home,W,2,1,Costa Rica,"20,165",Tyler Adams,Daneon Parchment,FALSE
+United States,2021-11-12,21:10,WCQ,Third round,Fri,Home,W,2,0,Mexico,"26,000",Tyler Adams,Iván Barton,FALSE
+United States,2021-11-16,17:00,WCQ,Third round,Tue,Away,D,1,1,Jamaica,"4,100",Tyler Adams,Juan Gabriel Calderón,FALSE
+United States,2022-01-27,19:00,WCQ,Third round,Thu,Home,W,1,0,El Salvador,"20,000",Christian Pulisic,Bryan López,FALSE
+United States,2022-01-30,15:05,WCQ,Third round,Sun,Away,L,0,2,Canada,"12,000",Tyler Adams,César Arturo Ramos,FALSE
+United States,2022-02-02,18:30,WCQ,Third round,Wed,Home,W,3,0,Honduras,"19,202",Walker Zimmerman,Oshane Nation,FALSE
+United States,2022-03-24,20:00,WCQ,Third round,Thu,Away,D,0,0,Mexico,"47,000",Tyler Adams,Mario Escobar,FALSE
+United States,2022-03-27,19:00,WCQ,Third round,Sun,Home,W,5,1,Panama,"25,022",Christian Pulisic,Iván Barton,FALSE
+United States,2022-03-30,19:05,WCQ,Third round,Wed,Away,L,0,2,Costa Rica,"35,000",Walker Zimmerman,Drew Fischer,FALSE
+United States,2022-06-01,19:30,Friendlies (M),Friendlies (M),Wed,Home,W,3,0,Morocco,"19,512",Christian Pulisic,Ismael Cornejo,FALSE
+United States,2022-09-23,14:25,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,Japan,"5,149",Walker Zimmerman,Felix Zwayer,FALSE
+United States,2022-09-27,20:00,Friendlies (M),Friendlies (M),Tue,Away,D,0,0,Saudi Arabia,364,Christian Pulisic,Ivan Bebek,FALSE
+Uruguay,2020-10-08,19:45,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,1,Chile,"",Diego Godín,Eber Aguino,FALSE
+Uruguay,2020-10-13,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,2,4,Ecuador,"",Diego Godín,Wilmar Roldán,FALSE
+Uruguay,2020-11-13,15:30,WCQ,WCQ — CONMEBOL (M),Fri,Away,W,3,0,Colombia,"",Diego Godín,Fernando Rapallini,FALSE
+Uruguay,2020-11-17,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,L,0,2,Brazil,"",Diego Godín,Roberto Tobar,FALSE
+Uruguay,2021-06-03,19:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,Paraguay,"",Diego Godín,Wilmar Roldán,FALSE
+Uruguay,2021-06-08,18:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,Venezuela,"",Diego Godín,Anderson Daronco,FALSE
+Uruguay,2021-09-02,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,Peru,"",Diego Godín,Néstor Pitana,FALSE
+Uruguay,2021-09-05,19:00,WCQ,WCQ — CONMEBOL (M),Sun,Home,W,4,2,Bolivia,"",Diego Godín,Eber Aguino,FALSE
+Uruguay,2021-09-09,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,Ecuador,"",Fernando Muslera,Anderson Daronco,FALSE
+Uruguay,2021-10-07,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Home,D,0,0,Colombia,"",Diego Godín,Jesús Valenzuela,FALSE
+Uruguay,2021-10-10,20:30,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,0,3,Argentina,"",Diego Godín,Roberto Tobar,FALSE
+Uruguay,2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,L,1,4,Brazil,"",Diego Godín,Fernando Rapallini,FALSE
+Uruguay,2021-11-12,20:00,WCQ,WCQ — CONMEBOL (M),Fri,Home,L,0,1,Argentina,"",Diego Godín,Alexis Herrera,FALSE
+Uruguay,2021-11-16,16:00,WCQ,WCQ — CONMEBOL (M),Tue,Away,L,0,3,Bolivia,"",Diego Godín,Wilton Sampaio,FALSE
+Uruguay,2022-01-27,20:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,Paraguay,"",Diego Godín,Darío Herrera,FALSE
+Uruguay,2022-02-01,20:00,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,1,Venezuela,"",Diego Godín,Bruno Arleu de Araujo,FALSE
+Uruguay,2022-03-24,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,Peru,"",Diego Godín,Anderson Daronco,FALSE
+Uruguay,2022-03-29,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,Chile,"",Diego Godín,Patricio Loustau,FALSE
+Uruguay,2022-06-02,19:00,Friendlies (M),Friendlies (M),Thu,Neutral,W,3,0,Mexico,"57,735",Edinson Cavani,Juan Gabriel Calderón,FALSE
+Uruguay,2022-09-23,19:30,Friendlies (M),Friendlies (M),Fri,Neutral,L,0,1,IR Iran,"",Luis Suárez,Walter Altmann,FALSE
+Uruguay,2022-09-27,18:00,Friendlies (M),Friendlies (M),Tue,Away,W,2,0,Canada,"",Luis Suárez,Peter Kráľovič,FALSE
+Wales,2021-03-24,20:45,WCQ,First round,Wed,Away,L,1,3,Belgium,"",Gareth Bale,Cüneyt Çakιr,FALSE
+Wales,2021-03-30,19:45,WCQ,First round,Tue,Home,W,1,0,Czech Republic,"",Gareth Bale,Ovidiu Hațegan,FALSE
+Wales,2021-09-05,16:00,WCQ,First round,Sun,Away,W,3,2,Belarus,"",Gareth Bale,Giorgi Kruashvili,FALSE
+Wales,2021-09-08,19:45,WCQ,First round,Wed,Home,D,0,0,Estonia,"21,624",Gareth Bale,Ruddy Buquet,FALSE
+Wales,2021-10-08,20:45,WCQ,First round,Fri,Away,D,2,2,Czech Republic,"16,856",Aaron Ramsey,Deniz Aytekin,FALSE
+Wales,2021-10-11,21:45,WCQ,First round,Mon,Away,W,1,0,Estonia,"5,118",Aaron Ramsey,Sandro Schärer,FALSE
+Wales,2021-11-13,19:45,WCQ,First round,Sat,Home,W,5,1,Belarus,"27,152",Gareth Bale,Maurizio Mariani,FALSE
+Wales,2021-11-16,19:45,WCQ,First round,Tue,Home,D,1,1,Belgium,"32,343",Aaron Ramsey,Artur Dias,FALSE
+Wales,2022-03-24,19:45,WCQ,Semi-finals,Thu,Home,W,2,1,Austria,"32,053",Gareth Bale,Szymon Marciniak,FALSE
+Wales,2022-03-29,19:45,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,Czech Republic,"",Wayne Hennessey,Paul Tierney,FALSE
+Wales,2022-06-01,18:00,UEFA Nations League,League A,Wed,Away,L,1,2,Poland,"35,214",Chris Gunter,Rade Obrenović,FALSE
+Wales,2022-06-05,17:00,WCQ,Finals,Sun,Home,W,1,0,Ukraine,"32,660",Gareth Bale,Antonio Matéu Lahoz,FALSE
+Wales,2022-06-08,19:45,UEFA Nations League,League A,Wed,Home,L,1,2,Netherlands,"23,395",Ben Davies,Glenn Nyberg,FALSE
+Wales,2022-06-11,19:45,UEFA Nations League,League A,Sat,Home,D,1,1,Belgium,"27,188",Gareth Bale,Benoît Bastien,FALSE
+Wales,2022-06-14,20:45,UEFA Nations League,League A,Tue,Away,L,2,3,Netherlands,"32,247",Ben Davies,Horațiu Fesnic,FALSE
+Wales,2022-09-22,20:45,UEFA Nations League,League A,Thu,Away,L,1,2,Belgium,"28,463",Wayne Hennessey,Ali Palabıyık,FALSE
+Wales,2022-09-25,19:45,UEFA Nations League,League A,Sun,Home,L,0,1,Poland,"31,520",Gareth Bale,Andris Treimanis,FALSE
