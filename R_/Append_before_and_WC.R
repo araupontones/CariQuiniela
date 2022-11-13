@@ -30,6 +30,7 @@ all_matches <-  rbind(wc$scores, pre_wc$scores ) %>%
   mutate(Date = as.Date(Date)) %>% 
   arrange(desc(Date)) %>%
   create_quarter(.,Date) %>%
+  mutate(quarter = ifelse(qatar, "WC", quarter)) %>%
   get_rankings(., rankings_fifa) %>%
   select(-c(month,quarter))
 

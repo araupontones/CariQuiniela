@@ -1,5 +1,6 @@
 get_rankings <- function(.data, rankings){
   
+  rankings <- rankings %>% select(-year)
   rankings$quarter <- as.character(rankings$quarter)
   
   .data %>%
