@@ -62,9 +62,9 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Mexico,Sweden,2022-11-16,,,FALSE
 2022,Poland,Chile,2022-11-16,,,FALSE
 2022,Saudi Arabia,Croatia,2022-11-16,,,FALSE
-2022,Ecuador,Iraq,2022-11-12,,,FALSE
-2022,Korea Republic,Iceland,2022-11-11,,,FALSE
-2022,Bahrain,Canada,2022-11-11,,,FALSE
+2022,Ecuador,Iraq,2022-11-12,0,0,FALSE
+2022,Korea Republic,Iceland,2022-11-11,1,0,FALSE
+2022,Bahrain,Canada,2022-11-11,2,2,FALSE
 2022,IR Iran,Nicaragua,2022-11-10,1,2,FALSE
 2022,Saudi Arabia,Panama,2022-11-10,1,1,FALSE
 2022,Mexico,Iraq,2022-11-09,4,0,FALSE
@@ -293,7 +293,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Korea Republic,Iceland,2022-01-15,5,1,FALSE
 2022,Ghana,Gabon,2022-01-14,1,1,FALSE
 2022,Morocco,Comoros,2022-01-14,2,0,FALSE
-2022,Senegal,Guinea,2022-01-14,0,0,FALSE
+2022,Senegal,Equ. Guinea,2022-01-14,0,0,FALSE
 2022,Cameroon,Ethiopia,2022-01-13,4,1,FALSE
 2022,Tunisia,Mali,2022-01-12,0,1,FALSE
 2022,Morocco,Ghana,2022-01-10,1,0,FALSE
@@ -309,7 +309,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2021,Syria,IR Iran,2021-11-16,0,3,FALSE
 2021,Oman,Japan,2021-11-16,0,1,FALSE
 2021,Iraq,Korea Republic,2021-11-16,0,3,FALSE
-2021,Morocco,Guinea,2021-11-16,3,0,FALSE
+2021,Morocco,Equ. Guinea,2021-11-16,3,0,FALSE
 2021,China PR,Australia,2021-11-16,1,1,FALSE
 2021,Netherlands,Norway,2021-11-16,2,0,FALSE
 2021,Vietnam,Saudi Arabia,2021-11-16,0,1,FALSE
@@ -368,7 +368,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2021,England,Hungary,2021-10-12,1,1,FALSE
 2021,Zimbabwe,Ghana,2021-10-12,0,1,FALSE
 2021,IR Iran,Korea Republic,2021-10-12,1,1,FALSE
-2021,Guinea,Morocco,2021-10-12,1,4,FALSE
+2021,Equ. Guinea,Morocco,2021-10-12,1,4,FALSE
 2021,Japan,Australia,2021-10-12,2,1,FALSE
 2021,Albania,Poland,2021-10-12,0,1,FALSE
 2021,Portugal,Luxembourg,2021-10-12,5,0,FALSE
@@ -1532,7 +1532,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2017,Andorra,Portugal,2017-10-07,0,2,FALSE
 2017,Cape Verde,Senegal,2017-10-07,0,2,FALSE
 2017,Switzerland,Hungary,2017-10-07,5,2,FALSE
-2017,Guinea,Tunisia,2017-10-07,1,4,FALSE
+2017,Equ. Guinea,Tunisia,2017-10-07,1,4,FALSE
 2017,Bosnia & Herz'na,Belgium,2017-10-07,3,4,FALSE
 2017,Cameroon,Algeria,2017-10-07,2,0,FALSE
 2017,Costa Rica,Honduras,2017-10-07,1,1,FALSE
@@ -1713,7 +1713,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2017,Panama,United States,2017-03-28,1,1,FALSE
 2017,Peru,Uruguay,2017-03-28,2,1,FALSE
 2017,Brazil,Paraguay,2017-03-28,3,0,FALSE
-2017,Cameroon,Guinea,2017-03-28,1,2,FALSE
+2017,Cameroon,Equ. Guinea,2017-03-28,1,2,FALSE
 2017,Honduras,Costa Rica,2017-03-28,1,1,FALSE
 2017,Estonia,Croatia,2017-03-28,3,0,FALSE
 2017,England,Lithuania,2017-03-26,2,0,FALSE
@@ -1846,7 +1846,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2016,Gibraltar,Belgium,2016-10-10,0,6,FALSE
 2016,Serbia,Austria,2016-10-09,3,2,FALSE
 2016,Albania,Spain,2016-10-09,0,2,FALSE
-2016,Tunisia,Guinea,2016-10-09,2,0,FALSE
+2016,Tunisia,Equ. Guinea,2016-10-09,2,0,FALSE
 2016,Wales,Georgia,2016-10-09,1,1,FALSE
 2016,Algeria,Cameroon,2016-10-09,1,1,FALSE
 2016,Russia,Costa Rica,2016-10-09,3,4,FALSE
@@ -2180,7 +2180,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2015,United States,Costa Rica,2015-10-13,0,1,FALSE
 2015,Malta,Croatia,2015-10-13,0,1,FALSE
 2015,Lithuania,England,2015-10-12,0,3,FALSE
-2015,Morocco,Guinea,2015-10-12,1,1,FALSE
+2015,Morocco,Equ. Guinea,2015-10-12,1,1,FALSE
 2015,Ukraine,Spain,2015-10-12,0,1,FALSE
 2015,Estonia,Switzerland,2015-10-12,0,1,FALSE
 2015,Germany,Georgia,2015-10-11,2,1,FALSE
@@ -2404,7 +2404,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2015,Ghana,CÃ´te d'Ivoire,2015-02-08,0,0,FALSE
 2015,United States,Panama,2015-02-08,2,0,FALSE
 2015,Ghana,Equ. Guinea,2015-02-05,3,0,FALSE
-2015,Ghana,Guinea,2015-02-01,3,0,FALSE
+2015,Ghana,Equ. Guinea,2015-02-01,3,0,FALSE
 2015,Australia,Korea Republic,2015-01-31,2,1,FALSE
 2015,Tunisia,Equ. Guinea,2015-01-31,1,2,FALSE
 2015,Chile,United States,2015-01-28,3,2,FALSE
@@ -2414,7 +2414,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2015,Senegal,Algeria,2015-01-27,0,2,FALSE
 2015,Korea Republic,Iraq,2015-01-26,2,0,FALSE
 2015,Congo DR,Tunisia,2015-01-26,1,1,FALSE
-2015,Cameroon,Guinea,2015-01-24,1,1,FALSE
+2015,Cameroon,Equ. Guinea,2015-01-24,1,1,FALSE
 2015,Ghana,Algeria,2015-01-23,1,0,FALSE
 2015,IR Iran,Iraq,2015-01-23,3,3,FALSE
 2015,Japan,UAE,2015-01-23,1,1,FALSE
@@ -2437,7 +2437,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2015,Saudi Arabia,Korea DPR,2015-01-14,4,1,FALSE
 2015,Korea Republic,Kuwait,2015-01-13,1,0,FALSE
 2015,Australia,Oman,2015-01-13,4,0,FALSE
-2015,Senegal,Guinea,2015-01-13,5,2,FALSE
+2015,Senegal,Equ. Guinea,2015-01-13,5,2,FALSE
 2015,Japan,Palestine,2015-01-12,4,0,FALSE
 2015,IR Iran,Bahrain,2015-01-11,2,0,FALSE
 2015,Qatar,UAE,2015-01-11,1,4,FALSE
@@ -2495,7 +2495,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2014,Turkey,Brazil,2014-11-12,0,4,FALSE
 2014,Qatar,Korea DPR,2014-11-06,3,1,FALSE
 2014,Saudi Arabia,Palestine,2014-11-06,2,0,FALSE
-2014,Ghana,Guinea,2014-10-15,3,1,FALSE
+2014,Ghana,Equ. Guinea,2014-10-15,3,1,FALSE
 2014,Tunisia,Senegal,2014-10-15,1,0,FALSE
 2014,Cameroon,Sierra Leone,2014-10-15,2,0,FALSE
 2014,Hong Kong,Argentina,2014-10-14,0,7,FALSE
@@ -2523,7 +2523,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2014,Luxembourg,Spain,2014-10-12,0,4,FALSE
 2014,France,Portugal,2014-10-11,2,1,FALSE
 2014,Poland,Germany,2014-10-11,2,0,FALSE
-2014,Guinea,Ghana,2014-10-11,1,1,FALSE
+2014,Equ. Guinea,Ghana,2014-10-11,1,1,FALSE
 2014,Armenia,Serbia,2014-10-11,1,1,FALSE
 2014,Sierra Leone,Cameroon,2014-10-11,0,0,FALSE
 2014,Albania,Denmark,2014-10-11,1,1,FALSE
@@ -2710,7 +2710,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2014,France,Netherlands,2014-03-05,2,0,FALSE
 2014,Germany,Chile,2014-03-05,1,0,FALSE
 2014,Montenegro,Ghana,2014-03-05,1,0,FALSE
-2014,IR Iran,Guinea,2014-03-05,1,2,FALSE
+2014,IR Iran,Equ. Guinea,2014-03-05,1,2,FALSE
 2014,Japan,New Zealand,2014-03-05,4,2,FALSE
 2014,Greece,Korea Republic,2014-03-05,0,2,FALSE
 2014,Mexico,Nigeria,2014-03-05,0,0,FALSE
@@ -3077,7 +3077,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2012,Ghana,Mali,2012-02-11,0,2,FALSE
 2012,Zambia,Ghana,2012-02-08,1,0,FALSE
 2012,Ghana,Tunisia,2012-02-05,2,1,FALSE
-2012,Ghana,Guinea,2012-02-01,1,1,FALSE
+2012,Ghana,Equ. Guinea,2012-02-01,1,1,FALSE
 2012,Niger,Morocco,2012-01-31,0,1,FALSE
 2012,Gabon,Tunisia,2012-01-31,1,0,FALSE
 2012,Libya,Senegal,2012-01-29,2,1,FALSE
