@@ -126,7 +126,7 @@ create_data_year <- function(.data, venues = c("Away", "Home", "Neutral")){
 
 
 
-matches <- rbind(pre_wc$by_team, wc$by_team) %>%
+data_year_team <- rbind(pre_wc$by_team, wc$by_team) %>%
   #get fifa quarters
   create_quarter(., Date) %>%
   mutate(quarter = ifelse(qatar, "WC", quarter)) %>%
