@@ -13,7 +13,8 @@ indir <- file.path(dir_data,"2.scrapped/fbref")
 #all_competitions.csv is created in R_/scrap_games_teams.R
 
 infile_before_2022 <- file.path(indir,"matches_before_2022.csv") #from R_scrap_games_before_2022.R
-infile_2022 <-  file.path(indir,"matches_2022_before_WC.csv") #from R_/2.scrap_games_2022_before_WC.R
+#infile_2022 <-  file.path(indir,"matches_2022_before_WC.csv") #from R_/2.scrap_games_2022_before_WC.R
+infile_2022 <- "https://raw.githubusercontent.com/araupontones/CariQuiniela/rankings/data/2.scrapped/fbref/matches_2022_before_WC.csv"
 
 
 
@@ -68,12 +69,10 @@ clean_scores <- function(data, local, date, GF, GA, result){
 }
 
 
-db_matches <- clean_scores(db_matches, "Mexico","2022-11-09",4,0,"W")
-db_matches <- clean_scores(db_matches, "Costa Rica","2022-11-09",2,0,"W")
-db_matches <- clean_scores(db_matches, "Cameroon","2022-11-09",1,1,"D")
-db_matches <- clean_scores(db_matches, "Qatar","2022-11-09",1,0,"W")
-db_matches <- clean_scores(db_matches, "IR Iran","2022-11-10",1,2,"L")
-db_matches <- clean_scores(db_matches, "Saudi Arabia","2022-11-10",1,1,"D")
+
+
+# db_matches <- clean_scores(db_matches, "IR Iran","2022-11-10",1,0,"W")
+# db_matches <- clean_scores(db_matches, "Saudi Arabia","2022-11-10",1,1,"D")
 
 
 
@@ -113,6 +112,7 @@ db_matches_unique <- db_matches %>%
 
 pre_cup_matches <- list(db_matches_unique, db_matches)
 names(pre_cup_matches) <- c("scores", "by_team")
+
 
 export(pre_cup_matches, exfile)
 paste("saved to:", exfile)
