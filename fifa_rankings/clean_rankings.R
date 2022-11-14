@@ -52,29 +52,40 @@ wc_rankings <- rankings_clean %>%
   filter(Date == "2022-10-06") %>%
   mutate(quarter = "WC") %>%
   select(team, rank, total_points, previous_points, quarter, year)
+  
+
+
+
 
 
 #join rankings
-all_rankings <- rbind(rankings_quarters, wc_rankings)
+all_rankings <- rbind(rankings_quarters, wc_rankings) %>%
+  #create index fifa
+  group_by(quarter) %>%
+  mutate(index_fifa = total_points/max(total_points, na.rm = T)) %>%
+  ungroup() %>%
+  arrange(desc(year), desc(quarter), rank)
+
 
 
 
 export(all_rankings, exfile)
+
 
 #check with odds
 
 
 
 
-teams_fifa_clean <- sort(unique(rankings_clean$team))
+teams_fifa_clean <- sort(unique(all_rankings$team))
 
 setdiff(teams, teams_fifa_clean)
 
 #check correlation with odds
-last_ranking <- rankings_clean %>% dplyr::filter(quarter == "2022.4")
-
-
-
+last_ranking <- all_rankings %>% dplyr::filter(quarter == "WC")
+# 
+# 
+# names(last_ranking)
 # 
 # data_plot <- odds %>%
 #   arrange(odd_win) %>%
@@ -86,7 +97,7 @@ last_ranking <- rankings_clean %>% dplyr::filter(quarter == "2022.4")
 # #by odds
 # data_plot %>%
 #   ggplot(aes(x = ranking_ods,
-#              y = rank,
+#              y = index_fifa,
 #              label = team)) +
 #   geom_point() +
 #  geom_smooth()+
@@ -94,7 +105,7 @@ last_ranking <- rankings_clean %>% dplyr::filter(quarter == "2022.4")
 #   labs(x = "Rank Odds",
 #        y = "Rank Fifa",
 #        title = "Ranking odds vs Ranking Fifa")
-#   
+# 
 # 
 # #by points
 # #by odds
