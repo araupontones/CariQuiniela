@@ -54,8 +54,8 @@ indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutra
     group_by(team, year) %>%
     filter(!is.na(GF)) %>%
     #normalize by FIFA index
-    mutate(fail_GF_index = (GF==0) * 1/visitante_fifa_index,
-           fail_GA_index = (GA==0) * visitante_fifa_index,
+    mutate(fail_GF_index = (GF==0) * visitante_fifa_index,
+           fail_GA_index = (GA==0) * 1/visitante_fifa_index,
            GF_index = GF * visitante_fifa_index,
            GA_index = GA * 1/visitante_fifa_index
            
