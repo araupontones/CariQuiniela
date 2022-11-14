@@ -54,21 +54,11 @@ indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutra
     group_by(team, year) %>%
     filter(!is.na(GF)) %>%
     #normalize by FIFA index
-    mutate(fail_GF_index = (GF==0) * visitante_fifa_index,
-           fail_GA_index = (GA==0) * 1/visitante_fifa_index,
-           GF_index = GF * visitante_fifa_index,
-           GA_index = GA * 1/visitante_fifa_index
-           
-           ) %>%
-    #Puntos roy
-    mutate(puntos_roy = case_when(GF > 0 & GA == 0 ~ 5,
-                                  GF > 0 & Result == "W" ~ 4,
-                                  GF > 0 & (GA - GF ==1) & Result == "L" ~ 3,
-                                  GF > 0 & Result == "D" ~ 2,
-                                  GF > 0 & (GA - GF > 1) & Result == "L" ~ 1,
-                                  T ~ 0
-                                  ),
-           puntos_roy_index = puntos_roy * visitante_fifa_index
+    mutate(#fail to score
+           did_score_index = (GF > 0) * visitante_fifa_index,
+           fail_to_score_index = (GF == 0) * (1 - visitante_fifa_index),
+           did_receive_goal_index = (GA > 0) * visitante_fifa_index,
+           didnt_receive_goal_index = (GA == 0) * (1 - visitante_fifa_index)
            ) %>%
     #summarise by year
     summarise("matches" := n(),
@@ -76,22 +66,33 @@ indicators_matches <- function(.data, prefix, venues = c("Away", "Home", "Neutra
               "matches_lost" := sum(Result == "L"),
               "matches_drawn" := sum(Result == "D"),
               "efectividad" := matches_win/matches,
-              "fail_GF" := sum(GF == 0),
-              fail_GF_index = sum(fail_GF_index,na.rm = T),
-              "fail_GA" := sum(GA == 0),
-              fail_GA_index = sum(fail_GA_index, na.rm = T),
+              #did score ---------------------------------------------------
+              did_score = sum(GF >0),
+              did_score_index = sum(did_score_index),
+              
+              #fail to score --------------------------------------------------
+              "fail_to_score" := sum(GF == 0),
+              fail_to_score_index = sum(fail_to_score_index,na.rm = T),
+              
+              #did receive goal -----------------------------------------------
+              did_receive_goal = sum(GA >0),
+              did_receive_goal_index = sum(did_receive_goal_index),
+              
+              #didnt receive goal ---------------------------------------------
+              didnt_receive_goal = sum(GA == 0),
+              didnt_receive_goal_index = sum(didnt_receive_goal_index),
+              
+              #goles a favor, en contra y diferencia ----------------------------
               "GF" := sum(GF),
-              GF_index = sum(GF_index, na.rm = T),
+             
               "GA" := sum(GA),
-              GA_index = sum(GA_index, na.rm = T),
+              
               "Gdiff" := GF - GA,
-              puntos_roy = sum(puntos_roy),
-              puntos_roy_index = sum(puntos_roy_index),
               .groups = 'drop'
     ) %>%
     #normalized by the number of matches played
     mutate(across(-c(team, year, starts_with("matches"), efectividad), ~ .x/matches, .names = "nrm_{.col}")) %>%
-    relocate(year, team, starts_with("matches"), GF, GF_index, GA,GA_index, Gdiff) %>%
+    relocate(year, team, starts_with("matches"), GF, GA, Gdiff) %>%
     #rename variables based on the venue played
     rename_at(vars(-c("team", "year")), function(x)paste(prefix,x, sep = "_"))
   
