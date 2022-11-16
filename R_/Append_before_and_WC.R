@@ -1,3 +1,4 @@
+library(stringr)
 message("Creating indicators and appending WC and  pre matches")
 sistema <- Sys.info()['sysname']
 
@@ -68,22 +69,26 @@ data_year_team <- rbind(pre_wc$by_team, wc$by_team) %>%
                                venues = c("Away", "Home", "Neutral"), 
                                type = "WC", 
                                wc_teams =look_up$team,
-                               goles_favor = GF,
-                               goles_contra = GA) 
+                              gf = GF,
+                               gc = GA) 
 
-
+ 
+  
   no_qualified <- create_data_year(data_year_team, 
-                                   venues = c("Away", "Neutral"), 
+                                   venues = c("Away", "Home", "Neutral"), 
                                    type = "Others", 
                                    wc_teams =look_up$team,
-                                   goles_favor = GA,
-                                   goles_contra = GF) 
+                                   gf = GF,
+                                   gc = GA) 
+      
   
+
   data_year_team_all <- plyr::rbind.fill(mundial,no_qualified)
 
  
 
-#===============================================================================
+
+  #===============================================================================
 #export data====================================================================
 
 
