@@ -59,9 +59,12 @@ The following objects are masked from ‘package:base’:
 > dir_data <- file.path(get_proj_dir(), "data")
 > dir_r <- file.path(get_proj_dir(), "R_")
 > 
+> 
+> 
 > #1. Get matches of 2022 but before the WC (only run before the WC)
 > 
 > #source(file.path(dir_r,"fbref_matches/2.Scrap_games_2022_before_WC.R")) #exports to data/2.scrapped/fbref/matches_2022_before_WC.csv
+> 
 > 
 > 
 > #2. Clean matches before the WC
@@ -89,7 +92,6 @@ Matches are cleaned!
 > #Download oods to win the World Cup --------------------------------------------
 > source(file.path(dir_r,"request_WC_odds_winners.R"), encoding = "UTF-8") #saves ind_ods_einner.csv
 requesting odds .....
-[1] "sugarhouse"
 [1] "betrivers"
 [1] "barstool"
 [1] "betfair"
@@ -108,4 +110,4 @@ odds saved in data clean!
 > 
 > proc.time()
    user  system elapsed 
-  2.726   0.121   3.281 
+  2.792   0.131   3.362 
