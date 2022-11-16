@@ -10,8 +10,8 @@ indicators_matches <- function(.data, prefix,
                                venues = c("Away", "Home", "Neutral"), 
                                type = c("WC", "Others"), 
                                wc_teams =look_up$team,
-                               goles_favor = GF,
-                               goles_contra = GA){
+                               goles_favor,
+                               goles_contra){
   
   #define loosing and winning for WC teams and other teams -------------------
   if(type == "WC"){
@@ -39,7 +39,11 @@ indicators_matches <- function(.data, prefix,
     
     db_group <- data_venue %>% 
       select(-team) %>%
-      filter(!Opponent %in% wc_teams) %>% group_by(Opponent, year) %>% rename(team = Opponent)
+      filter(!Opponent %in% wc_teams) %>% group_by(Opponent, year) %>% rename(team = Opponent) %>%
+      mutate(perro = GF,
+             GF = GA,
+             GA = perro) %>%
+      select(-perro)
   }
   
   
@@ -96,15 +100,15 @@ indicators_matches <- function(.data, prefix,
 
 
 # function to loop over all the venue types to create indicators --------------
-create_data_year <- function(.data, venues = c("Away", "Home", "Neutral"),type, wc_teams, goles_favor, goles_contra){
+create_data_year <- function(.data, venues = c("Away", "Home", "Neutral"),type, wc_teams, gf, gc){
   
   #all {{goles_contra}}mes
   all_ <- indicators_matches(.data, prefix = "all", 
                              venues, 
                              type = type, 
                              wc_teams =wc_teams,
-                             goles_favor = {{goles_favor}},
-                             goles_contra = {{goles_contra}} )
+                             goles_favor = {{gf}},
+                             goles_contra = {{gc}} )
   
   #{{goles_contra}}mes by venue
   my_list <- lapply(venues, function(v){
@@ -113,8 +117,8 @@ create_data_year <- function(.data, venues = c("Away", "Home", "Neutral"),type, 
     my_data <- indicators_matches(.data, prefix = v, venues = v,
                                   type = type,
                                   wc_teams =look_up$team,
-                                  goles_favor = {{goles_favor}},
-                                  goles_contra = {{goles_contra}} )
+                                  goles_favor = {{gf}},
+                                  goles_contra = {{gc}} )
     
     
   })
