@@ -14,7 +14,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Ecuador,Senegal,2022-11-29,,,TRUE
 2022,Netherlands,Qatar,2022-11-29,,,TRUE
 2022,Wales,England,2022-11-29,,,TRUE
-2022,IR Iran,United States,2022-11-29,,,TRUE
+2022,IR Iran,USA,2022-11-29,,,TRUE
 2022,Cameroon,Serbia,2022-11-28,,,TRUE
 2022,Korea Republic,Ghana,2022-11-28,,,TRUE
 2022,Brazil,Switzerland,2022-11-28,,,TRUE
@@ -27,12 +27,12 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Poland,Saudi Arabia,2022-11-26,,,TRUE
 2022,France,Denmark,2022-11-26,,,TRUE
 2022,Argentina,Mexico,2022-11-26,,,TRUE
-2022,Wales,IR Iran,2022-11-25,,,TRUE
+2022,Wales,Iran,2022-11-25,,,TRUE
 2022,Qatar,Senegal,2022-11-25,,,TRUE
 2022,Netherlands,Ecuador,2022-11-25,,,TRUE
-2022,England,United States,2022-11-25,,,TRUE
+2022,England,USA,2022-11-25,,,TRUE
 2022,Switzerland,Cameroon,2022-11-24,,,TRUE
-2022,Uruguay,Korea Republic,2022-11-24,,,TRUE
+2022,Uruguay,South Korea,2022-11-24,,,TRUE
 2022,Portugal,Ghana,2022-11-24,,,TRUE
 2022,Brazil,Serbia,2022-11-24,,,TRUE
 2022,Morocco,Croatia,2022-11-23,,,TRUE
@@ -43,7 +43,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Denmark,Tunisia,2022-11-22,,,TRUE
 2022,Mexico,Poland,2022-11-22,,,TRUE
 2022,France,Australia,2022-11-22,,,TRUE
-2022,England,IR Iran,2022-11-21,,,TRUE
+2022,England,Iran,2022-11-21,,,TRUE
 2022,Senegal,Netherlands,2022-11-21,,,TRUE
 2022,United States,Wales,2022-11-21,,,TRUE
 2022,Qatar,Ecuador,2022-11-20,,,TRUE
@@ -56,12 +56,12 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Jordan,Spain,2022-11-17,,,FALSE
 2022,Japan,Canada,2022-11-17,,,FALSE
 2022,Iraq,Costa Rica,2022-11-17,,,FALSE
-2022,UAE,Argentina,2022-11-16,,,FALSE
-2022,Oman,Germany,2022-11-16,,,FALSE
+2022,UAE,Argentina,2022-11-16,0,5,FALSE
+2022,Oman,Germany,2022-11-16,0,1,FALSE
 2022,IR Iran,Tunisia,2022-11-16,,,FALSE
-2022,Mexico,Sweden,2022-11-16,,,FALSE
-2022,Poland,Chile,2022-11-16,,,FALSE
-2022,Saudi Arabia,Croatia,2022-11-16,,,FALSE
+2022,Mexico,Sweden,2022-11-16,2,1,FALSE
+2022,Poland,Chile,2022-11-16,1,0,FALSE
+2022,Saudi Arabia,Croatia,2022-11-16,0,1,FALSE
 2022,Ecuador,Iraq,2022-11-12,0,0,FALSE
 2022,Korea Republic,Iceland,2022-11-11,1,0,FALSE
 2022,Bahrain,Canada,2022-11-11,2,2,FALSE
