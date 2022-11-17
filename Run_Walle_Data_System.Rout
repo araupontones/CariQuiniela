@@ -110,4 +110,4 @@ odds saved in data clean!
 > 
 > proc.time()
    user  system elapsed 
-  2.792   0.131   3.362 
+  2.759   0.106   3.274 
