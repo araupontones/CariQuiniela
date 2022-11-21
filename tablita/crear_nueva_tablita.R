@@ -119,6 +119,30 @@ roys <- all_matches %>%
                    ), by = c("opponent"= "team", "date"), suffix = c("_team", "_opponent")) %>%
   arrange(team, desc(date))
 
+nrow(filter(all_matches, year>2017))
+nrow(tablita)
+nrow(roys)
+names(roys)
+
+View(roys)
+
+
+nrow(tablita)
+nrow(all_matches)
+nrow
+View(all_matches)
+
+#get data of opponent for my OLS -----------------------------------------------------------------
+opponents <- tablita %>%
+  select(team, date, GA_last_5, not_receive_goal)
+
+
+tablita_final <- tablita %>%
+  left_join(opponents, by = c("opponent" = "team", "date"), suffix = c("_team", "_opponent"))
+
+
+
+
 
 rio::export(roys, exfile)
 
