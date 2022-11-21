@@ -1,8 +1,10 @@
 library(zoo)
+library(dplyr)
+library(stringr)
 
 exfile = 'tablita/tablita_gordo.csv'
 #Read elo ratings that is created in elo/append_ratings.R
-elo <- rio::import("elo/elo_rankings.csv")
+elo <- rio::import("elo/elo_rankings.csv") %>% mutate(qatar = FALSE)
 #read all matches created by walle 
 wc_matches <- rio::import("https://raw.githubusercontent.com/araupontones/CariQuiniela/walle/data/3.clean/ind_all_matches.csv")
 
@@ -14,6 +16,7 @@ wc_matches <- filter(wc_matches, qatar) %>%
          goles_opponent = goles_visitante
          ) %>%
   mutate(torneo = "World Cup" )
+
 
 
 #bind tables
@@ -106,7 +109,6 @@ tablita_final <- tablita %>%
 
 
 
-View(tablita_final)
-names(tablita_final)
+
 rio::export(tablita_final, exfile)
-exfile
+

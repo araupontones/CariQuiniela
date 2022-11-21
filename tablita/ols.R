@@ -8,7 +8,12 @@ library(ggplot2)
 matches <- import("https://raw.githubusercontent.com/araupontones/CariQuiniela/main/tablita/tablita_gordo.csv")
 matches <- import('tablita/tablita_gordo.csv')
 
-names(matches)
+matches <- matches %>%
+  mutate(qatar =ifelse(is.na(qatar), FALSE, qatar),
+         GF = ifelse(qatar, NA, GF))
+
+View(matches)
+
 #import("https://raw.githubusercontent.com/araupontones/CariQuiniela/rankings/data/3.clean/ind_teams_year.csv")
 # years <- import("data/3.clean/ind_teams_year.csv")
 #  
@@ -45,13 +50,15 @@ names(matches)
 #Model ---------------------------------------------------------------------
 linearMod <- lm(GF ~ 
                   #performance team
-                 pre_rating_team +
-                  pre_rating_opponent
+                 # pre_rating_team +
+                 #  pre_rating_opponent
+                  dr_pre
                 #efectividad_local
                   + GF_last_5 
                  
                   #performance Opponent
-                  
+                  + not_receive_goal_opponent
+              
               
                 ,
                 data=matches)
