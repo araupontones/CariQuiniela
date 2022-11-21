@@ -46,7 +46,7 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,England,IR Iran,2022-11-21,,,TRUE
 2022,Senegal,Netherlands,2022-11-21,,,TRUE
 2022,United States,Wales,2022-11-21,,,TRUE
-2022,Qatar,Ecuador,2022-11-20,,,TRUE
+2022,Qatar,Ecuador,2022-11-20,2,0,TRUE
 2022,Bahrain,Serbia,2022-11-18,,,FALSE
 2022,Belgium,Egypt,2022-11-18,,,FALSE
 2022,Cameroon,Panama,2022-11-18,,,FALSE
