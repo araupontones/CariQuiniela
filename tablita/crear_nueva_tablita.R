@@ -85,6 +85,7 @@ tablita <- matches %>%
    #                             ),
    
          .after = GA ) %>%
+  ungroup()%>%
   select(date, year, team, opponent,GF,GA, Home, starts_with("ind"), starts_with("post"), qatar) %>%
   rename(pre_rating_team = ind_rating_team,
          pre_rating_opponent = ind_rating_opponent) %>%
@@ -93,5 +94,19 @@ tablita <- matches %>%
   mutate(dr_pre = ifelse(Home, pre_rating_team - pre_rating_opponent + 100, pre_rating_team - pre_rating_opponent)) %>%
   filter(year > 2017)
  
+#get data of opponent -----------------------------------------------------------------
+opponents <- tablita %>%
+  select(team, date, GA_last_5, not_receive_goal)
 
-rio::export(tablita, exfile)
+
+tablita_final <- tablita %>%
+  left_join(opponents, by = c("opponent" = "team", "date"), suffix = c("_team", "_opponent"))
+
+
+
+
+
+View(tablita_final)
+names(tablita_final)
+rio::export(tablita_final, exfile)
+exfile
