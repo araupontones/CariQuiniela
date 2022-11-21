@@ -5,6 +5,8 @@ library(stringr)
 exfile = 'tablita/tablita_gordo.csv'
 #Read elo ratings that is created in elo/append_ratings.R
 elo <- rio::import("elo/elo_rankings.csv") %>% mutate(qatar = FALSE)
+
+
 #read all matches created by walle 
 wc_matches <- rio::import("https://raw.githubusercontent.com/araupontones/CariQuiniela/walle/data/3.clean/ind_all_matches.csv")
 
@@ -97,18 +99,26 @@ tablita <- matches %>%
   mutate(dr_pre = ifelse(Home, pre_rating_team - pre_rating_opponent + 100, pre_rating_team - pre_rating_opponent)) %>%
   filter(year > 2017)
  
-#get data of opponent -----------------------------------------------------------------
-opponents <- tablita %>%
-  select(team, date, GA_last_5, not_receive_goal)
 
 
-tablita_final <- tablita %>%
-  left_join(opponents, by = c("opponent" = "team", "date"), suffix = c("_team", "_opponent"))
+#get roys ------------------------------------------------------------------
+roys <- all_matches %>%
+  filter(year > 2017) %>%
+  select(date,team) %>%
+  left_join(select(tablita,-c(year), -Home, -starts_with("post")), by= c("team","date")) %>%
+  left_join(select(tablita,
+                   -starts_with('pre'),
+                   -starts_with('post'),
+                   -year,
+                   -GF,
+                   -GA,
+                   -Home,
+                   -qatar,
+                   -dr_pre,
+                   -opponent,
+                   ), by = c("opponent"= "team", "date"), suffix = c("_team", "_opponent")) %>%
+  arrange(team, desc(date))
 
 
-
-
-
-
-rio::export(tablita_final, exfile)
+rio::export(roys, exfile)
 
