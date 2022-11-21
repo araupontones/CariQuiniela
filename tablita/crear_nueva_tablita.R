@@ -85,7 +85,7 @@ tablita <- matches %>%
    #                             ),
    
          .after = GA ) %>%
-  select(date, year, team, opponent, Home, starts_with("ind"), starts_with("post"), qatar) %>%
+  select(date, year, team, opponent,GF,GA, Home, starts_with("ind"), starts_with("post"), qatar) %>%
   rename(pre_rating_team = ind_rating_team,
          pre_rating_opponent = ind_rating_opponent) %>%
   rename_at(vars(starts_with("ind_")), function(x)str_remove_all(x,"ind_")) %>%
