@@ -71,8 +71,26 @@ clean_scores <- function(data, local, date, GF, GA, result){
 
 
 
-# db_matches <- clean_scores(db_matches, "IR Iran","2022-11-10",1,0,"W")
-# db_matches <- clean_scores(db_matches, "Saudi Arabia","2022-11-10",1,1,"D")
+ db_matches <- clean_scores(db_matches, "Argentina","2022-11-16",5,0,"W")
+ db_matches <- clean_scores(db_matches, "IR Iran","2022-11-16",0,2,"L")
+ db_matches <- clean_scores(db_matches, "Saudi Arabia","2022-11-16",0,1,"L")
+ db_matches <- clean_scores(db_matches, "Poland","2022-11-16",1,0,"W")
+ db_matches <- clean_scores(db_matches, "Mexico","2022-11-16",2,1,"L")
+ db_matches <- clean_scores(db_matches, "Germany","2022-11-16",1,0,"W")
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+ # db_matches <- clean_scores(db_matches, "Saudi Arabia","2022-11-10",1,1,"D")
 
 
 

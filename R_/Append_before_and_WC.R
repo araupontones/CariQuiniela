@@ -68,20 +68,19 @@ data_year_team <- rbind(pre_wc$by_team, wc$by_team) %>%
   mundial <- create_data_year(data_year_team, 
                                venues = c("Away", "Home", "Neutral"), 
                                type = "WC", 
-                               wc_teams =look_up$team,
-                              gf = GF,
-                               gc = GA) 
+                               wc_teams =look_up$team
+                             ) 
 
  
+
   
   no_qualified <- create_data_year(data_year_team, 
                                    venues = c("Away", "Home", "Neutral"), 
                                    type = "Others", 
-                                   wc_teams =look_up$team,
-                                   gf = GF,
-                                   gc = GA) 
+                                   wc_teams =look_up$team
+                                  ) 
       
-  
+ 
 
   data_year_team_all <- plyr::rbind.fill(mundial,no_qualified)
 

@@ -7,6 +7,8 @@ library(tibble)
 library(tidyr)
 library(glue)
 
+.libPaths()
+
 #define working directory so linux can run with no problem
 
 gmdacr::load_functions("functions")
@@ -39,12 +41,12 @@ dir_r <- file.path(get_proj_dir(), "R_")
 
 #2. Clean matches before the WC
 
-#source(file.path(dir_r,"fbref_matches/4.clean_matches_before_WC.R")) #exports to data/2.1intermediate/matches_before_WC.rds
+source(file.path(dir_r,"fbref_matches/4.clean_matches_before_WC.R")) #exports to data/2.1intermediate/matches_before_WC.rds
 
 
 
 #Scrap the world cup matches --------------------------------------------------
-#source(file.path(dir_r,"request_WC_scores.R"), encoding = "UTF-8") #exports to data/2.1.intermediate/WC_matches.rds
+source(file.path(dir_r,"request_WC_scores.R"), encoding = "UTF-8") #exports to data/2.1.intermediate/WC_matches.rds
 
 
 #Clean matches ------------------------------------------------------------------
