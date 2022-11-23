@@ -1,48 +1,52 @@
 year,team,Opponent,Date,goles_local,goles_visitante,qatar
+2022,Cameroon,Brazil,2022-12-02,,,TRUE
 2022,Ghana,Uruguay,2022-12-02,,,TRUE
 2022,Korea Republic,Portugal,2022-12-02,,,TRUE
-2022,Cameroon,Brazil,2022-12-02,,,TRUE
 2022,Serbia,Switzerland,2022-12-02,,,TRUE
 2022,Croatia,Belgium,2022-12-01,,,TRUE
 2022,Canada,Morocco,2022-12-01,,,TRUE
 2022,Costa Rica,Germany,2022-12-01,,,TRUE
 2022,Japan,Spain,2022-12-01,,,TRUE
+2022,Poland,Argentina,2022-11-30,,,TRUE
 2022,Australia,Denmark,2022-11-30,,,TRUE
 2022,Tunisia,France,2022-11-30,,,TRUE
-2022,Poland,Argentina,2022-11-30,,,TRUE
 2022,Saudi Arabia,Mexico,2022-11-30,,,TRUE
 2022,Ecuador,Senegal,2022-11-29,,,TRUE
-2022,Netherlands,Qatar,2022-11-29,,,TRUE
 2022,Wales,England,2022-11-29,,,TRUE
 2022,IR Iran,United States,2022-11-29,,,TRUE
+2022,Netherlands,Qatar,2022-11-29,,,TRUE
+2022,Brazil,Switzerland,2022-11-28,,,TRUE
 2022,Cameroon,Serbia,2022-11-28,,,TRUE
 2022,Korea Republic,Ghana,2022-11-28,,,TRUE
-2022,Brazil,Switzerland,2022-11-28,,,TRUE
 2022,Portugal,Uruguay,2022-11-28,,,TRUE
-2022,Japan,Costa Rica,2022-11-27,,,TRUE
 2022,Belgium,Morocco,2022-11-27,,,TRUE
 2022,Croatia,Canada,2022-11-27,,,TRUE
+2022,Japan,Costa Rica,2022-11-27,,,TRUE
 2022,Spain,Germany,2022-11-27,,,TRUE
-2022,Tunisia,Australia,2022-11-26,,,TRUE
-2022,Poland,Saudi Arabia,2022-11-26,,,TRUE
-2022,France,Denmark,2022-11-26,,,TRUE
 2022,Argentina,Mexico,2022-11-26,,,TRUE
-2022,Wales,IR Iran,2022-11-25,,,TRUE
-2022,Qatar,Senegal,2022-11-25,,,TRUE
+2022,Tunisia,Australia,2022-11-26,,,TRUE
+2022,France,Denmark,2022-11-26,,,TRUE
+2022,Poland,Saudi Arabia,2022-11-26,,,TRUE
 2022,Netherlands,Ecuador,2022-11-25,,,TRUE
 2022,England,United States,2022-11-25,,,TRUE
-2022,Switzerland,Cameroon,2022-11-24,,,TRUE
-2022,Uruguay,Korea Republic,2022-11-24,,,TRUE
-2022,Portugal,Ghana,2022-11-24,,,TRUE
+2022,Wales,IR Iran,2022-11-25,,,TRUE
+2022,Qatar,Senegal,2022-11-25,,,TRUE
 2022,Brazil,Serbia,2022-11-24,,,TRUE
+2022,Switzerland,Cameroon,2022-11-24,,,TRUE
+2022,Portugal,Ghana,2022-11-24,,,TRUE
+2022,Uruguay,Korea Republic,2022-11-24,,,TRUE
+2022,Belgium,Canada,2022-11-23,,,TRUE
+2022,Spain,Costa Rica,2022-11-23,,,TRUE
 2022,Morocco,Croatia,2022-11-23,,,TRUE
 2022,Germany,Japan,2022-11-23,,,TRUE
-2022,Spain,Costa Rica,2022-11-23,,,TRUE
-2022,Belgium,Canada,2022-11-23,,,TRUE
-2022,Argentina,Saudi Arabia,2022-11-22,2,1,TRUE
-2022,Denmark,Tunisia,2022-11-22,0,0,TRUE
-2022,Mexico,Poland,2022-11-22,0,0,TRUE
-2022,France,Australia,2022-11-22,1,4,TRUE
+2022,Saudi Arabia,Argentina,2022-11-22,2,1,TRUE
+2022,Australia,France,2022-11-22,1,4,TRUE
+2022,Tunisia,Denmark,2022-11-22,0,0,TRUE
+2022,Poland,Mexico,2022-11-22,0,0,TRUE
+2022,IR Iran,England,2022-11-21,2,6,TRUE
+2022,Netherlands,Senegal,2022-11-21,2,0,TRUE
+2022,Wales,United States,2022-11-21,1,1,TRUE
+2022,Ecuador,Qatar,2022-11-20,2,0,TRUE
 2022,Bahrain,Serbia,2022-11-18,,,FALSE
 2022,Belgium,Egypt,2022-11-18,,,FALSE
 2022,Cameroon,Panama,2022-11-18,,,FALSE
