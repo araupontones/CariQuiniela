@@ -12,18 +12,18 @@ get_pre_rating <- function(.data, elos){
     arrange(team, desc(year), desc(date)) %>%
     mutate(last_match= lead(date)) %>%
     ungroup() %>%
-    left_join(select(elos, -c(magic_johnson, year)), by = c("team", "last_match"="date")) %>%
+    left_join(elos, by = c("team", "last_match"="date")) %>%
     rename(pre_rating = rating)
   
-  
+  # 
   oponents <- db %>%
     select(opponent = team,
            date,
            pre_rating)
-  
-  
+
+
   final <- db %>%
     left_join(oponents, by = c('date', 'opponent'), suffix =c("_team", "_opponent"))
-  
+
 }
 
