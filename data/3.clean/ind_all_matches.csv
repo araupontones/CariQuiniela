@@ -23,10 +23,10 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Croatia,Canada,2022-11-27,,,TRUE
 2022,Japan,Costa Rica,2022-11-27,,,TRUE
 2022,Spain,Germany,2022-11-27,,,TRUE
-2022,Argentina,Mexico,2022-11-26,,,TRUE
-2022,Tunisia,Australia,2022-11-26,,,TRUE
-2022,France,Denmark,2022-11-26,,,TRUE
-2022,Poland,Saudi Arabia,2022-11-26,,,TRUE
+2022,Mexico,Argentina,2022-11-26,0,2,TRUE
+2022,Australia,Tunisia,2022-11-26,1,0,TRUE
+2022,Denmark,France,2022-11-26,1,2,TRUE
+2022,Saudi Arabia,Poland,2022-11-26,0,2,TRUE
 2022,Ecuador,Netherlands,2022-11-25,1,1,TRUE
 2022,United States,England,2022-11-25,0,0,TRUE
 2022,IR Iran,Wales,2022-11-25,2,0,TRUE
