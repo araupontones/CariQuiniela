@@ -1655,7 +1655,7 @@ date,team,rating
 2018-11-09,East Timor,651
 2018-10-12,East Timor,652
 2018-09-08,East Timor,646
-2022-11-29,Ecuador,
+2022-11-29,Ecuador,1823
 2022-11-25,Ecuador,1866
 2022-11-20,Ecuador,1851
 2022-11-12,Ecuador,1833
@@ -1783,7 +1783,8 @@ date,team,rating
 2018-10-13,El Salvador,1476
 2018-09-11,El Salvador,1471
 2018-06-02,El Salvador,
-2022-11-29,England,
+2022-12-04,England,
+2022-11-29,England,1945
 2022-11-25,England,1928
 2022-11-21,England,1940
 2022-09-26,England,1920
@@ -2746,7 +2747,7 @@ date,team,rating
 2018-10-10,Indonesia,1242
 2018-09-11,Indonesia,1236
 2018-01-14,Indonesia,1232
-2022-11-29,IR Iran,
+2022-11-29,IR Iran,1778
 2022-11-25,IR Iran,1808
 2022-11-21,IR Iran,1777
 2022-11-16,IR Iran,1797
@@ -4186,7 +4187,8 @@ date,team,rating
 2018-09-08,Nepal,923
 2018-09-06,Nepal,890
 2018-03-27,Nepal,
-2022-11-29,Netherlands,
+2022-12-03,Netherlands,
+2022-11-29,Netherlands,2038
 2022-11-25,Netherlands,2032
 2022-11-21,Netherlands,2047
 2022-09-25,Netherlands,2040
@@ -4835,7 +4837,7 @@ date,team,rating
 2018-11-16,Puerto Rico,1008
 2018-10-13,Puerto Rico,1016
 2018-09-09,Puerto Rico,1022
-2022-11-29,Qatar,
+2022-11-29,Qatar,1628
 2022-11-25,Qatar,1634
 2022-11-20,Qatar,1662
 2022-11-09,Qatar,1680
@@ -5178,7 +5180,8 @@ date,team,rating
 2018-05-29,Scotland,1714
 2018-03-27,Scotland,1719
 2018-03-23,Scotland,1709
-2022-11-29,Senegal,
+2022-12-04,Senegal,
+2022-11-29,Senegal,1751
 2022-11-25,Senegal,1708
 2022-11-21,Senegal,1680
 2022-09-27,Senegal,1687
@@ -6157,7 +6160,8 @@ date,team,rating
 2018-03-22,United Arab Emirates,1551
 2018-01-05,United Arab Emirates,1559
 2018-01-02,United Arab Emirates,1561
-2022-11-29,United States,
+2022-12-03,United States,
+2022-11-29,United States,1839
 2022-11-25,United States,1809
 2022-11-21,United States,1797
 2022-09-27,United States,1798
@@ -6373,7 +6377,7 @@ date,team,rating
 2018-11-16,Vietnam,1299
 2018-11-08,Vietnam,1290
 2018-03-27,Vietnam,1285
-2022-11-29,Wales,
+2022-11-29,Wales,1743
 2022-11-25,Wales,1760
 2022-11-21,Wales,1791
 2022-09-25,Wales,1790
