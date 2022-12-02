@@ -1,4 +1,6 @@
 year,team,Opponent,Date,goles_local,goles_visitante,qatar
+2022,Morocco,Spain,2022-12-06,,,TRUE
+2022,Japan,Croatia,2022-12-05,,,TRUE
 2022,England,Senegal,2022-12-04,,,TRUE
 2022,France,Poland,2022-12-04,,,TRUE
 2022,Argentina,Australia,2022-12-03,,,TRUE
@@ -7,10 +9,10 @@ year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,Ghana,Uruguay,2022-12-02,,,TRUE
 2022,Korea Republic,Portugal,2022-12-02,,,TRUE
 2022,Serbia,Switzerland,2022-12-02,,,TRUE
-2022,Croatia,Belgium,2022-12-01,,,TRUE
-2022,Canada,Morocco,2022-12-01,,,TRUE
-2022,Costa Rica,Germany,2022-12-01,,,TRUE
-2022,Japan,Spain,2022-12-01,,,TRUE
+2022,Belgium,Croatia,2022-12-01,0,0,TRUE
+2022,Morocco,Canada,2022-12-01,2,1,TRUE
+2022,Germany,Costa Rica,2022-12-01,4,2,TRUE
+2022,Spain,Japan,2022-12-01,1,2,TRUE
 2022,Argentina,Poland,2022-11-30,2,0,TRUE
 2022,Denmark,Australia,2022-11-30,0,1,TRUE
 2022,France,Tunisia,2022-11-30,0,1,TRUE

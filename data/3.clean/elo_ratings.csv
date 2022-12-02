@@ -576,7 +576,7 @@ date,team,rating
 2018-06-06,Belarus,1529
 2018-03-27,Belarus,1530
 2018-03-23,Belarus,1507
-2022-12-01,Belgium,
+2022-12-01,Belgium,1969
 2022-11-27,Belgium,1972
 2022-11-23,Belgium,2020
 2022-11-18,Belgium,2007
@@ -1025,7 +1025,7 @@ date,team,rating
 2018-09-08,Cameroon,1625
 2018-05-27,Cameroon,1643
 2018-03-25,Cameroon,1655
-2022-12-01,Canada,
+2022-12-01,Canada,1722
 2022-11-27,Canada,1745
 2022-11-23,Canada,1763
 2022-11-17,Canada,1776
@@ -1296,7 +1296,7 @@ date,team,rating
 2018-10-11,Congo,1408
 2018-09-09,Congo,1392
 2018-03-25,Congo,1393
-2022-12-01,Costa Rica,
+2022-12-01,Costa Rica,1755
 2022-11-27,Costa Rica,1772
 2022-11-23,Costa Rica,1734
 2022-11-09,Costa Rica,1743
@@ -1347,7 +1347,8 @@ date,team,rating
 2018-06-03,Costa Rica,1754
 2018-03-27,Costa Rica,1744
 2018-03-23,Costa Rica,1757
-2022-12-01,Croatia,
+2022-12-05,Croatia,
+2022-12-01,Croatia,1935
 2022-11-27,Croatia,1932
 2022-11-23,Croatia,1914
 2022-11-16,Croatia,1927
@@ -2198,7 +2199,7 @@ date,team,rating
 2018-06-01,Georgia,1507
 2018-03-27,Georgia,1504
 2018-03-24,Georgia,1492
-2022-12-01,Germany,
+2022-12-01,Germany,1947
 2022-11-27,Germany,1930
 2022-11-23,Germany,1919
 2022-11-16,Germany,1963
@@ -3024,7 +3025,8 @@ date,team,rating
 2018-04-26,Jamaica,1568
 2018-03-25,Jamaica,1561
 2018-01-30,Jamaica,1570
-2022-12-01,Japan,
+2022-12-05,Japan,
+2022-12-01,Japan,1842
 2022-11-27,Japan,1793
 2022-11-23,Japan,1831
 2022-11-17,Japan,1787
@@ -4025,7 +4027,8 @@ date,team,rating
 2021-03-24,Montserrat,875
 2018-11-16,Montserrat,732
 2018-10-14,Montserrat,681
-2022-12-01,Morocco,
+2022-12-06,Morocco,
+2022-12-01,Morocco,1850
 2022-11-27,Morocco,1827
 2022-11-23,Morocco,1779
 2022-11-17,Morocco,1766
@@ -5508,7 +5511,8 @@ date,team,rating
 2018-10-16,South Sudan,1038
 2018-10-12,South Sudan,1045
 2018-09-09,South Sudan,1049
-2022-12-01,Spain,
+2022-12-06,Spain,
+2022-12-01,Spain,1997
 2022-11-27,Spain,2046
 2022-11-23,Spain,2057
 2022-11-17,Spain,2048
