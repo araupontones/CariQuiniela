@@ -800,7 +800,8 @@ date,team,rating
 2018-05-30,Botswana,1296
 2018-05-28,Botswana,1297
 2018-04-18,Botswana,1278
-2022-12-02,Brazil,
+2022-12-05,Brazil,
+2022-12-02,Brazil,2132
 2022-11-28,Brazil,2190
 2022-11-24,Brazil,2179
 2022-09-27,Brazil,2169
@@ -988,7 +989,7 @@ date,team,rating
 2018-09-10,Cambodia,808
 2018-03-27,Cambodia,818
 2018-03-21,Cambodia,823
-2022-12-02,Cameroon,
+2022-12-02,Cameroon,1679
 2022-11-28,Cameroon,1621
 2022-11-24,Cameroon,1601
 2022-11-18,Cameroon,1610
@@ -2248,7 +2249,7 @@ date,team,rating
 2018-06-02,Germany,2076
 2018-03-27,Germany,2092
 2018-03-23,Germany,2104
-2022-12-02,Ghana,
+2022-12-02,Ghana,1601
 2022-11-28,Ghana,1611
 2022-11-24,Ghana,1563
 2022-11-17,Ghana,1567
@@ -3179,7 +3180,8 @@ date,team,rating
 2018-05-28,Kenya,1367
 2018-03-27,Kenya,1351
 2018-03-24,Kenya,1389
-2022-12-02,Korea Republic,
+2022-12-05,Korea Republic,
+2022-12-02,Korea Republic,1800
 2022-11-28,Korea Republic,1750
 2022-11-24,Korea Republic,1798
 2022-11-11,Korea Republic,1786
@@ -4782,7 +4784,8 @@ date,team,rating
 2018-06-08,Poland,1829
 2018-03-27,Poland,1831
 2018-03-23,Poland,1826
-2022-12-02,Portugal,
+2022-12-06,Portugal,
+2022-12-02,Portugal,1983
 2022-11-28,Portugal,2033
 2022-11-24,Portugal,2010
 2022-11-17,Portugal,2006
@@ -5235,7 +5238,7 @@ date,team,rating
 2018-05-31,Senegal,1740
 2018-03-27,Senegal,1747
 2018-03-23,Senegal,1747
-2022-12-02,Serbia,
+2022-12-02,Serbia,1841
 2022-11-28,Serbia,1868
 2022-11-24,Serbia,1888
 2022-11-18,Serbia,1898
@@ -5695,7 +5698,8 @@ date,team,rating
 2018-03-27,Sweden,1796
 2018-03-24,Sweden,1806
 2018-01-07,Sweden,1818
-2022-12-02,Switzerland,
+2022-12-06,Switzerland,
+2022-12-02,Switzerland,1927
 2022-11-28,Switzerland,1900
 2022-11-24,Switzerland,1911
 2022-11-17,Switzerland,1902
@@ -6221,7 +6225,7 @@ date,team,rating
 2018-05-28,United States,1763
 2018-03-27,United States,1754
 2018-01-28,United States,1747
-2022-12-02,Uruguay,
+2022-12-02,Uruguay,1911
 2022-11-28,Uruguay,1901
 2022-11-24,Uruguay,1924
 2022-09-27,Uruguay,1936
