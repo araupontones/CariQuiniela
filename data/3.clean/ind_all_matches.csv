@@ -1,9 +1,10 @@
 year,team,Opponent,Date,goles_local,goles_visitante,qatar
 2022,England,France,2022-12-10,,,TRUE
+2022,Morocco,Portugal,2022-12-10,,,TRUE
 2022,Netherlands,Argentina,2022-12-09,,,TRUE
 2022,Croatia,Brazil,2022-12-09,,,TRUE
-2022,Morocco,Spain,2022-12-06,,,TRUE
-2022,Portugal,Switzerland,2022-12-06,,,TRUE
+2022,Spain,Morocco,2022-12-06,0,0,TRUE
+2022,Switzerland,Portugal,2022-12-06,1,6,TRUE
 2022,Korea Republic,Brazil,2022-12-05,1,4,TRUE
 2022,Croatia,Japan,2022-12-05,1,1,TRUE
 2022,Senegal,England,2022-12-04,0,3,TRUE
