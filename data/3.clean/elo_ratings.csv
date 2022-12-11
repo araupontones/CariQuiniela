@@ -1792,7 +1792,7 @@ date,team,rating
 2018-10-13,El Salvador,1476
 2018-09-11,El Salvador,1471
 2018-06-02,El Salvador,
-2022-12-10,England,
+2022-12-10,England,1934
 2022-12-04,England,1960
 2022-11-29,England,1945
 2022-11-25,England,1928
@@ -2043,7 +2043,8 @@ date,team,rating
 2018-03-26,Finland,1604
 2018-03-23,Finland,1600
 2018-01-11,Finland,1602
-2022-12-10,France,
+2022-12-14,France,
+2022-12-10,France,2030
 2022-12-04,France,2004
 2022-11-30,France,1987
 2022-11-26,France,2040
@@ -4036,7 +4037,8 @@ date,team,rating
 2021-03-24,Montserrat,875
 2018-11-16,Montserrat,732
 2018-10-14,Montserrat,681
-2022-12-10,Morocco,
+2022-12-14,Morocco,
+2022-12-10,Morocco,1904
 2022-12-06,Morocco,1862
 2022-12-01,Morocco,1850
 2022-11-27,Morocco,1827
@@ -4793,7 +4795,7 @@ date,team,rating
 2018-06-08,Poland,1829
 2018-03-27,Poland,1831
 2018-03-23,Poland,1826
-2022-12-10,Portugal,
+2022-12-10,Portugal,1966
 2022-12-06,Portugal,2008
 2022-12-02,Portugal,1983
 2022-11-28,Portugal,2033
