@@ -199,6 +199,7 @@ date,team,rating
 2018-04-29,Antigua and Barbuda,1206
 2018-04-01,Antigua and Barbuda,1212
 2018-03-25,Antigua and Barbuda,1219
+2022-12-18,Argentina,
 2022-12-13,Argentina,2127
 2022-12-09,Argentina,2110
 2022-12-03,Argentina,2115
@@ -1351,6 +1352,7 @@ date,team,rating
 2018-06-03,Costa Rica,1754
 2018-03-27,Costa Rica,1744
 2018-03-23,Costa Rica,1757
+2022-12-17,Croatia,
 2022-12-13,Croatia,1926
 2022-12-09,Croatia,1943
 2022-12-05,Croatia,1927
@@ -2043,7 +2045,8 @@ date,team,rating
 2018-03-26,Finland,1604
 2018-03-23,Finland,1600
 2018-01-11,Finland,1602
-2022-12-14,France,
+2022-12-18,France,
+2022-12-14,France,2050
 2022-12-10,France,2030
 2022-12-04,France,2004
 2022-11-30,France,1987
@@ -4037,7 +4040,8 @@ date,team,rating
 2021-03-24,Montserrat,875
 2018-11-16,Montserrat,732
 2018-10-14,Montserrat,681
-2022-12-14,Morocco,
+2022-12-17,Morocco,
+2022-12-14,Morocco,1884
 2022-12-10,Morocco,1904
 2022-12-06,Morocco,1862
 2022-12-01,Morocco,1850
