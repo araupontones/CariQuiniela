@@ -8,24 +8,17 @@ library(ggplot2)
 #matches <- import("https://raw.githubusercontent.com/araupontones/CariQuiniela/main/tablita/tablita_gordo.csv")
 matches <- import('tablita/tablita_ols.csv')
 
-matches <- matches %>%
-  mutate(qatar =ifelse(is.na(qatar), FALSE, qatar),
-         GF = ifelse(qatar, NA, GF))
+matches <- rio::import("https://raw.githubusercontent.com/araupontones/CariQuiniela/walle/data/3.clean/tablita_ols.csv")
 
 
-names(matches)
 #Model ---------------------------------------------------------------------
 linearMod <- lm(GF ~ 
                   #performance team
                  # pre_rating_team +
                  #  pre_rating_opponent
                  
-                  + GF_last_5
-                #   + pre_rating_team
-                # + pre_rating_opponent
-                +GA_last_5_opponent
-                
-                  +dr_pre
+                 
+                  +magic_johnson_team
                 #efectividad_local
                  
                  
@@ -40,12 +33,12 @@ linearMod <- lm(GF ~
 summary(linearMod)
 
 
-
-
-  predicted_data <- matches %>% filter(is.na(GF))
+  predicted_data <- matches %>% filter(qatar)
   predicted_data$GF <- predict(linearMod, newdata = predicted_data) 
   
+  
   final <- predicted_data %>%
+    filter(!is.na(GF)) %>%
     select(date, team, opponent, GF) %>%
     left_join(select(predicted_data, c(date, team = opponent, GA = GF))) %>%
     rowwise() %>%
@@ -54,8 +47,23 @@ summary(linearMod)
     filter(!is.na(GA)) %>%
     group_by(id) %>%
     slice(1) %>%
-    ungroup()%>%
-    filter(date == "2022-11-23")
+    ungroup %>%
+     mutate(GF = round(GF),
+            GA = round(GA)) %>%
+    filter(date== "2022-12-10")
 
+  View(final)
+  pson <- function(x){
     
+   d<- janitor::tabyl(rpois(100,x)) %>% arrange(desc(percent))
+    
+   max(d$percent)
+    
+  }
+View(final)
+
+rpm(1.7944278)
+
+library(dplyr)
+
  

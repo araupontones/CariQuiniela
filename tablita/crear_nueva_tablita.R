@@ -60,11 +60,11 @@ matches <- rbind(all_matches, oponentes)
 
 suma_rol <- function(criteria){zoo::rollsum(criteria,5, align = 'left', fill = NA)}
 
-elos <- rio::import("data/3.clean/elo_ratings.csv")
+elos <- rio::import("data/3.clean/elo_ratings.csv") 
 
 
 tablita <- matches %>%
-  get_pre_rating(., elos) %>%
+  select(date, year, team,opponent, goles_team, goles_opponent,qatar) %>%
   #rename variables to ease its analysis
   rename(GF = goles_team,
          GA = goles_opponent
@@ -79,13 +79,29 @@ group_by(team) %>%
     ind_not_receive_goal = suma_rol(GA==0),
     ind_GF_last_5 = rollsum(GF, 5,align = 'left', fill = NA),
     ind_GA_last_5 = rollsum(GA, 5,align = 'left', fill = NA),
+    prev_date = lead(date),
     #so take the ones before the match
     across(starts_with("ind"), ~lead(.x)),
     .after = GA ) %>%
-  ungroup()%>%
-  select(date, year, team, opponent,GF,GA, starts_with("ind"), starts_with("pre"),qatar) %>%
+  select(date, year, team, opponent,GF,GA, starts_with("ind"),qatar, prev_date) %>%
   rename_at(vars(starts_with("ind_")), function(x)str_remove_all(x,"ind_")) %>%
   filter(year > 2017) %>%
+  ungroup() %>%
+  filter(!is.na(prev_date))  %>%
+  filter(! team %in% c("Eswatini", "Lesotho", "Tuvalu")) %>%
+  filter(! opponent %in% c("Eswatini", "Lesotho", "Tuvalu")) %>%
+  left_join(elos, by = c("prev_date" = "date", "team")) %>%
+  rename(pre_rating = rating)
+  
+  
+tablita_ratings <- tablita %>%
+  select(opponent = team,
+         date,
+         pre_rating
+         ) %>%
+  left_join(tablita, by=c("opponent", "date"), suffix = c("_opponent", "_team")) %>%
+  relocate(date, team, opponent, GF, GA, starts_with("rating")) %>%
+  select(-prev_date) %>%
 #calculate elo
 mutate(
   result = result(GF, GA),
@@ -93,12 +109,13 @@ mutate(
   rating = elo_score(pre_rating_team, 60, result, magic_johnson)
 ) 
 
+
 #Export latest ratings
 
-ratings <- tablita %>%
-  select(date, year, team, magic_johnson, rating) %>%
-  filter(!is.na(magic_johnson)) %>%
-  arrange(team,desc(year), desc(date))
+ratings <- tablita_ratings %>%
+  select(date, team, rating) %>%
+  filter(!is.na(rating)) %>%
+  arrange(team, desc(date))
 
 
 rio::export(ratings, "data/3.clean/elo_ratings.csv")
@@ -107,7 +124,7 @@ rio::export(ratings, "data/3.clean/elo_ratings.csv")
 
 #create table for OLS ==========================================================
 
-opponents <- tablita %>%
+opponents <- tablita_ratings %>%
   select(team, date, GA_last_5, not_receive_goal, magic_johnson)
 tablita_final <- tablita %>%
   left_join(opponents, by = c("opponent" = "team", "date"), suffix = c("_team", "_opponent"))
@@ -121,9 +138,9 @@ roys <- all_matches %>%
   filter(year > 2017) %>%
   select(date,team) %>%
   #get indicators of team
-  left_join(select(tablita,-c(year), - result), by= c("team","date")) %>%
+  left_join(select(tablita_ratings,-c(year), - result), by= c("team","date")) %>%
   #get indicators of opponent & dropping duplicated variables
-  left_join(select(tablita,
+  left_join(select(tablita_ratings,
                    -c(starts_with('pre'),
                       starts_with('post'),
                       year,
