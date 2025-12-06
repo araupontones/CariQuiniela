@@ -52,6 +52,7 @@ date,team,rating
 2018-06-03,Albania,1560
 2018-05-29,Albania,1570
 2018-03-26,Albania,1596
+2026-06-16,Algeria,
 2022-11-19,Algeria,1690
 2022-11-16,Algeria,1717
 2022-09-27,Algeria,1722
@@ -199,6 +200,7 @@ date,team,rating
 2018-04-29,Antigua and Barbuda,1206
 2018-04-01,Antigua and Barbuda,1212
 2018-03-25,Antigua and Barbuda,1219
+2026-06-16,Argentina,
 2022-12-18,Argentina,2120
 2022-12-13,Argentina,2127
 2022-12-09,Argentina,2110
@@ -295,6 +297,7 @@ date,team,rating
 2021-03-27,Aruba,885
 2018-11-16,Aruba,931
 2018-10-16,Aruba,982
+2026-06-16,Australia,
 2022-12-03,Australia,1777
 2022-11-30,Australia,1785
 2022-11-26,Australia,1740
@@ -579,6 +582,7 @@ date,team,rating
 2018-06-06,Belarus,1529
 2018-03-27,Belarus,1530
 2018-03-23,Belarus,1507
+2026-06-15,Belgium,
 2022-12-01,Belgium,1969
 2022-11-27,Belgium,1972
 2022-11-23,Belgium,2020
@@ -803,6 +807,7 @@ date,team,rating
 2018-05-30,Botswana,1296
 2018-05-28,Botswana,1297
 2018-04-18,Botswana,1278
+2026-06-13,Brazil,
 2022-12-09,Brazil,2124
 2022-12-05,Brazil,2140
 2022-12-02,Brazil,2132
@@ -1070,6 +1075,7 @@ date,team,rating
 2018-11-18,Canada,1547
 2018-10-16,Canada,1537
 2018-03-24,Canada,
+2026-06-15,Cape Verde,
 2022-09-23,Cape Verde,1505
 2022-06-11,Cape Verde,1471
 2022-06-07,Cape Verde,1473
@@ -1210,6 +1216,7 @@ date,team,rating
 2018-05-26,China,1521
 2018-03-26,China,1520
 2018-03-22,China,1542
+2026-06-17,Colombia,
 2022-11-19,Colombia,1927
 2022-09-27,Colombia,1911
 2022-09-24,Colombia,1903
@@ -1352,6 +1359,7 @@ date,team,rating
 2018-06-03,Costa Rica,1754
 2018-03-27,Costa Rica,1744
 2018-03-23,Costa Rica,1757
+2026-06-17,Croatia,
 2022-12-17,Croatia,1952
 2022-12-13,Croatia,1926
 2022-12-09,Croatia,1943
@@ -1436,6 +1444,7 @@ date,team,rating
 2018-09-10,CuraÃ§ao,1309
 2018-03-26,CuraÃ§ao,1293
 2018-03-23,CuraÃ§ao,1276
+2026-06-14,Curaçao,
 2022-09-27,Curaçao,1354
 2022-09-24,Curaçao,1395
 2022-06-09,Curaçao,1407
@@ -1666,6 +1675,7 @@ date,team,rating
 2018-11-09,East Timor,651
 2018-10-12,East Timor,652
 2018-09-08,East Timor,646
+2026-06-14,Ecuador,
 2022-11-29,Ecuador,1823
 2022-11-25,Ecuador,1866
 2022-11-20,Ecuador,1851
@@ -1707,6 +1717,7 @@ date,team,rating
 2018-10-12,Ecuador,1747
 2018-09-11,Ecuador,1761
 2018-09-07,Ecuador,1755
+2026-06-15,Egypt,
 2022-11-18,Egypt,1698
 2022-09-27,Egypt,1644
 2022-09-23,Egypt,1640
@@ -1794,6 +1805,7 @@ date,team,rating
 2018-10-13,El Salvador,1476
 2018-09-11,El Salvador,1471
 2018-06-02,El Salvador,
+2026-06-17,England,
 2022-12-10,England,1934
 2022-12-04,England,1960
 2022-11-29,England,1945
@@ -2045,6 +2057,7 @@ date,team,rating
 2018-03-26,Finland,1604
 2018-03-23,Finland,1600
 2018-01-11,Finland,1602
+2026-06-16,France,
 2022-12-18,France,2057
 2022-12-14,France,2050
 2022-12-10,France,2030
@@ -2211,6 +2224,7 @@ date,team,rating
 2018-06-01,Georgia,1507
 2018-03-27,Georgia,1504
 2018-03-24,Georgia,1492
+2026-06-14,Germany,
 2022-12-01,Germany,1947
 2022-11-27,Germany,1930
 2022-11-23,Germany,1919
@@ -2260,6 +2274,7 @@ date,team,rating
 2018-06-02,Germany,2076
 2018-03-27,Germany,2092
 2018-03-23,Germany,2104
+2026-06-17,Ghana,
 2022-12-02,Ghana,1601
 2022-11-28,Ghana,1611
 2022-11-24,Ghana,1563
@@ -2525,6 +2540,7 @@ date,team,rating
 2018-11-20,Guyana,1184
 2018-10-13,Guyana,1193
 2018-09-06,Guyana,1180
+2026-06-13,Haiti,
 2022-06-14,Haiti,1533
 2022-06-11,Haiti,1525
 2022-06-07,Haiti,1506
@@ -2967,6 +2983,7 @@ date,team,rating
 2018-05-28,Italy,1901
 2018-03-27,Italy,1898
 2018-03-23,Italy,1894
+2026-06-14,Ivory Coast,
 2022-11-19,Ivory Coast,1645
 2022-11-16,Ivory Coast,1683
 2022-09-27,Ivory Coast,1680
@@ -3037,6 +3054,7 @@ date,team,rating
 2018-04-26,Jamaica,1568
 2018-03-25,Jamaica,1561
 2018-01-30,Jamaica,1570
+2026-06-14,Japan,
 2022-12-05,Japan,1850
 2022-12-01,Japan,1842
 2022-11-27,Japan,1793
@@ -3085,6 +3103,7 @@ date,team,rating
 2018-05-30,Japan,1670
 2018-03-27,Japan,1692
 2018-03-23,Japan,1701
+2026-06-16,Jordan,
 2022-11-17,Jordan,1589
 2022-09-26,Jordan,1593
 2022-09-23,Jordan,1583
@@ -3863,6 +3882,7 @@ date,team,rating
 2018-05-28,Mauritius,1107
 2018-03-27,Mauritius,1075
 2018-03-22,Mauritius,1071
+2026-06-11,Mexico,
 2022-11-30,Mexico,1818
 2022-11-26,Mexico,1799
 2022-11-22,Mexico,1809
@@ -4040,6 +4060,7 @@ date,team,rating
 2021-03-24,Montserrat,875
 2018-11-16,Montserrat,732
 2018-10-14,Montserrat,681
+2026-06-13,Morocco,
 2022-12-17,Morocco,1858
 2022-12-14,Morocco,1884
 2022-12-10,Morocco,1904
@@ -4209,6 +4230,7 @@ date,team,rating
 2018-09-08,Nepal,923
 2018-09-06,Nepal,890
 2018-03-27,Nepal,
+2026-06-14,Netherlands,
 2022-12-09,Netherlands,2057
 2022-12-03,Netherlands,2052
 2022-11-29,Netherlands,2038
@@ -4582,6 +4604,7 @@ date,team,rating
 2018-05-08,Palestine,1401
 2018-03-27,Palestine,1395
 2018-03-22,Palestine,1404
+2026-06-17,Panama,
 2022-11-18,Panama,1644
 2022-11-15,Panama,1647
 2022-11-10,Panama,1646
@@ -4643,6 +4666,7 @@ date,team,rating
 2022-03-24,Papua New Guinea,1196
 2022-03-21,Papua New Guinea,1172
 2022-03-18,Papua New Guinea,1146
+2026-06-12,Paraguay,
 2022-11-19,Paraguay,1718
 2022-11-16,Paraguay,1734
 2022-09-27,Paraguay,1739
@@ -4863,6 +4887,7 @@ date,team,rating
 2018-11-16,Puerto Rico,1008
 2018-10-13,Puerto Rico,1016
 2018-09-09,Puerto Rico,1022
+2026-06-13,Qatar,
 2022-11-29,Qatar,1628
 2022-11-25,Qatar,1634
 2022-11-20,Qatar,1662
@@ -5112,6 +5137,7 @@ date,team,rating
 2022-03-27,São Tomé and Príncipe,1087
 2022-03-24,São Tomé and Príncipe,1088
 2021-03-28,São Tomé and Príncipe,1067
+2026-06-15,Saudi Arabia,
 2022-11-30,Saudi Arabia,1653
 2022-11-26,Saudi Arabia,1672
 2022-11-22,Saudi Arabia,1692
@@ -5163,6 +5189,7 @@ date,team,rating
 2018-03-23,Saudi Arabia,1563
 2018-02-28,Saudi Arabia,1558
 2018-02-26,Saudi Arabia,1571
+2026-06-13,Scotland,
 2022-11-16,Scotland,1725
 2022-09-27,Scotland,1761
 2022-09-24,Scotland,1757
@@ -5206,6 +5233,7 @@ date,team,rating
 2018-05-29,Scotland,1714
 2018-03-27,Scotland,1719
 2018-03-23,Scotland,1709
+2026-06-16,Senegal,
 2022-12-04,Senegal,1736
 2022-11-29,Senegal,1751
 2022-11-25,Senegal,1708
@@ -5475,6 +5503,7 @@ date,team,rating
 2018-09-05,Solomon Islands,1205
 2018-08-29,Solomon Islands,1202
 2021-06-20,Somalia,
+2026-06-11,South Africa,
 2022-11-20,South Africa,1537
 2022-11-17,South Africa,1549
 2022-09-27,South Africa,1546
@@ -5530,6 +5559,7 @@ date,team,rating
 2018-10-16,South Sudan,1038
 2018-10-12,South Sudan,1045
 2018-09-09,South Sudan,1049
+2026-06-15,Spain,
 2022-12-06,Spain,1985
 2022-12-01,Spain,1997
 2022-11-27,Spain,2046
@@ -5714,6 +5744,7 @@ date,team,rating
 2018-03-27,Sweden,1796
 2018-03-24,Sweden,1806
 2018-01-07,Sweden,1818
+2026-06-13,Switzerland,
 2022-12-06,Switzerland,1902
 2022-12-02,Switzerland,1927
 2022-11-28,Switzerland,1900
@@ -6188,6 +6219,7 @@ date,team,rating
 2018-03-22,United Arab Emirates,1551
 2018-01-05,United Arab Emirates,1559
 2018-01-02,United Arab Emirates,1561
+2026-06-12,United States,
 2022-12-03,United States,1825
 2022-11-29,United States,1839
 2022-11-25,United States,1809
@@ -6241,6 +6273,7 @@ date,team,rating
 2018-05-28,United States,1763
 2018-03-27,United States,1754
 2018-01-28,United States,1747
+2026-06-15,Uruguay,
 2022-12-02,Uruguay,1911
 2022-11-28,Uruguay,1901
 2022-11-24,Uruguay,1924
@@ -6297,6 +6330,7 @@ date,team,rating
 2021-03-21,US Virgin Islands,702
 2018-11-18,US Virgin Islands,715
 2018-10-12,US Virgin Islands,718
+2026-06-17,Uzbekistan,
 2022-11-20,Uzbekistan,1586
 2022-11-16,Uzbekistan,1571
 2022-09-27,Uzbekistan,1566
